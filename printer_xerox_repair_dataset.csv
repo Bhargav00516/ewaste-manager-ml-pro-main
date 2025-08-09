@@ -1,0 +1,1001 @@
+Brand,Type,Year_of_Purchase,Problem,Decision,Cost
+Canon,LASER,2018,no power,REPLACE,-1.0
+Kyocera,LASER,2022,ink/toner low,REPAIR,4107.74
+Xerox,MULTIFUNCTION,2021,paper jam,REPAIR,7073.98
+Canon,MULTIFUNCTION,2024,overheating,REPLACE,-1.0
+Canon,MULTIFUNCTION,2023,printing faded,REPAIR,9012.07
+HP,MULTIFUNCTION,2024,paper jam,REPAIR,10384.27
+HP,MULTIFUNCTION,2014,scanner not working,REPAIR,14387.57
+Brother,MULTIFUNCTION,2018,ink/toner low,REPAIR,13376.84
+HP,INKJET,2020,scanner not working,REPAIR,2537.81
+HP,DOT MATRIX,2014,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2024,scanner not working,REPAIR,10299.02
+Canon,DOT MATRIX,2024,ink/toner low,REPAIR,3674.77
+Ricoh,LASER,2020,mechanical failure,REPLACE,-1.0
+HP,INKJET,2014,printing faded,REPAIR,3244.55
+Brother,MULTIFUNCTION,2017,ink/toner low,REPAIR,14013.41
+Kyocera,LASER,2016,printing faded,REPAIR,14896.55
+Brother,MULTIFUNCTION,2020,mechanical failure,REPLACE,-1.0
+Brother,LASER,2018,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2017,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2023,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2024,overheating,REPLACE,-1.0
+Xerox,DOT MATRIX,2021,paper jam,REPAIR,3277.74
+Canon,MULTIFUNCTION,2021,ink/toner low,REPAIR,8010.1
+HP,LASER,2020,overheating,REPLACE,-1.0
+HP,MULTIFUNCTION,2023,no power,REPLACE,-1.0
+Kyocera,LASER,2021,scanner not working,REPAIR,13813.08
+Kyocera,MULTIFUNCTION,2024,scanner not working,REPAIR,6318.07
+Canon,MULTIFUNCTION,2017,paper jam,REPAIR,12024.71
+Brother,LASER,2016,scanner not working,REPAIR,9154.07
+Canon,INKJET,2023,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2019,ink/toner low,REPAIR,13757.73
+Kyocera,MULTIFUNCTION,2023,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2023,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2018,no power,REPLACE,-1.0
+Xerox,LASER,2017,overheating,REPLACE,-1.0
+Epson,INKJET,2015,ink/toner low,REPAIR,2890.39
+Xerox,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2022,paper jam,REPAIR,8999.15
+Canon,INKJET,2021,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2017,mechanical failure,REPLACE,-1.0
+Brother,LASER,2024,overheating,REPLACE,-1.0
+HP,MULTIFUNCTION,2014,ink/toner low,REPAIR,9599.6
+HP,DOT MATRIX,2017,ink/toner low,REPAIR,616.61
+Kyocera,MULTIFUNCTION,2014,scanner not working,REPAIR,13529.67
+Ricoh,LASER,2016,ink/toner low,REPAIR,7124.1
+Canon,DOT MATRIX,2021,paper jam,REPAIR,1889.43
+Brother,MULTIFUNCTION,2019,mechanical failure,REPLACE,-1.0
+HP,INKJET,2016,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+HP,INKJET,2017,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2023,no power,REPLACE,-1.0
+Brother,INKJET,2018,no power,REPLACE,-1.0
+Ricoh,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Epson,DOT MATRIX,2020,scanner not working,REPAIR,1245.83
+Kyocera,DOT MATRIX,2023,mechanical failure,REPLACE,-1.0
+Xerox,INKJET,2020,no power,REPLACE,-1.0
+Epson,LASER,2022,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2015,printing faded,REPAIR,14574.08
+Brother,LASER,2024,scanner not working,REPAIR,14982.84
+HP,LASER,2018,scanner not working,REPAIR,14834.8
+Ricoh,DOT MATRIX,2021,no power,REPLACE,-1.0
+Canon,INKJET,2021,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2018,ink/toner low,REPAIR,7118.14
+HP,LASER,2017,paper jam,REPAIR,11926.7
+Canon,DOT MATRIX,2014,scanner not working,REPAIR,2686.36
+Canon,DOT MATRIX,2018,paper jam,REPAIR,718.33
+Ricoh,MULTIFUNCTION,2024,ink/toner low,REPAIR,5983.92
+Brother,LASER,2018,ink/toner low,REPAIR,9839.15
+Brother,LASER,2020,paper jam,REPAIR,7542.16
+Canon,LASER,2015,scanner not working,REPAIR,11935.86
+Brother,INKJET,2021,paper jam,REPAIR,1945.8
+Ricoh,INKJET,2020,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2022,scanner not working,REPAIR,10143.67
+Xerox,INKJET,2023,paper jam,REPAIR,3679.5
+Brother,DOT MATRIX,2015,mechanical failure,REPLACE,-1.0
+Epson,LASER,2023,ink/toner low,REPAIR,13799.39
+Kyocera,DOT MATRIX,2018,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2024,no power,REPLACE,-1.0
+Epson,INKJET,2022,paper jam,REPAIR,1732.69
+Canon,DOT MATRIX,2018,ink/toner low,REPAIR,3745.94
+Ricoh,DOT MATRIX,2022,overheating,REPLACE,-1.0
+Ricoh,INKJET,2018,overheating,REPLACE,-1.0
+Ricoh,INKJET,2017,no power,REPLACE,-1.0
+Ricoh,LASER,2020,scanner not working,REPAIR,8138.3
+Brother,DOT MATRIX,2018,ink/toner low,REPAIR,3758.97
+Canon,MULTIFUNCTION,2015,paper jam,REPAIR,12358.1
+Canon,DOT MATRIX,2015,mechanical failure,REPLACE,-1.0
+Brother,DOT MATRIX,2016,no power,REPLACE,-1.0
+HP,LASER,2021,printing faded,REPAIR,4727.45
+HP,MULTIFUNCTION,2016,no power,REPLACE,-1.0
+Brother,DOT MATRIX,2018,ink/toner low,REPAIR,1186.32
+Epson,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2019,no power,REPLACE,-1.0
+HP,LASER,2014,paper jam,REPAIR,11215.85
+Kyocera,MULTIFUNCTION,2020,printing faded,REPAIR,8492.43
+Kyocera,INKJET,2015,overheating,REPLACE,-1.0
+Canon,INKJET,2015,printing faded,REPAIR,2533.01
+Epson,MULTIFUNCTION,2024,paper jam,REPAIR,5229.72
+HP,DOT MATRIX,2019,scanner not working,REPAIR,3700.43
+HP,INKJET,2018,ink/toner low,REPAIR,656.08
+Brother,INKJET,2021,ink/toner low,REPAIR,2102.33
+Canon,INKJET,2023,ink/toner low,REPAIR,1879.06
+Brother,DOT MATRIX,2016,printing faded,REPAIR,3724.61
+Epson,DOT MATRIX,2021,paper jam,REPAIR,845.87
+Xerox,MULTIFUNCTION,2022,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2020,printing faded,REPAIR,3449.65
+Canon,LASER,2019,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2022,scanner not working,REPAIR,11964.21
+Epson,INKJET,2021,printing faded,REPAIR,3370.65
+Canon,INKJET,2019,no power,REPLACE,-1.0
+Ricoh,INKJET,2021,scanner not working,REPAIR,1397.91
+Canon,LASER,2015,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2023,overheating,REPLACE,-1.0
+Canon,INKJET,2020,no power,REPLACE,-1.0
+Ricoh,INKJET,2015,paper jam,REPAIR,1018.41
+Kyocera,DOT MATRIX,2017,printing faded,REPAIR,1743.47
+Brother,LASER,2015,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2020,printing faded,REPAIR,10789.62
+Xerox,INKJET,2024,mechanical failure,REPLACE,-1.0
+Epson,MULTIFUNCTION,2019,overheating,REPLACE,-1.0
+Canon,INKJET,2020,no power,REPLACE,-1.0
+HP,INKJET,2014,ink/toner low,REPAIR,1828.25
+Brother,MULTIFUNCTION,2024,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2021,paper jam,REPAIR,12580.63
+Ricoh,INKJET,2019,overheating,REPLACE,-1.0
+Epson,DOT MATRIX,2021,ink/toner low,REPAIR,2384.24
+Brother,LASER,2018,ink/toner low,REPAIR,8965.61
+Xerox,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+Ricoh,LASER,2023,overheating,REPLACE,-1.0
+Kyocera,LASER,2014,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2015,ink/toner low,REPAIR,2537.89
+Epson,MULTIFUNCTION,2020,no power,REPLACE,-1.0
+HP,INKJET,2019,paper jam,REPAIR,1410.84
+Epson,INKJET,2024,overheating,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2021,no power,REPLACE,-1.0
+Epson,INKJET,2020,scanner not working,REPAIR,1897.26
+Ricoh,LASER,2023,overheating,REPLACE,-1.0
+Ricoh,LASER,2021,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2024,no power,REPLACE,-1.0
+Epson,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+Canon,DOT MATRIX,2019,paper jam,REPAIR,503.8
+Xerox,MULTIFUNCTION,2024,overheating,REPLACE,-1.0
+Epson,LASER,2024,overheating,REPLACE,-1.0
+Ricoh,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Brother,DOT MATRIX,2023,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2014,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2020,paper jam,REPAIR,2323.61
+Ricoh,LASER,2015,paper jam,REPAIR,5623.42
+Epson,INKJET,2018,ink/toner low,REPAIR,2294.74
+HP,DOT MATRIX,2022,scanner not working,REPAIR,940.67
+Ricoh,DOT MATRIX,2017,no power,REPLACE,-1.0
+Epson,INKJET,2021,paper jam,REPAIR,2063.26
+HP,MULTIFUNCTION,2021,scanner not working,REPAIR,11282.82
+Epson,INKJET,2023,ink/toner low,REPAIR,518.93
+Canon,LASER,2022,ink/toner low,REPAIR,11219.08
+Canon,MULTIFUNCTION,2023,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2014,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+Kyocera,INKJET,2020,paper jam,REPAIR,2130.34
+Xerox,MULTIFUNCTION,2023,paper jam,REPAIR,13497.08
+Kyocera,MULTIFUNCTION,2015,no power,REPLACE,-1.0
+Brother,DOT MATRIX,2022,overheating,REPLACE,-1.0
+Brother,LASER,2017,overheating,REPLACE,-1.0
+Ricoh,DOT MATRIX,2024,printing faded,REPAIR,766.41
+Canon,DOT MATRIX,2016,scanner not working,REPAIR,3801.94
+Epson,LASER,2020,printing faded,REPAIR,6327.42
+Canon,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2017,ink/toner low,REPAIR,6931.11
+Kyocera,LASER,2023,overheating,REPLACE,-1.0
+Ricoh,INKJET,2022,ink/toner low,REPAIR,3505.36
+Epson,INKJET,2019,overheating,REPLACE,-1.0
+HP,INKJET,2020,printing faded,REPAIR,1549.36
+Epson,MULTIFUNCTION,2018,scanner not working,REPAIR,9141.13
+Ricoh,INKJET,2018,printing faded,REPAIR,953.27
+Brother,LASER,2024,ink/toner low,REPAIR,10338.62
+Brother,MULTIFUNCTION,2023,ink/toner low,REPAIR,14363.61
+HP,MULTIFUNCTION,2020,scanner not working,REPAIR,10636.25
+Ricoh,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Brother,MULTIFUNCTION,2016,mechanical failure,REPLACE,-1.0
+HP,DOT MATRIX,2021,overheating,REPLACE,-1.0
+Xerox,INKJET,2017,scanner not working,REPAIR,2296.35
+Ricoh,DOT MATRIX,2018,no power,REPLACE,-1.0
+Ricoh,DOT MATRIX,2020,scanner not working,REPAIR,3692.8
+Ricoh,LASER,2022,paper jam,REPAIR,10738.98
+Xerox,LASER,2023,overheating,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+Kyocera,INKJET,2018,no power,REPLACE,-1.0
+HP,INKJET,2014,ink/toner low,REPAIR,3822.32
+Ricoh,INKJET,2023,scanner not working,REPAIR,2209.56
+HP,LASER,2022,paper jam,REPAIR,12411.38
+Kyocera,INKJET,2021,printing faded,REPAIR,3330.18
+Xerox,INKJET,2015,ink/toner low,REPAIR,1503.48
+Xerox,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2014,no power,REPLACE,-1.0
+Canon,INKJET,2015,scanner not working,REPAIR,2208.45
+Ricoh,DOT MATRIX,2016,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2020,scanner not working,REPAIR,3288.27
+HP,INKJET,2018,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2015,printing faded,REPAIR,11504.5
+Brother,DOT MATRIX,2020,scanner not working,REPAIR,2489.93
+Epson,MULTIFUNCTION,2014,scanner not working,REPAIR,8578.94
+Canon,INKJET,2017,no power,REPLACE,-1.0
+HP,LASER,2017,ink/toner low,REPAIR,7539.07
+Kyocera,MULTIFUNCTION,2024,ink/toner low,REPAIR,8202.45
+Brother,DOT MATRIX,2024,paper jam,REPAIR,3189.99
+Epson,INKJET,2021,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2021,ink/toner low,REPAIR,2686.94
+Epson,LASER,2016,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2023,scanner not working,REPAIR,13946.38
+Canon,INKJET,2023,overheating,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+HP,LASER,2018,mechanical failure,REPLACE,-1.0
+Epson,DOT MATRIX,2020,paper jam,REPAIR,1647.77
+Ricoh,MULTIFUNCTION,2022,overheating,REPLACE,-1.0
+Canon,LASER,2022,ink/toner low,REPAIR,14625.1
+Epson,INKJET,2016,printing faded,REPAIR,2344.85
+Ricoh,MULTIFUNCTION,2014,printing faded,REPAIR,10192.89
+Ricoh,INKJET,2015,overheating,REPLACE,-1.0
+Kyocera,LASER,2023,printing faded,REPAIR,4305.42
+Canon,INKJET,2021,paper jam,REPAIR,881.78
+Epson,LASER,2021,scanner not working,REPAIR,11885.43
+Epson,MULTIFUNCTION,2019,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2022,paper jam,REPAIR,5802.09
+Canon,DOT MATRIX,2018,no power,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2016,ink/toner low,REPAIR,9757.11
+Xerox,LASER,2020,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2024,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2023,no power,REPLACE,-1.0
+Canon,DOT MATRIX,2018,ink/toner low,REPAIR,946.36
+Kyocera,DOT MATRIX,2022,overheating,REPLACE,-1.0
+Epson,DOT MATRIX,2015,scanner not working,REPAIR,1628.12
+Canon,INKJET,2023,mechanical failure,REPLACE,-1.0
+Epson,MULTIFUNCTION,2023,paper jam,REPAIR,5549.81
+Epson,INKJET,2020,mechanical failure,REPLACE,-1.0
+Brother,MULTIFUNCTION,2021,scanner not working,REPAIR,9860.24
+Canon,INKJET,2021,printing faded,REPAIR,1502.7
+Epson,DOT MATRIX,2024,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2022,mechanical failure,REPLACE,-1.0
+Ricoh,LASER,2022,scanner not working,REPAIR,5520.45
+Ricoh,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+Brother,LASER,2016,scanner not working,REPAIR,6585.37
+Epson,MULTIFUNCTION,2015,overheating,REPLACE,-1.0
+Kyocera,INKJET,2016,paper jam,REPAIR,1977.51
+Kyocera,INKJET,2016,paper jam,REPAIR,1682.68
+Brother,LASER,2019,printing faded,REPAIR,7967.96
+Brother,LASER,2024,no power,REPLACE,-1.0
+Xerox,DOT MATRIX,2021,overheating,REPLACE,-1.0
+Ricoh,INKJET,2019,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2022,ink/toner low,REPAIR,14407.43
+Epson,INKJET,2017,no power,REPLACE,-1.0
+Canon,INKJET,2021,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2018,paper jam,REPAIR,4801.65
+Canon,MULTIFUNCTION,2019,scanner not working,REPAIR,7470.4
+Canon,DOT MATRIX,2023,printing faded,REPAIR,3738.12
+Kyocera,LASER,2016,paper jam,REPAIR,9948.15
+Ricoh,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2024,printing faded,REPAIR,11141.46
+Xerox,MULTIFUNCTION,2018,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+Brother,INKJET,2018,no power,REPLACE,-1.0
+Kyocera,DOT MATRIX,2019,printing faded,REPAIR,756.64
+Epson,DOT MATRIX,2024,scanner not working,REPAIR,1301.2
+Xerox,DOT MATRIX,2021,overheating,REPLACE,-1.0
+Canon,INKJET,2021,overheating,REPLACE,-1.0
+Kyocera,INKJET,2019,paper jam,REPAIR,1198.92
+Xerox,DOT MATRIX,2014,printing faded,REPAIR,3286.91
+Xerox,DOT MATRIX,2019,paper jam,REPAIR,3862.3
+Ricoh,INKJET,2017,ink/toner low,REPAIR,1187.25
+Xerox,DOT MATRIX,2018,scanner not working,REPAIR,967.27
+Canon,DOT MATRIX,2023,scanner not working,REPAIR,2733.08
+Canon,INKJET,2019,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2019,scanner not working,REPAIR,6712.36
+Ricoh,LASER,2021,no power,REPLACE,-1.0
+Epson,DOT MATRIX,2016,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2016,overheating,REPLACE,-1.0
+Epson,INKJET,2022,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2024,paper jam,REPAIR,10607.9
+Ricoh,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Xerox,LASER,2024,printing faded,REPAIR,12071.68
+HP,DOT MATRIX,2018,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2019,printing faded,REPAIR,6135.58
+HP,DOT MATRIX,2021,overheating,REPLACE,-1.0
+Kyocera,INKJET,2021,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2023,scanner not working,REPAIR,14749.5
+Ricoh,MULTIFUNCTION,2018,ink/toner low,REPAIR,4846.88
+Epson,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+Epson,DOT MATRIX,2014,scanner not working,REPAIR,639.46
+HP,INKJET,2014,printing faded,REPAIR,2803.4
+Ricoh,INKJET,2015,paper jam,REPAIR,2286.16
+Kyocera,DOT MATRIX,2015,ink/toner low,REPAIR,2536.38
+HP,INKJET,2024,paper jam,REPAIR,2144.08
+HP,LASER,2024,overheating,REPLACE,-1.0
+HP,LASER,2017,no power,REPLACE,-1.0
+HP,INKJET,2021,no power,REPLACE,-1.0
+Xerox,DOT MATRIX,2021,printing faded,REPAIR,3727.56
+HP,MULTIFUNCTION,2022,scanner not working,REPAIR,7229.59
+Kyocera,DOT MATRIX,2018,ink/toner low,REPAIR,1065.03
+Brother,DOT MATRIX,2022,overheating,REPLACE,-1.0
+Canon,LASER,2022,mechanical failure,REPLACE,-1.0
+HP,INKJET,2014,overheating,REPLACE,-1.0
+Epson,MULTIFUNCTION,2024,scanner not working,REPAIR,6483.38
+Ricoh,MULTIFUNCTION,2016,no power,REPLACE,-1.0
+Xerox,INKJET,2022,printing faded,REPAIR,2072.14
+Canon,LASER,2017,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2017,paper jam,REPAIR,545.46
+Xerox,DOT MATRIX,2018,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2015,scanner not working,REPAIR,3096.65
+Xerox,LASER,2018,paper jam,REPAIR,6931.9
+Ricoh,MULTIFUNCTION,2016,ink/toner low,REPAIR,10133.76
+Epson,DOT MATRIX,2021,paper jam,REPAIR,2016.89
+Epson,INKJET,2014,overheating,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2022,scanner not working,REPAIR,8970.62
+HP,INKJET,2014,scanner not working,REPAIR,1250.85
+Xerox,DOT MATRIX,2014,paper jam,REPAIR,1566.29
+Epson,DOT MATRIX,2016,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2022,ink/toner low,REPAIR,3672.78
+Canon,DOT MATRIX,2019,paper jam,REPAIR,1375.85
+Brother,LASER,2017,ink/toner low,REPAIR,14153.9
+Brother,MULTIFUNCTION,2015,scanner not working,REPAIR,13086.02
+Ricoh,MULTIFUNCTION,2015,ink/toner low,REPAIR,13831.39
+Brother,LASER,2015,printing faded,REPAIR,13622.56
+Xerox,INKJET,2022,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2022,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2019,ink/toner low,REPAIR,980.87
+Canon,LASER,2018,overheating,REPLACE,-1.0
+Canon,INKJET,2022,ink/toner low,REPAIR,2888.81
+HP,MULTIFUNCTION,2019,paper jam,REPAIR,10361.55
+Xerox,INKJET,2017,paper jam,REPAIR,3650.17
+Ricoh,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Ricoh,LASER,2019,mechanical failure,REPLACE,-1.0
+HP,DOT MATRIX,2017,printing faded,REPAIR,3593.26
+Kyocera,LASER,2019,paper jam,REPAIR,4393.69
+Ricoh,INKJET,2014,printing faded,REPAIR,1843.39
+HP,DOT MATRIX,2018,paper jam,REPAIR,2188.8
+Brother,DOT MATRIX,2023,no power,REPLACE,-1.0
+Ricoh,INKJET,2021,mechanical failure,REPLACE,-1.0
+Canon,LASER,2015,ink/toner low,REPAIR,4967.69
+Brother,LASER,2021,ink/toner low,REPAIR,14994.43
+Brother,INKJET,2024,printing faded,REPAIR,3317.16
+Brother,INKJET,2019,paper jam,REPAIR,3003.16
+Epson,MULTIFUNCTION,2017,scanner not working,REPAIR,11330.32
+Ricoh,DOT MATRIX,2016,scanner not working,REPAIR,732.94
+Brother,MULTIFUNCTION,2024,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2020,overheating,REPLACE,-1.0
+Epson,LASER,2015,no power,REPLACE,-1.0
+Kyocera,LASER,2016,scanner not working,REPAIR,12156.16
+Brother,LASER,2023,paper jam,REPAIR,10024.25
+Epson,LASER,2015,no power,REPLACE,-1.0
+Xerox,LASER,2018,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2022,overheating,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+Canon,INKJET,2017,ink/toner low,REPAIR,1444.09
+Xerox,MULTIFUNCTION,2014,ink/toner low,REPAIR,9668.84
+Kyocera,LASER,2019,ink/toner low,REPAIR,12311.42
+Canon,DOT MATRIX,2016,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2023,printing faded,REPAIR,1533.92
+Canon,LASER,2015,overheating,REPLACE,-1.0
+Brother,DOT MATRIX,2018,overheating,REPLACE,-1.0
+Brother,LASER,2017,ink/toner low,REPAIR,9469.53
+Brother,MULTIFUNCTION,2021,overheating,REPLACE,-1.0
+Brother,LASER,2019,scanner not working,REPAIR,14305.85
+Canon,INKJET,2019,scanner not working,REPAIR,3156.41
+Epson,INKJET,2024,overheating,REPLACE,-1.0
+Epson,INKJET,2016,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2023,ink/toner low,REPAIR,1043.23
+Ricoh,INKJET,2021,printing faded,REPAIR,768.53
+Ricoh,DOT MATRIX,2014,paper jam,REPAIR,1681.02
+Brother,DOT MATRIX,2015,ink/toner low,REPAIR,3411.13
+Canon,MULTIFUNCTION,2023,scanner not working,REPAIR,13432.58
+Epson,INKJET,2023,scanner not working,REPAIR,2882.6
+HP,INKJET,2018,printing faded,REPAIR,3394.55
+Ricoh,MULTIFUNCTION,2023,paper jam,REPAIR,9575.89
+HP,LASER,2023,scanner not working,REPAIR,5533.7
+Brother,MULTIFUNCTION,2021,ink/toner low,REPAIR,11687.0
+Brother,LASER,2018,printing faded,REPAIR,9062.12
+Canon,LASER,2014,paper jam,REPAIR,14651.51
+Brother,LASER,2015,paper jam,REPAIR,6469.15
+Epson,DOT MATRIX,2015,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2014,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2024,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2020,printing faded,REPAIR,11131.11
+HP,DOT MATRIX,2021,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2022,paper jam,REPAIR,3071.44
+Xerox,LASER,2020,mechanical failure,REPLACE,-1.0
+HP,DOT MATRIX,2016,ink/toner low,REPAIR,3484.85
+Kyocera,LASER,2019,paper jam,REPAIR,6815.42
+HP,DOT MATRIX,2024,overheating,REPLACE,-1.0
+HP,DOT MATRIX,2015,scanner not working,REPAIR,3258.21
+Kyocera,MULTIFUNCTION,2015,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2022,paper jam,REPAIR,706.83
+Xerox,INKJET,2023,scanner not working,REPAIR,1963.26
+Xerox,LASER,2019,no power,REPLACE,-1.0
+Xerox,LASER,2024,mechanical failure,REPLACE,-1.0
+Brother,DOT MATRIX,2023,printing faded,REPAIR,1530.32
+Ricoh,MULTIFUNCTION,2014,paper jam,REPAIR,8411.11
+HP,DOT MATRIX,2016,overheating,REPLACE,-1.0
+Xerox,INKJET,2024,paper jam,REPAIR,3939.83
+Kyocera,INKJET,2016,scanner not working,REPAIR,2872.72
+Ricoh,DOT MATRIX,2024,scanner not working,REPAIR,1316.23
+Canon,INKJET,2015,scanner not working,REPAIR,829.57
+Epson,MULTIFUNCTION,2021,overheating,REPLACE,-1.0
+Epson,MULTIFUNCTION,2021,ink/toner low,REPAIR,7146.91
+Epson,DOT MATRIX,2021,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2016,no power,REPLACE,-1.0
+Brother,LASER,2014,paper jam,REPAIR,5840.66
+Canon,INKJET,2015,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2016,overheating,REPLACE,-1.0
+Xerox,DOT MATRIX,2015,no power,REPLACE,-1.0
+HP,DOT MATRIX,2024,printing faded,REPAIR,3212.26
+Xerox,MULTIFUNCTION,2018,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2024,paper jam,REPAIR,5506.72
+Epson,DOT MATRIX,2017,no power,REPLACE,-1.0
+Canon,INKJET,2021,paper jam,REPAIR,1801.65
+Kyocera,MULTIFUNCTION,2024,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,printing faded,REPAIR,4667.45
+Brother,INKJET,2020,scanner not working,REPAIR,2110.74
+Brother,INKJET,2022,overheating,REPLACE,-1.0
+Ricoh,INKJET,2015,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2021,no power,REPLACE,-1.0
+Xerox,INKJET,2019,ink/toner low,REPAIR,2586.49
+Canon,LASER,2024,ink/toner low,REPAIR,11350.58
+Canon,LASER,2024,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2024,scanner not working,REPAIR,10743.76
+Ricoh,INKJET,2017,scanner not working,REPAIR,1242.68
+Epson,DOT MATRIX,2015,paper jam,REPAIR,3827.68
+Canon,DOT MATRIX,2024,no power,REPLACE,-1.0
+Kyocera,DOT MATRIX,2018,no power,REPLACE,-1.0
+Ricoh,INKJET,2018,mechanical failure,REPLACE,-1.0
+Canon,DOT MATRIX,2024,paper jam,REPAIR,502.07
+HP,MULTIFUNCTION,2018,paper jam,REPAIR,5396.72
+Kyocera,MULTIFUNCTION,2021,paper jam,REPAIR,8501.88
+Epson,MULTIFUNCTION,2020,ink/toner low,REPAIR,14939.93
+Xerox,MULTIFUNCTION,2014,ink/toner low,REPAIR,9340.35
+Kyocera,MULTIFUNCTION,2023,no power,REPLACE,-1.0
+HP,DOT MATRIX,2015,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2019,mechanical failure,REPLACE,-1.0
+Brother,LASER,2022,scanner not working,REPAIR,9379.58
+Brother,INKJET,2019,ink/toner low,REPAIR,2688.13
+Ricoh,LASER,2017,overheating,REPLACE,-1.0
+Canon,MULTIFUNCTION,2019,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2024,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2017,ink/toner low,REPAIR,2068.4
+Epson,MULTIFUNCTION,2015,mechanical failure,REPLACE,-1.0
+HP,DOT MATRIX,2019,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2018,no power,REPLACE,-1.0
+Brother,INKJET,2017,scanner not working,REPAIR,2745.51
+Epson,LASER,2020,overheating,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2023,paper jam,REPAIR,4229.73
+Epson,INKJET,2016,overheating,REPLACE,-1.0
+HP,LASER,2022,scanner not working,REPAIR,4042.94
+Epson,LASER,2022,paper jam,REPAIR,10305.01
+Xerox,DOT MATRIX,2019,scanner not working,REPAIR,1857.61
+Ricoh,INKJET,2018,overheating,REPLACE,-1.0
+Xerox,INKJET,2020,paper jam,REPAIR,978.84
+Kyocera,LASER,2014,overheating,REPLACE,-1.0
+Brother,DOT MATRIX,2024,scanner not working,REPAIR,2417.93
+Epson,MULTIFUNCTION,2023,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2021,no power,REPLACE,-1.0
+Kyocera,DOT MATRIX,2022,printing faded,REPAIR,968.68
+Kyocera,LASER,2018,overheating,REPLACE,-1.0
+HP,DOT MATRIX,2022,mechanical failure,REPLACE,-1.0
+Xerox,INKJET,2016,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2015,overheating,REPLACE,-1.0
+Brother,LASER,2017,mechanical failure,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2022,paper jam,REPAIR,12102.38
+Brother,INKJET,2016,printing faded,REPAIR,2553.56
+Kyocera,DOT MATRIX,2020,printing faded,REPAIR,1290.56
+Brother,DOT MATRIX,2018,mechanical failure,REPLACE,-1.0
+Epson,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+Xerox,LASER,2022,paper jam,REPAIR,8291.1
+Brother,DOT MATRIX,2021,printing faded,REPAIR,3602.52
+Epson,DOT MATRIX,2015,scanner not working,REPAIR,3508.35
+Xerox,LASER,2024,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2023,paper jam,REPAIR,12155.29
+Kyocera,MULTIFUNCTION,2022,printing faded,REPAIR,5333.65
+Kyocera,MULTIFUNCTION,2015,scanner not working,REPAIR,13703.82
+Brother,DOT MATRIX,2021,overheating,REPLACE,-1.0
+Kyocera,LASER,2020,overheating,REPLACE,-1.0
+Canon,INKJET,2022,printing faded,REPAIR,3781.67
+Xerox,INKJET,2018,scanner not working,REPAIR,1942.1
+Kyocera,LASER,2015,paper jam,REPAIR,7776.06
+HP,LASER,2018,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2014,scanner not working,REPAIR,2492.79
+Canon,LASER,2014,scanner not working,REPAIR,6416.76
+Ricoh,LASER,2018,no power,REPLACE,-1.0
+Kyocera,LASER,2024,paper jam,REPAIR,9886.29
+Epson,INKJET,2015,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2014,no power,REPLACE,-1.0
+Brother,INKJET,2020,overheating,REPLACE,-1.0
+HP,LASER,2014,ink/toner low,REPAIR,11801.86
+HP,DOT MATRIX,2023,ink/toner low,REPAIR,1574.38
+Kyocera,INKJET,2024,paper jam,REPAIR,867.45
+HP,DOT MATRIX,2014,printing faded,REPAIR,2586.1
+Ricoh,MULTIFUNCTION,2021,paper jam,REPAIR,9035.44
+Brother,LASER,2021,mechanical failure,REPLACE,-1.0
+HP,LASER,2014,ink/toner low,REPAIR,11890.09
+Ricoh,MULTIFUNCTION,2017,paper jam,REPAIR,12817.81
+Xerox,LASER,2019,scanner not working,REPAIR,10952.95
+Epson,LASER,2021,no power,REPLACE,-1.0
+Canon,LASER,2024,ink/toner low,REPAIR,8610.0
+Canon,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2017,scanner not working,REPAIR,2785.14
+Kyocera,INKJET,2015,printing faded,REPAIR,2417.94
+Ricoh,INKJET,2021,no power,REPLACE,-1.0
+Brother,LASER,2017,ink/toner low,REPAIR,10576.77
+Epson,DOT MATRIX,2014,ink/toner low,REPAIR,3269.61
+Brother,MULTIFUNCTION,2018,ink/toner low,REPAIR,13335.92
+Xerox,INKJET,2024,ink/toner low,REPAIR,1600.42
+Brother,DOT MATRIX,2020,overheating,REPLACE,-1.0
+Ricoh,LASER,2016,printing faded,REPAIR,12757.44
+Epson,INKJET,2020,scanner not working,REPAIR,3662.23
+Xerox,LASER,2020,ink/toner low,REPAIR,14249.24
+Ricoh,INKJET,2017,mechanical failure,REPLACE,-1.0
+Brother,LASER,2022,paper jam,REPAIR,12342.4
+Kyocera,MULTIFUNCTION,2016,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2023,overheating,REPLACE,-1.0
+Epson,MULTIFUNCTION,2016,overheating,REPLACE,-1.0
+Kyocera,LASER,2021,overheating,REPLACE,-1.0
+HP,LASER,2017,mechanical failure,REPLACE,-1.0
+Epson,DOT MATRIX,2020,scanner not working,REPAIR,2190.26
+Brother,LASER,2016,printing faded,REPAIR,7182.78
+Brother,INKJET,2016,mechanical failure,REPLACE,-1.0
+Ricoh,LASER,2024,paper jam,REPAIR,14329.37
+Xerox,LASER,2016,paper jam,REPAIR,14991.41
+Kyocera,DOT MATRIX,2014,no power,REPLACE,-1.0
+Kyocera,LASER,2015,ink/toner low,REPAIR,6512.31
+Epson,INKJET,2020,scanner not working,REPAIR,3096.27
+Xerox,INKJET,2023,no power,REPLACE,-1.0
+Canon,LASER,2019,overheating,REPLACE,-1.0
+Epson,MULTIFUNCTION,2016,no power,REPLACE,-1.0
+Kyocera,INKJET,2017,no power,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2018,printing faded,REPAIR,9435.85
+Epson,MULTIFUNCTION,2019,paper jam,REPAIR,11357.13
+HP,MULTIFUNCTION,2016,overheating,REPLACE,-1.0
+Epson,INKJET,2018,printing faded,REPAIR,2483.67
+Epson,LASER,2016,no power,REPLACE,-1.0
+Brother,DOT MATRIX,2016,printing faded,REPAIR,1743.51
+Xerox,INKJET,2022,ink/toner low,REPAIR,844.37
+Epson,LASER,2014,scanner not working,REPAIR,4035.16
+HP,INKJET,2020,scanner not working,REPAIR,511.45
+Xerox,MULTIFUNCTION,2018,overheating,REPLACE,-1.0
+Canon,MULTIFUNCTION,2015,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2021,paper jam,REPAIR,3855.0
+Xerox,DOT MATRIX,2018,no power,REPLACE,-1.0
+Canon,INKJET,2020,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2021,scanner not working,REPAIR,3124.87
+Ricoh,DOT MATRIX,2023,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2023,paper jam,REPAIR,2250.68
+Epson,INKJET,2017,printing faded,REPAIR,3501.82
+Epson,DOT MATRIX,2020,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2021,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2020,ink/toner low,REPAIR,2879.7
+Ricoh,MULTIFUNCTION,2017,ink/toner low,REPAIR,6563.16
+Epson,INKJET,2020,printing faded,REPAIR,2676.53
+Brother,DOT MATRIX,2023,ink/toner low,REPAIR,3873.55
+Ricoh,INKJET,2016,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2015,no power,REPLACE,-1.0
+Kyocera,LASER,2023,paper jam,REPAIR,8601.82
+Kyocera,LASER,2018,mechanical failure,REPLACE,-1.0
+Canon,LASER,2016,printing faded,REPAIR,5851.36
+Xerox,MULTIFUNCTION,2021,scanner not working,REPAIR,13394.24
+Epson,DOT MATRIX,2017,scanner not working,REPAIR,1497.5
+Xerox,LASER,2018,printing faded,REPAIR,6345.11
+Kyocera,DOT MATRIX,2015,printing faded,REPAIR,892.41
+HP,MULTIFUNCTION,2020,overheating,REPLACE,-1.0
+Brother,LASER,2024,printing faded,REPAIR,7132.23
+Xerox,DOT MATRIX,2024,ink/toner low,REPAIR,1323.21
+Epson,DOT MATRIX,2023,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2023,paper jam,REPAIR,8009.19
+HP,INKJET,2017,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2018,no power,REPLACE,-1.0
+Epson,INKJET,2018,mechanical failure,REPLACE,-1.0
+HP,LASER,2020,paper jam,REPAIR,9169.2
+Ricoh,INKJET,2023,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2018,paper jam,REPAIR,1877.31
+Epson,LASER,2018,scanner not working,REPAIR,5697.13
+Brother,INKJET,2019,paper jam,REPAIR,2332.75
+Kyocera,LASER,2018,paper jam,REPAIR,9503.79
+Canon,DOT MATRIX,2022,scanner not working,REPAIR,3549.58
+Epson,INKJET,2022,printing faded,REPAIR,3475.56
+Ricoh,DOT MATRIX,2020,printing faded,REPAIR,537.67
+Canon,MULTIFUNCTION,2016,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2024,overheating,REPLACE,-1.0
+HP,DOT MATRIX,2015,paper jam,REPAIR,655.59
+Xerox,DOT MATRIX,2022,printing faded,REPAIR,3433.3
+Kyocera,LASER,2021,overheating,REPLACE,-1.0
+Ricoh,LASER,2021,overheating,REPLACE,-1.0
+Xerox,LASER,2023,scanner not working,REPAIR,6268.81
+HP,MULTIFUNCTION,2022,no power,REPLACE,-1.0
+Epson,INKJET,2024,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2024,scanner not working,REPAIR,2902.51
+Kyocera,MULTIFUNCTION,2019,printing faded,REPAIR,5576.83
+Canon,DOT MATRIX,2016,no power,REPLACE,-1.0
+Xerox,LASER,2018,printing faded,REPAIR,10536.72
+Epson,INKJET,2023,scanner not working,REPAIR,3573.54
+Xerox,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Epson,INKJET,2017,scanner not working,REPAIR,2963.12
+Kyocera,INKJET,2023,overheating,REPLACE,-1.0
+Ricoh,LASER,2024,paper jam,REPAIR,12048.62
+Ricoh,DOT MATRIX,2024,overheating,REPLACE,-1.0
+Epson,DOT MATRIX,2020,scanner not working,REPAIR,667.03
+Canon,LASER,2023,paper jam,REPAIR,9400.15
+Epson,DOT MATRIX,2015,scanner not working,REPAIR,1445.32
+Brother,INKJET,2023,paper jam,REPAIR,758.15
+Kyocera,INKJET,2015,paper jam,REPAIR,1800.73
+Epson,LASER,2019,scanner not working,REPAIR,14906.09
+Ricoh,DOT MATRIX,2014,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2022,no power,REPLACE,-1.0
+Brother,INKJET,2020,printing faded,REPAIR,2931.4
+Xerox,INKJET,2018,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2021,paper jam,REPAIR,10442.74
+Canon,MULTIFUNCTION,2017,paper jam,REPAIR,9365.37
+Epson,DOT MATRIX,2020,scanner not working,REPAIR,2991.18
+Ricoh,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Kyocera,LASER,2018,scanner not working,REPAIR,9284.39
+Ricoh,DOT MATRIX,2015,overheating,REPLACE,-1.0
+Ricoh,INKJET,2021,no power,REPLACE,-1.0
+Canon,LASER,2015,paper jam,REPAIR,14363.06
+Ricoh,DOT MATRIX,2024,overheating,REPLACE,-1.0
+Ricoh,LASER,2018,paper jam,REPAIR,13553.64
+HP,INKJET,2023,no power,REPLACE,-1.0
+HP,INKJET,2015,overheating,REPLACE,-1.0
+Ricoh,LASER,2020,printing faded,REPAIR,9437.79
+Canon,MULTIFUNCTION,2014,scanner not working,REPAIR,8244.25
+HP,DOT MATRIX,2017,overheating,REPLACE,-1.0
+HP,LASER,2018,paper jam,REPAIR,11748.54
+Kyocera,MULTIFUNCTION,2021,no power,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2018,scanner not working,REPAIR,11653.59
+Brother,INKJET,2021,mechanical failure,REPLACE,-1.0
+Xerox,INKJET,2020,overheating,REPLACE,-1.0
+Kyocera,LASER,2019,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2023,paper jam,REPAIR,1687.82
+Epson,INKJET,2022,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2018,ink/toner low,REPAIR,7276.31
+Ricoh,LASER,2019,ink/toner low,REPAIR,14057.27
+Xerox,LASER,2022,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2022,no power,REPLACE,-1.0
+Epson,LASER,2019,mechanical failure,REPLACE,-1.0
+Canon,LASER,2015,overheating,REPLACE,-1.0
+Ricoh,INKJET,2016,ink/toner low,REPAIR,3135.6
+Canon,INKJET,2022,scanner not working,REPAIR,981.01
+Canon,DOT MATRIX,2019,scanner not working,REPAIR,3251.53
+Xerox,INKJET,2024,overheating,REPLACE,-1.0
+Kyocera,INKJET,2024,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2014,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2015,paper jam,REPAIR,6567.69
+Epson,LASER,2015,paper jam,REPAIR,7236.33
+Xerox,MULTIFUNCTION,2015,paper jam,REPAIR,5307.3
+Brother,DOT MATRIX,2015,printing faded,REPAIR,1513.11
+Kyocera,INKJET,2024,no power,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2022,ink/toner low,REPAIR,13263.07
+Canon,LASER,2024,ink/toner low,REPAIR,13307.91
+Epson,LASER,2018,mechanical failure,REPLACE,-1.0
+HP,LASER,2019,overheating,REPLACE,-1.0
+Canon,MULTIFUNCTION,2022,overheating,REPLACE,-1.0
+Ricoh,DOT MATRIX,2024,printing faded,REPAIR,3922.1
+Canon,LASER,2024,scanner not working,REPAIR,4894.61
+Ricoh,DOT MATRIX,2020,no power,REPLACE,-1.0
+HP,DOT MATRIX,2020,no power,REPLACE,-1.0
+Xerox,LASER,2014,printing faded,REPAIR,5016.9
+Canon,DOT MATRIX,2018,paper jam,REPAIR,705.79
+Kyocera,DOT MATRIX,2024,paper jam,REPAIR,751.74
+Brother,DOT MATRIX,2021,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2019,paper jam,REPAIR,647.61
+HP,LASER,2014,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,overheating,REPLACE,-1.0
+Kyocera,INKJET,2018,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2020,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2015,ink/toner low,REPAIR,11718.0
+Ricoh,INKJET,2018,printing faded,REPAIR,1164.46
+HP,LASER,2017,scanner not working,REPAIR,14100.64
+Kyocera,MULTIFUNCTION,2017,no power,REPLACE,-1.0
+Ricoh,DOT MATRIX,2021,no power,REPLACE,-1.0
+Epson,LASER,2014,printing faded,REPAIR,6782.27
+Ricoh,LASER,2015,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2015,printing faded,REPAIR,9197.45
+Xerox,MULTIFUNCTION,2022,no power,REPLACE,-1.0
+HP,DOT MATRIX,2019,no power,REPLACE,-1.0
+Kyocera,DOT MATRIX,2024,scanner not working,REPAIR,1278.91
+Epson,DOT MATRIX,2024,no power,REPLACE,-1.0
+Xerox,INKJET,2016,overheating,REPLACE,-1.0
+Ricoh,INKJET,2024,printing faded,REPAIR,3054.76
+Canon,LASER,2019,scanner not working,REPAIR,8175.58
+Brother,LASER,2021,mechanical failure,REPLACE,-1.0
+Epson,INKJET,2019,paper jam,REPAIR,3200.51
+Kyocera,LASER,2024,ink/toner low,REPAIR,10406.93
+HP,LASER,2017,scanner not working,REPAIR,8695.71
+Epson,INKJET,2014,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2022,overheating,REPLACE,-1.0
+Ricoh,INKJET,2014,paper jam,REPAIR,2216.57
+Kyocera,INKJET,2020,ink/toner low,REPAIR,804.96
+Kyocera,LASER,2015,ink/toner low,REPAIR,5277.31
+Epson,INKJET,2017,ink/toner low,REPAIR,3685.92
+Ricoh,DOT MATRIX,2014,no power,REPLACE,-1.0
+HP,LASER,2018,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2015,printing faded,REPAIR,10946.44
+Ricoh,DOT MATRIX,2020,paper jam,REPAIR,739.72
+Canon,MULTIFUNCTION,2017,paper jam,REPAIR,14956.24
+Kyocera,LASER,2021,scanner not working,REPAIR,7458.97
+Xerox,LASER,2019,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2014,printing faded,REPAIR,3850.91
+Xerox,INKJET,2022,scanner not working,REPAIR,1361.4
+Canon,DOT MATRIX,2016,printing faded,REPAIR,3185.15
+Epson,INKJET,2024,printing faded,REPAIR,1292.29
+Xerox,DOT MATRIX,2014,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2020,ink/toner low,REPAIR,3893.82
+Canon,INKJET,2016,mechanical failure,REPLACE,-1.0
+Ricoh,LASER,2023,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2020,ink/toner low,REPAIR,6633.76
+Canon,LASER,2024,paper jam,REPAIR,8193.5
+HP,DOT MATRIX,2014,overheating,REPLACE,-1.0
+Ricoh,LASER,2015,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2020,ink/toner low,REPAIR,3784.91
+Xerox,INKJET,2024,scanner not working,REPAIR,3972.67
+Xerox,MULTIFUNCTION,2018,ink/toner low,REPAIR,14611.08
+Brother,LASER,2022,printing faded,REPAIR,9013.4
+Ricoh,MULTIFUNCTION,2018,no power,REPLACE,-1.0
+Epson,LASER,2014,mechanical failure,REPLACE,-1.0
+Epson,DOT MATRIX,2021,paper jam,REPAIR,2325.97
+Kyocera,INKJET,2018,paper jam,REPAIR,3067.37
+Xerox,INKJET,2024,mechanical failure,REPLACE,-1.0
+Canon,LASER,2017,paper jam,REPAIR,7410.92
+Kyocera,INKJET,2023,no power,REPLACE,-1.0
+Brother,LASER,2014,ink/toner low,REPAIR,9122.34
+Xerox,MULTIFUNCTION,2017,printing faded,REPAIR,11714.49
+Epson,DOT MATRIX,2021,ink/toner low,REPAIR,2656.77
+Brother,MULTIFUNCTION,2016,ink/toner low,REPAIR,12552.03
+Canon,INKJET,2022,ink/toner low,REPAIR,1114.96
+Canon,LASER,2022,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2019,scanner not working,REPAIR,8175.59
+Ricoh,DOT MATRIX,2014,ink/toner low,REPAIR,3142.03
+HP,MULTIFUNCTION,2021,ink/toner low,REPAIR,12972.44
+Kyocera,DOT MATRIX,2016,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2022,paper jam,REPAIR,3497.66
+Brother,DOT MATRIX,2015,scanner not working,REPAIR,3374.91
+HP,LASER,2024,paper jam,REPAIR,12077.08
+Canon,DOT MATRIX,2022,paper jam,REPAIR,825.11
+Brother,MULTIFUNCTION,2019,paper jam,REPAIR,13485.2
+Xerox,DOT MATRIX,2022,paper jam,REPAIR,2055.83
+Kyocera,DOT MATRIX,2016,no power,REPLACE,-1.0
+HP,MULTIFUNCTION,2015,mechanical failure,REPLACE,-1.0
+Kyocera,DOT MATRIX,2020,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2024,ink/toner low,REPAIR,3932.9
+Xerox,INKJET,2024,overheating,REPLACE,-1.0
+HP,LASER,2020,scanner not working,REPAIR,6020.75
+Canon,MULTIFUNCTION,2020,scanner not working,REPAIR,11026.84
+HP,LASER,2015,printing faded,REPAIR,7640.17
+Kyocera,LASER,2022,paper jam,REPAIR,11065.09
+Brother,DOT MATRIX,2023,printing faded,REPAIR,3823.58
+Canon,LASER,2020,overheating,REPLACE,-1.0
+Xerox,LASER,2019,scanner not working,REPAIR,4926.31
+Brother,LASER,2017,no power,REPLACE,-1.0
+HP,LASER,2024,scanner not working,REPAIR,9046.42
+Brother,INKJET,2014,no power,REPLACE,-1.0
+Kyocera,DOT MATRIX,2018,printing faded,REPAIR,3335.8
+Canon,INKJET,2018,overheating,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2019,scanner not working,REPAIR,4238.86
+HP,LASER,2014,scanner not working,REPAIR,4639.95
+Brother,MULTIFUNCTION,2015,no power,REPLACE,-1.0
+Xerox,INKJET,2020,mechanical failure,REPLACE,-1.0
+HP,INKJET,2015,printing faded,REPAIR,2729.16
+Canon,INKJET,2017,scanner not working,REPAIR,583.79
+Brother,MULTIFUNCTION,2019,scanner not working,REPAIR,6060.77
+Kyocera,MULTIFUNCTION,2021,no power,REPLACE,-1.0
+Canon,INKJET,2023,no power,REPLACE,-1.0
+Kyocera,LASER,2020,overheating,REPLACE,-1.0
+Canon,INKJET,2024,no power,REPLACE,-1.0
+HP,LASER,2019,ink/toner low,REPAIR,7145.72
+Kyocera,LASER,2023,mechanical failure,REPLACE,-1.0
+HP,INKJET,2015,overheating,REPLACE,-1.0
+Ricoh,INKJET,2015,ink/toner low,REPAIR,2383.72
+Canon,DOT MATRIX,2020,mechanical failure,REPLACE,-1.0
+Brother,DOT MATRIX,2017,overheating,REPLACE,-1.0
+Epson,INKJET,2020,overheating,REPLACE,-1.0
+Xerox,LASER,2014,overheating,REPLACE,-1.0
+Canon,DOT MATRIX,2023,overheating,REPLACE,-1.0
+Epson,INKJET,2015,overheating,REPLACE,-1.0
+Xerox,DOT MATRIX,2022,ink/toner low,REPAIR,678.7
+HP,LASER,2017,printing faded,REPAIR,11506.4
+HP,LASER,2023,paper jam,REPAIR,5442.71
+Kyocera,INKJET,2018,scanner not working,REPAIR,1293.7
+Brother,DOT MATRIX,2024,ink/toner low,REPAIR,3861.36
+Kyocera,DOT MATRIX,2017,ink/toner low,REPAIR,1434.04
+Kyocera,LASER,2020,no power,REPLACE,-1.0
+HP,LASER,2022,paper jam,REPAIR,4761.76
+Xerox,LASER,2014,printing faded,REPAIR,14821.63
+Ricoh,LASER,2022,printing faded,REPAIR,11964.57
+Epson,MULTIFUNCTION,2017,no power,REPLACE,-1.0
+Xerox,LASER,2021,printing faded,REPAIR,12680.78
+Kyocera,INKJET,2015,mechanical failure,REPLACE,-1.0
+Brother,INKJET,2020,scanner not working,REPAIR,1940.62
+Epson,MULTIFUNCTION,2017,scanner not working,REPAIR,7429.93
+Ricoh,MULTIFUNCTION,2016,ink/toner low,REPAIR,13369.07
+Brother,INKJET,2014,overheating,REPLACE,-1.0
+Epson,LASER,2014,no power,REPLACE,-1.0
+Brother,INKJET,2018,printing faded,REPAIR,3798.21
+Epson,MULTIFUNCTION,2018,printing faded,REPAIR,12094.44
+Kyocera,INKJET,2018,scanner not working,REPAIR,3851.93
+Ricoh,LASER,2021,printing faded,REPAIR,5832.77
+Epson,INKJET,2016,printing faded,REPAIR,2369.39
+Ricoh,DOT MATRIX,2016,scanner not working,REPAIR,2878.57
+Brother,LASER,2022,overheating,REPLACE,-1.0
+Kyocera,INKJET,2015,no power,REPLACE,-1.0
+Canon,DOT MATRIX,2017,ink/toner low,REPAIR,1184.37
+Ricoh,INKJET,2018,scanner not working,REPAIR,1838.68
+Canon,LASER,2018,paper jam,REPAIR,12366.66
+Ricoh,LASER,2022,printing faded,REPAIR,10471.54
+Xerox,LASER,2019,paper jam,REPAIR,7248.52
+HP,DOT MATRIX,2024,printing faded,REPAIR,1760.43
+Ricoh,DOT MATRIX,2018,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2023,printing faded,REPAIR,3941.74
+Kyocera,LASER,2020,paper jam,REPAIR,7742.47
+Xerox,DOT MATRIX,2017,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2023,mechanical failure,REPLACE,-1.0
+Kyocera,LASER,2015,no power,REPLACE,-1.0
+Canon,DOT MATRIX,2024,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2016,no power,REPLACE,-1.0
+Brother,INKJET,2019,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2016,printing faded,REPAIR,7930.75
+Xerox,LASER,2023,printing faded,REPAIR,6729.67
+Epson,DOT MATRIX,2020,overheating,REPLACE,-1.0
+Kyocera,LASER,2015,scanner not working,REPAIR,9483.59
+Ricoh,INKJET,2018,scanner not working,REPAIR,2539.04
+Xerox,LASER,2017,overheating,REPLACE,-1.0
+Kyocera,INKJET,2015,overheating,REPLACE,-1.0
+Canon,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+HP,DOT MATRIX,2023,no power,REPLACE,-1.0
+HP,DOT MATRIX,2023,scanner not working,REPAIR,2396.64
+Xerox,INKJET,2023,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,paper jam,REPAIR,8888.38
+Xerox,INKJET,2021,mechanical failure,REPLACE,-1.0
+Kyocera,DOT MATRIX,2022,ink/toner low,REPAIR,967.5
+Brother,DOT MATRIX,2014,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2023,ink/toner low,REPAIR,1664.29
+HP,INKJET,2019,ink/toner low,REPAIR,3556.97
+Brother,MULTIFUNCTION,2022,mechanical failure,REPLACE,-1.0
+Xerox,LASER,2017,printing faded,REPAIR,11041.34
+HP,LASER,2016,scanner not working,REPAIR,4014.65
+Ricoh,MULTIFUNCTION,2017,paper jam,REPAIR,6919.05
+HP,DOT MATRIX,2016,ink/toner low,REPAIR,3532.27
+Xerox,INKJET,2018,printing faded,REPAIR,2342.17
+Brother,INKJET,2016,no power,REPLACE,-1.0
+Xerox,LASER,2023,ink/toner low,REPAIR,8115.27
+Kyocera,MULTIFUNCTION,2016,scanner not working,REPAIR,10333.81
+Canon,LASER,2016,ink/toner low,REPAIR,4358.0
+Brother,MULTIFUNCTION,2024,paper jam,REPAIR,4484.13
+Canon,INKJET,2023,printing faded,REPAIR,1471.77
+Ricoh,INKJET,2019,ink/toner low,REPAIR,1053.29
+Canon,DOT MATRIX,2018,paper jam,REPAIR,1781.99
+HP,MULTIFUNCTION,2024,ink/toner low,REPAIR,12653.3
+HP,MULTIFUNCTION,2019,printing faded,REPAIR,8375.65
+Epson,INKJET,2024,no power,REPLACE,-1.0
+Epson,LASER,2015,scanner not working,REPAIR,11388.74
+HP,LASER,2024,ink/toner low,REPAIR,5160.51
+Epson,INKJET,2023,paper jam,REPAIR,2706.22
+Epson,DOT MATRIX,2017,paper jam,REPAIR,3359.96
+Canon,INKJET,2015,overheating,REPLACE,-1.0
+Epson,INKJET,2022,mechanical failure,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2022,mechanical failure,REPLACE,-1.0
+Xerox,LASER,2015,scanner not working,REPAIR,5655.89
+Canon,LASER,2018,mechanical failure,REPLACE,-1.0
+Kyocera,DOT MATRIX,2021,printing faded,REPAIR,1315.74
+HP,DOT MATRIX,2018,mechanical failure,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2024,printing faded,REPAIR,8869.96
+Kyocera,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2024,paper jam,REPAIR,3232.13
+Kyocera,DOT MATRIX,2018,scanner not working,REPAIR,1049.7
+Ricoh,MULTIFUNCTION,2015,printing faded,REPAIR,13575.83
+Epson,DOT MATRIX,2019,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2018,paper jam,REPAIR,4991.99
+Brother,LASER,2024,paper jam,REPAIR,4582.15
+Xerox,INKJET,2021,overheating,REPLACE,-1.0
+Xerox,DOT MATRIX,2015,paper jam,REPAIR,3819.76
+Ricoh,MULTIFUNCTION,2021,overheating,REPLACE,-1.0
+Xerox,LASER,2015,no power,REPLACE,-1.0
+Xerox,INKJET,2023,ink/toner low,REPAIR,821.51
+Brother,INKJET,2016,scanner not working,REPAIR,1523.89
+HP,LASER,2023,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2020,mechanical failure,REPLACE,-1.0
+Brother,MULTIFUNCTION,2019,paper jam,REPAIR,11661.75
+Canon,LASER,2024,scanner not working,REPAIR,4735.86
+Canon,INKJET,2017,ink/toner low,REPAIR,1037.8
+Ricoh,MULTIFUNCTION,2022,ink/toner low,REPAIR,10056.84
+Brother,INKJET,2015,printing faded,REPAIR,3818.67
+Canon,DOT MATRIX,2024,no power,REPLACE,-1.0
+Brother,LASER,2018,overheating,REPLACE,-1.0
+HP,INKJET,2021,paper jam,REPAIR,1563.3
+Xerox,DOT MATRIX,2022,scanner not working,REPAIR,1843.92
+Ricoh,MULTIFUNCTION,2016,printing faded,REPAIR,6473.82
+Xerox,INKJET,2019,ink/toner low,REPAIR,2889.64
+HP,INKJET,2020,paper jam,REPAIR,3412.28
+Canon,INKJET,2024,mechanical failure,REPLACE,-1.0
+Ricoh,DOT MATRIX,2023,overheating,REPLACE,-1.0
+HP,DOT MATRIX,2015,no power,REPLACE,-1.0
+Xerox,DOT MATRIX,2019,ink/toner low,REPAIR,595.66
+Xerox,LASER,2016,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2014,no power,REPLACE,-1.0
+HP,INKJET,2024,no power,REPLACE,-1.0
+Brother,LASER,2023,no power,REPLACE,-1.0
+Ricoh,LASER,2017,printing faded,REPAIR,9559.65
+Ricoh,LASER,2021,ink/toner low,REPAIR,6900.44
+HP,INKJET,2018,overheating,REPLACE,-1.0
+HP,LASER,2022,scanner not working,REPAIR,13798.28
+Kyocera,INKJET,2014,paper jam,REPAIR,2521.45
+Canon,DOT MATRIX,2024,overheating,REPLACE,-1.0
+Xerox,LASER,2022,scanner not working,REPAIR,10994.98
+Epson,DOT MATRIX,2017,overheating,REPLACE,-1.0
+HP,LASER,2019,printing faded,REPAIR,9650.5
+Brother,MULTIFUNCTION,2023,paper jam,REPAIR,6923.16
+Epson,LASER,2022,overheating,REPLACE,-1.0
+HP,DOT MATRIX,2023,no power,REPLACE,-1.0
+Canon,INKJET,2021,overheating,REPLACE,-1.0
+Kyocera,MULTIFUNCTION,2015,ink/toner low,REPAIR,11513.88
+Epson,LASER,2015,overheating,REPLACE,-1.0
+Canon,INKJET,2020,paper jam,REPAIR,1573.48
+Epson,INKJET,2022,printing faded,REPAIR,3632.38
+Xerox,INKJET,2015,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2021,no power,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2018,mechanical failure,REPLACE,-1.0
+Epson,MULTIFUNCTION,2016,paper jam,REPAIR,6585.11
+Xerox,MULTIFUNCTION,2022,overheating,REPLACE,-1.0
+Brother,INKJET,2024,mechanical failure,REPLACE,-1.0
+Kyocera,INKJET,2024,overheating,REPLACE,-1.0
+Ricoh,LASER,2015,paper jam,REPAIR,5486.33
+Brother,DOT MATRIX,2016,scanner not working,REPAIR,3869.36
+Brother,MULTIFUNCTION,2015,paper jam,REPAIR,12333.51
+HP,LASER,2023,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2015,scanner not working,REPAIR,512.24
+Canon,LASER,2016,mechanical failure,REPLACE,-1.0
+Xerox,DOT MATRIX,2021,scanner not working,REPAIR,1543.89
+Epson,MULTIFUNCTION,2021,overheating,REPLACE,-1.0
+Brother,INKJET,2015,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2024,overheating,REPLACE,-1.0
+Kyocera,INKJET,2023,mechanical failure,REPLACE,-1.0
+Brother,DOT MATRIX,2015,no power,REPLACE,-1.0
+HP,DOT MATRIX,2020,overheating,REPLACE,-1.0
+Brother,MULTIFUNCTION,2016,printing faded,REPAIR,11935.0
+Xerox,MULTIFUNCTION,2014,no power,REPLACE,-1.0
+Xerox,LASER,2019,printing faded,REPAIR,14006.45
+Xerox,DOT MATRIX,2022,no power,REPLACE,-1.0
+Epson,LASER,2019,overheating,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2019,no power,REPLACE,-1.0
+Epson,MULTIFUNCTION,2015,printing faded,REPAIR,12141.94
+Canon,MULTIFUNCTION,2015,scanner not working,REPAIR,8729.38
+Epson,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Epson,MULTIFUNCTION,2017,scanner not working,REPAIR,10714.3
+Canon,LASER,2015,no power,REPLACE,-1.0
+Brother,INKJET,2023,printing faded,REPAIR,2000.49
+Canon,INKJET,2018,mechanical failure,REPLACE,-1.0
+Ricoh,INKJET,2019,no power,REPLACE,-1.0
+Canon,LASER,2015,no power,REPLACE,-1.0
+Canon,DOT MATRIX,2015,no power,REPLACE,-1.0
+Canon,MULTIFUNCTION,2020,printing faded,REPAIR,10688.05
+Brother,INKJET,2020,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2015,mechanical failure,REPLACE,-1.0
+Brother,DOT MATRIX,2022,scanner not working,REPAIR,2767.54
+Ricoh,INKJET,2019,mechanical failure,REPLACE,-1.0
+Ricoh,LASER,2019,mechanical failure,REPLACE,-1.0
+Xerox,MULTIFUNCTION,2015,ink/toner low,REPAIR,10626.34
+Kyocera,INKJET,2021,no power,REPLACE,-1.0
+Kyocera,LASER,2019,scanner not working,REPAIR,4671.15
+HP,DOT MATRIX,2024,ink/toner low,REPAIR,3495.59
+Ricoh,INKJET,2019,no power,REPLACE,-1.0
+Epson,DOT MATRIX,2021,printing faded,REPAIR,1731.9
+Brother,MULTIFUNCTION,2019,no power,REPLACE,-1.0
+Xerox,INKJET,2023,paper jam,REPAIR,2455.64
+HP,DOT MATRIX,2023,ink/toner low,REPAIR,3518.65
+Kyocera,LASER,2017,scanner not working,REPAIR,8339.92
+Brother,MULTIFUNCTION,2014,printing faded,REPAIR,5657.76
+Xerox,DOT MATRIX,2015,scanner not working,REPAIR,2057.99
+Ricoh,DOT MATRIX,2016,printing faded,REPAIR,3590.9
+Epson,DOT MATRIX,2017,no power,REPLACE,-1.0
+Brother,MULTIFUNCTION,2018,mechanical failure,REPLACE,-1.0
+Brother,LASER,2014,overheating,REPLACE,-1.0
+Canon,INKJET,2024,ink/toner low,REPAIR,2747.29
+Xerox,DOT MATRIX,2017,ink/toner low,REPAIR,2013.59
+Brother,MULTIFUNCTION,2017,mechanical failure,REPLACE,-1.0
+Canon,INKJET,2021,scanner not working,REPAIR,817.29
+Ricoh,INKJET,2018,printing faded,REPAIR,1284.54
+Ricoh,DOT MATRIX,2018,scanner not working,REPAIR,2453.46
+Epson,INKJET,2024,scanner not working,REPAIR,2328.04
+Kyocera,INKJET,2017,printing faded,REPAIR,1839.01
+Xerox,INKJET,2021,mechanical failure,REPLACE,-1.0
+HP,MULTIFUNCTION,2018,printing faded,REPAIR,8133.15
+Xerox,DOT MATRIX,2021,mechanical failure,REPLACE,-1.0
+Canon,MULTIFUNCTION,2015,overheating,REPLACE,-1.0
+Kyocera,DOT MATRIX,2020,scanner not working,REPAIR,2317.4
+Epson,DOT MATRIX,2021,mechanical failure,REPLACE,-1.0
+Ricoh,MULTIFUNCTION,2014,mechanical failure,REPLACE,-1.0
+Xerox,INKJET,2022,overheating,REPLACE,-1.0
+Xerox,DOT MATRIX,2019,scanner not working,REPAIR,3297.65
+Brother,INKJET,2022,printing faded,REPAIR,3227.26
+HP,MULTIFUNCTION,2022,scanner not working,REPAIR,7042.87
+Xerox,LASER,2017,paper jam,REPAIR,7934.55
+Ricoh,INKJET,2020,paper jam,REPAIR,3801.59
+Kyocera,DOT MATRIX,2024,mechanical failure,REPLACE,-1.0

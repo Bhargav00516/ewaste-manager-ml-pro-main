@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Epsilon Problem – Gallery</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/css/gallery.css">
+  <style>
+    .icon-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .icon-card {
+      width: 180px;
+      height: 220px;
+      text-align: center;
+      border-radius: 15px;
+      padding: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease;
+      cursor: pointer;
+      background-color: #f0fff0;
+    }
+
+    .icon-card:hover {
+      transform: scale(1.05);
+    }
+
+    .icon-card img {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .quote-container {
+      background-color: #e8f5e9;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      margin-top: 20px;
+      font-style: italic;
+      font-size: 18px;
+    }
+
+    .help-container {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .help-card {
+      display: inline-block;
+      width: 200px;
+      padding: 20px;
+      background-color: #fff3cd;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .help-card:hover {
+      transform: scale(1.05);
+    }
+
+    .help-card img {
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+
+    .scrollable-quote {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background-color: #c8e6c9;
+      text-align: center;
+      padding: 10px 0;
+      font-weight: bold;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg bg-success">
+    <div class="container">
+      <a class="navbar-brand text-white" href="/">Epsilon Gallery</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link text-white" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="/gallery">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="/sell">sell</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h1 class="mt-4 text-center">Epsilon Problem – E-Waste Categories</h1>
+
+    <div class="quote-container">
+      <p>"The greatest threat to our planet is the belief that someone else will save it." - Robert Swan</p>
+    </div>
+
+    <div class="icon-container">
+      <div class="icon-card" onclick="rotateAndRedirect('/frontend')">
+        <img src="https://imgs.search.brave.com/Y8YxsNOEjIYz-ChIG5HWfSEr6Zheh8uVaXxxzRY_VMs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC85Ny8xNC9o/b3VzZWhvbGQtd2Fz/aGluZy1tYWNoaW5l/LWNhcnRvb24tdmVj/dG9yLTQ3NTA5NzE0/LmpwZw" alt="Washing Machine Icon">
+        <p>Washing Machines</p>
+      </div>
+      <div class="icon-card" onclick="rotateAndRedirect('/refrigerator')">
+        <img src="https://cdn.pixabay.com/photo/2023/01/02/22/01/fridge-7693154_640.png" alt="Refrigerator Icon">
+        <p>Refrigerators</p>
+      </div>
+      <div class="icon-card" onclick="rotateAndRedirect('/appliance')">
+        <img src="https://www.pcworld.com/wp-content/uploads/2021/09/pcw-windows10-tv-100829154-orig-1.jpg?quality=50&strip=all" alt="TV/Computer Icon">
+        <p>TV/Computer</p>
+      </div>
+      <div class="icon-card" onclick="rotateAndRedirect('/mobile_phone')">
+        <img src="https://www.gorefurbo.com/cdn/shop/collections/Refurbished_Mobile_Phones_1.jpg?v=1695978895" alt="Phone Icon">
+        <p>Phones</p>
+      </div>
+      <div class="icon-card" onclick="rotateAndRedirect('/batteries')">
+        <img src="https://static.vecteezy.com/system/resources/previews/011/869/228/large_2x/electric-vehicle-lithium-nmc-battery-electric-car-battery-lithium-ion-cell-pack-lithium-nmc-rechargeable-battery-ev-car-energy-storage-high-voltage-electric-vehicle-batteries-automotive-battery-photo.JPG" alt="Battery Icon">
+        <p>Batteries</p>
+      </div>
+      <div class="icon-card" onclick="rotateAndRedirect('/printers')">
+        <img src="https://i5.walmartimages.com/asr/e2f73184-a5f9-451e-9b62-b196f21638a8_1.1d54f922fcea14cc058f156da09771e6.jpeg" alt="Printer Icon">
+        <p>Printers</p>
+      </div>
+    </div>
+
+    </div> <!-- Close container -->
+
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Add the redirect function directly here -->
+    <script>
+      function rotateAndRedirect(path) {
+        window.location.href = path;
+      }
+    </script>
+
+    <div class="scrollable-quote">
+      <p>"Do not throw away your e-waste; recycle it to protect our planet." - Anonymous</p>
+    </div>
+  </body>
+</html>

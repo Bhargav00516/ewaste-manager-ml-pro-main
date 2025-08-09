@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phone Repair Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .form-container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select, input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .result {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            display: {% if result %}block{% else %}none{% endif %};
+        }
+    </style>
+</head>
+<body>
+    <h1>Mobile Phone Repair Prediction</h1>
+    <div class="form-container">
+        <form method="POST" action="/mobile_phone">
+            <div class="form-group">
+                <label for="brand">Brand:</label>
+                <select name="brand" id="brand" required>
+                    <option value="Samsung" {% if request.form and request.form.get('brand') == 'Samsung' %}selected{% endif %}>Samsung</option>
+                    <option value="Oppo" {% if request.form and request.form.get('brand') == 'Oppo' %}selected{% endif %}>Oppo</option>
+                    <option value="Realme" {% if request.form and request.form.get('brand') == 'Realme' %}selected{% endif %}>Realme</option>
+                    <option value="Apple" {% if request.form and request.form.get('brand') == 'Apple' %}selected{% endif %}>Apple</option>
+                    <option value="Vivo" {% if request.form and request.form.get('brand') == 'Vivo' %}selected{% endif %}>Vivo</option>
+                    <option value="OnePlus" {% if request.form and request.form.get('brand') == 'OnePlus' %}selected{% endif %}>OnePlus</option>
+                    <option value="Xiaomi" {% if request.form and request.form.get('brand') == 'Xiaomi' %}selected{% endif %}>Xiaomi</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="feature">Feature:</label>
+                <select name="feature" id="feature" required>
+                    <option value="BASIC" {% if request.form and request.form.get('feature') == 'BASIC' %}selected{% endif %}>BASIC</option>
+                    <option value="SMART" {% if request.form and request.form.get('feature') == 'SMART' %}selected{% endif %}>SMART</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="os">OS:</label>
+                <select name="os" id="os" required>
+                    <option value="ANDROID" {% if request.form and request.form.get('os') == 'ANDROID' %}selected{% endif %}>ANDROID</option>
+                    <option value="IOS" {% if request.form and request.form.get('os') == 'IOS' %}selected{% endif %}>IOS</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="problem">Problem:</label>
+                <select name="problem" id="problem" required>
+                    <option value="speaker not working" {% if request.form and request.form.get('problem') == 'speaker not working' %}selected{% endif %}>Speaker not working</option>
+                    <option value="software crash" {% if request.form and request.form.get('problem') == 'software crash' %}selected{% endif %}>Software crash</option>
+                    <option value="battery drain" {% if request.form and request.form.get('problem') == 'battery drain' %}selected{% endif %}>Battery drain</option>
+                    <option value="charging issue" {% if request.form and request.form.get('problem') == 'charging issue' %}selected{% endif %}>Charging issue</option>
+                    <option value="no power" {% if request.form and request.form.get('problem') == 'no power' %}selected{% endif %}>No power</option>
+                    <option value="overheating" {% if request.form and request.form.get('problem') == 'overheating' %}selected{% endif %}>Overheating</option>
+                    <option value="screen cracked" {% if request.form and request.form.get('problem') == 'screen cracked' %}selected{% endif %}>Screen cracked</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="year">Year:</label>
+                <input type="number" name="year" id="year" min="2008" max="2025" value="{{ request.form.get('year') if request.form else '' }}" required>
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+    <div class="result">
+        {% if result %}
+            <p>Prediction: {{ result }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

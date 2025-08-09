@@ -1,0 +1,501 @@
+Company,Type,Year_of_Purchase,Problem,Decision,Cost
+Voltas,SINGLE,2021,door not closing,REPAIR,2941.77
+Samsung,TOP,2020,strange noise,REPAIR,2619.61
+Godrej,SINGLE,2023,excess ice,REPLACE,-1.0
+LG,SINGLE,2022,leaking water,REPAIR,2243.28
+Panasonic,SINGLE,2017,strange noise,REPAIR,1274.56
+LG,SIDE-BY-SIDE,2016,no power,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2024,door not closing,REPAIR,1167.02
+Godrej,TOP,2015,leaking water,REPAIR,1268.88
+Panasonic,DOUBLE,2015,no power,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2019,door not closing,REPAIR,1204.5
+Haier,SIDE-BY-SIDE,2022,defrost issue,REPAIR,741.31
+Samsung,DOUBLE,2019,defrost issue,REPAIR,983.12
+Panasonic,SIDE-BY-SIDE,2022,strange noise,REPAIR,717.51
+Samsung,TOP,2021,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2024,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2021,strange noise,REPAIR,2518.64
+Voltas,TOP,2023,not cooling,REPLACE,-1.0
+Haier,DOUBLE,2024,door not closing,REPAIR,1294.18
+LG,SIDE-BY-SIDE,2018,no power,REPLACE,-1.0
+Panasonic,TOP,2018,defrost issue,REPAIR,2021.92
+Haier,SINGLE,2017,excess ice,REPLACE,-1.0
+Haier,DOUBLE,2019,door not closing,REPAIR,2993.62
+Panasonic,SINGLE,2024,no power,REPLACE,-1.0
+Panasonic,SINGLE,2017,excess ice,REPLACE,-1.0
+Whirlpool,SINGLE,2019,leaking water,REPAIR,2162.96
+Panasonic,SINGLE,2020,strange noise,REPAIR,1258.57
+Voltas,DOUBLE,2020,no power,REPLACE,-1.0
+Haier,TOP,2016,defrost issue,REPAIR,1849.19
+Godrej,SIDE-BY-SIDE,2021,excess ice,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2020,strange noise,REPAIR,2076.28
+LG,SINGLE,2016,no power,REPLACE,-1.0
+Haier,TOP,2022,door not closing,REPAIR,2347.2
+Panasonic,SIDE-BY-SIDE,2019,excess ice,REPLACE,-1.0
+Haier,SINGLE,2020,leaking water,REPAIR,1956.41
+LG,TOP,2016,defrost issue,REPAIR,2687.71
+Haier,SIDE-BY-SIDE,2022,excess ice,REPLACE,-1.0
+Voltas,TOP,2023,defrost issue,REPAIR,1779.29
+Whirlpool,TOP,2017,excess ice,REPLACE,-1.0
+Voltas,SINGLE,2022,defrost issue,REPAIR,1401.1
+Whirlpool,SINGLE,2020,strange noise,REPAIR,1207.8
+LG,TOP,2023,door not closing,REPAIR,2402.19
+Haier,SIDE-BY-SIDE,2017,no power,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2016,strange noise,REPAIR,763.73
+Voltas,SIDE-BY-SIDE,2022,defrost issue,REPAIR,862.76
+LG,DOUBLE,2019,not cooling,REPLACE,-1.0
+LG,SINGLE,2024,not cooling,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2021,defrost issue,REPAIR,2511.98
+Samsung,SINGLE,2019,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2020,defrost issue,REPAIR,2083.92
+Whirlpool,SIDE-BY-SIDE,2023,not cooling,REPLACE,-1.0
+Haier,SINGLE,2022,not cooling,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2018,leaking water,REPAIR,2245.57
+Samsung,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Godrej,DOUBLE,2019,no power,REPLACE,-1.0
+Whirlpool,TOP,2019,not cooling,REPLACE,-1.0
+Haier,SINGLE,2015,no power,REPLACE,-1.0
+Voltas,SINGLE,2020,strange noise,REPAIR,2506.71
+Whirlpool,DOUBLE,2018,leaking water,REPAIR,871.94
+Samsung,TOP,2016,no power,REPLACE,-1.0
+Godrej,TOP,2023,strange noise,REPAIR,2089.23
+Haier,SINGLE,2017,excess ice,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2024,door not closing,REPAIR,2151.16
+Haier,SIDE-BY-SIDE,2018,no power,REPLACE,-1.0
+Samsung,SINGLE,2017,strange noise,REPAIR,2375.15
+Whirlpool,DOUBLE,2020,door not closing,REPAIR,758.24
+Panasonic,DOUBLE,2022,excess ice,REPLACE,-1.0
+Voltas,SINGLE,2019,excess ice,REPLACE,-1.0
+Panasonic,SINGLE,2016,not cooling,REPLACE,-1.0
+LG,SINGLE,2021,leaking water,REPAIR,615.72
+Godrej,SINGLE,2024,strange noise,REPAIR,2426.81
+Samsung,SIDE-BY-SIDE,2019,door not closing,REPAIR,2434.96
+LG,SINGLE,2019,leaking water,REPAIR,2772.2
+Voltas,SIDE-BY-SIDE,2017,not cooling,REPLACE,-1.0
+Whirlpool,TOP,2016,door not closing,REPAIR,2295.0
+Whirlpool,SINGLE,2015,strange noise,REPAIR,808.39
+LG,SIDE-BY-SIDE,2015,no power,REPLACE,-1.0
+Voltas,SINGLE,2016,excess ice,REPLACE,-1.0
+Samsung,SINGLE,2023,strange noise,REPAIR,1280.6
+Haier,SIDE-BY-SIDE,2023,no power,REPLACE,-1.0
+Samsung,TOP,2015,strange noise,REPAIR,1793.55
+Voltas,SIDE-BY-SIDE,2015,leaking water,REPAIR,1978.39
+Godrej,SINGLE,2016,leaking water,REPAIR,1529.5
+Panasonic,TOP,2021,door not closing,REPAIR,975.71
+Panasonic,SIDE-BY-SIDE,2020,not cooling,REPLACE,-1.0
+Voltas,TOP,2017,excess ice,REPLACE,-1.0
+Godrej,SINGLE,2016,excess ice,REPLACE,-1.0
+Panasonic,SINGLE,2023,no power,REPLACE,-1.0
+Panasonic,SINGLE,2016,defrost issue,REPAIR,2754.78
+Samsung,DOUBLE,2021,leaking water,REPAIR,1183.22
+Panasonic,SINGLE,2024,excess ice,REPLACE,-1.0
+Godrej,TOP,2015,excess ice,REPLACE,-1.0
+LG,SINGLE,2016,not cooling,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2022,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2023,defrost issue,REPAIR,2600.63
+Whirlpool,SINGLE,2021,door not closing,REPAIR,523.22
+LG,SINGLE,2019,no power,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2018,strange noise,REPAIR,1971.63
+Samsung,DOUBLE,2015,leaking water,REPAIR,2485.51
+Whirlpool,SIDE-BY-SIDE,2022,leaking water,REPAIR,2856.45
+Haier,TOP,2017,door not closing,REPAIR,1262.6
+Godrej,SIDE-BY-SIDE,2020,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2019,door not closing,REPAIR,1712.14
+LG,TOP,2024,no power,REPLACE,-1.0
+Haier,TOP,2019,excess ice,REPLACE,-1.0
+Voltas,SINGLE,2015,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2015,no power,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2017,no power,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2017,no power,REPLACE,-1.0
+Panasonic,SINGLE,2021,door not closing,REPAIR,2657.96
+Panasonic,TOP,2024,excess ice,REPLACE,-1.0
+Whirlpool,SINGLE,2022,excess ice,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2017,excess ice,REPLACE,-1.0
+LG,TOP,2021,excess ice,REPLACE,-1.0
+LG,DOUBLE,2022,leaking water,REPAIR,1466.66
+Voltas,SIDE-BY-SIDE,2024,door not closing,REPAIR,2174.55
+Godrej,SINGLE,2022,no power,REPLACE,-1.0
+LG,DOUBLE,2018,strange noise,REPAIR,1826.85
+Haier,DOUBLE,2016,door not closing,REPAIR,1441.26
+Godrej,DOUBLE,2024,not cooling,REPLACE,-1.0
+Godrej,DOUBLE,2023,excess ice,REPLACE,-1.0
+LG,DOUBLE,2020,door not closing,REPAIR,2144.89
+Whirlpool,SIDE-BY-SIDE,2021,strange noise,REPAIR,2637.79
+Samsung,SINGLE,2020,no power,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2019,door not closing,REPAIR,2783.59
+Panasonic,SIDE-BY-SIDE,2020,no power,REPLACE,-1.0
+Panasonic,TOP,2021,no power,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2019,excess ice,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2018,excess ice,REPLACE,-1.0
+Godrej,TOP,2021,defrost issue,REPAIR,2126.86
+Whirlpool,SINGLE,2022,strange noise,REPAIR,1655.3
+Godrej,SINGLE,2015,excess ice,REPLACE,-1.0
+Whirlpool,TOP,2015,no power,REPLACE,-1.0
+Panasonic,TOP,2023,no power,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2019,defrost issue,REPAIR,2622.68
+Whirlpool,TOP,2017,excess ice,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2023,strange noise,REPAIR,2516.71
+Haier,TOP,2015,defrost issue,REPAIR,2363.59
+Godrej,SIDE-BY-SIDE,2022,defrost issue,REPAIR,2503.36
+Voltas,TOP,2023,door not closing,REPAIR,1452.8
+Godrej,SIDE-BY-SIDE,2015,not cooling,REPLACE,-1.0
+LG,TOP,2020,leaking water,REPAIR,2824.28
+LG,SINGLE,2015,excess ice,REPLACE,-1.0
+Panasonic,TOP,2021,leaking water,REPAIR,1669.3
+Whirlpool,SIDE-BY-SIDE,2024,excess ice,REPLACE,-1.0
+Whirlpool,DOUBLE,2016,defrost issue,REPAIR,620.1
+Panasonic,SINGLE,2017,leaking water,REPAIR,2517.4
+Haier,TOP,2020,no power,REPLACE,-1.0
+Godrej,SINGLE,2024,no power,REPLACE,-1.0
+Samsung,SINGLE,2018,strange noise,REPAIR,2754.88
+Whirlpool,SINGLE,2024,leaking water,REPAIR,1022.17
+Voltas,SINGLE,2022,excess ice,REPLACE,-1.0
+Samsung,DOUBLE,2023,excess ice,REPLACE,-1.0
+Haier,SINGLE,2016,excess ice,REPLACE,-1.0
+Voltas,TOP,2023,defrost issue,REPAIR,856.78
+Panasonic,DOUBLE,2024,leaking water,REPAIR,2705.74
+Samsung,TOP,2016,leaking water,REPAIR,2685.73
+Whirlpool,SINGLE,2023,not cooling,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2019,door not closing,REPAIR,1059.59
+Godrej,TOP,2020,no power,REPLACE,-1.0
+Godrej,DOUBLE,2015,defrost issue,REPAIR,1272.64
+Godrej,SIDE-BY-SIDE,2022,no power,REPLACE,-1.0
+LG,DOUBLE,2019,door not closing,REPAIR,1940.16
+Godrej,SINGLE,2017,not cooling,REPLACE,-1.0
+Voltas,SINGLE,2021,not cooling,REPLACE,-1.0
+Godrej,SINGLE,2017,no power,REPLACE,-1.0
+Voltas,SINGLE,2021,door not closing,REPAIR,861.84
+Panasonic,SINGLE,2017,door not closing,REPAIR,2732.62
+Voltas,SIDE-BY-SIDE,2018,strange noise,REPAIR,1796.89
+Godrej,SINGLE,2016,strange noise,REPAIR,1784.03
+Voltas,SIDE-BY-SIDE,2017,excess ice,REPLACE,-1.0
+Samsung,DOUBLE,2024,not cooling,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2016,leaking water,REPAIR,1838.65
+Whirlpool,TOP,2020,no power,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2017,no power,REPLACE,-1.0
+Whirlpool,DOUBLE,2022,excess ice,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2015,leaking water,REPAIR,1706.17
+Godrej,DOUBLE,2022,no power,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2020,door not closing,REPAIR,1644.27
+LG,SINGLE,2022,leaking water,REPAIR,2719.92
+Voltas,TOP,2020,defrost issue,REPAIR,1731.66
+Haier,SIDE-BY-SIDE,2023,excess ice,REPLACE,-1.0
+Samsung,SINGLE,2020,not cooling,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2023,defrost issue,REPAIR,2845.06
+Samsung,SINGLE,2021,door not closing,REPAIR,1091.89
+Samsung,DOUBLE,2021,not cooling,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2019,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2023,leaking water,REPAIR,2852.38
+Voltas,TOP,2016,excess ice,REPLACE,-1.0
+Whirlpool,TOP,2020,leaking water,REPAIR,1959.83
+Panasonic,TOP,2023,excess ice,REPLACE,-1.0
+Haier,DOUBLE,2022,not cooling,REPLACE,-1.0
+Haier,SINGLE,2021,excess ice,REPLACE,-1.0
+Panasonic,SINGLE,2017,door not closing,REPAIR,2487.81
+Voltas,SIDE-BY-SIDE,2016,strange noise,REPAIR,2386.53
+Whirlpool,SINGLE,2024,excess ice,REPLACE,-1.0
+Haier,DOUBLE,2015,no power,REPLACE,-1.0
+Panasonic,DOUBLE,2016,leaking water,REPAIR,2367.06
+Voltas,SIDE-BY-SIDE,2020,leaking water,REPAIR,1521.37
+Whirlpool,TOP,2019,leaking water,REPAIR,2859.45
+Voltas,SINGLE,2023,not cooling,REPLACE,-1.0
+Whirlpool,SINGLE,2017,defrost issue,REPAIR,710.83
+Godrej,SINGLE,2020,door not closing,REPAIR,1076.07
+Voltas,SINGLE,2024,defrost issue,REPAIR,1077.95
+Godrej,SINGLE,2017,not cooling,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2018,excess ice,REPLACE,-1.0
+Haier,DOUBLE,2024,not cooling,REPLACE,-1.0
+Panasonic,SINGLE,2018,defrost issue,REPAIR,1213.89
+Voltas,TOP,2015,defrost issue,REPAIR,1855.36
+Panasonic,SINGLE,2024,defrost issue,REPAIR,1837.79
+Godrej,DOUBLE,2023,excess ice,REPLACE,-1.0
+LG,SINGLE,2023,not cooling,REPLACE,-1.0
+LG,TOP,2016,leaking water,REPAIR,2027.22
+Voltas,TOP,2022,defrost issue,REPAIR,1347.58
+LG,SINGLE,2015,leaking water,REPAIR,2218.86
+LG,SINGLE,2020,defrost issue,REPAIR,1907.73
+Voltas,SIDE-BY-SIDE,2020,no power,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2016,defrost issue,REPAIR,978.26
+LG,TOP,2020,excess ice,REPLACE,-1.0
+Haier,TOP,2017,door not closing,REPAIR,2362.9
+Samsung,SINGLE,2019,defrost issue,REPAIR,2055.23
+Voltas,SINGLE,2023,door not closing,REPAIR,1717.8
+LG,SIDE-BY-SIDE,2023,not cooling,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2019,strange noise,REPAIR,672.39
+Panasonic,SINGLE,2022,no power,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Haier,DOUBLE,2021,strange noise,REPAIR,2389.68
+Haier,DOUBLE,2019,excess ice,REPLACE,-1.0
+Godrej,SINGLE,2018,no power,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2020,excess ice,REPLACE,-1.0
+LG,TOP,2023,door not closing,REPAIR,2489.4
+LG,SINGLE,2020,door not closing,REPAIR,1665.98
+Panasonic,SINGLE,2015,not cooling,REPLACE,-1.0
+Voltas,DOUBLE,2022,no power,REPLACE,-1.0
+Panasonic,TOP,2017,door not closing,REPAIR,1143.09
+Voltas,TOP,2018,no power,REPLACE,-1.0
+Haier,DOUBLE,2019,defrost issue,REPAIR,2225.76
+Panasonic,TOP,2020,leaking water,REPAIR,2342.88
+Samsung,DOUBLE,2017,door not closing,REPAIR,810.79
+LG,TOP,2015,not cooling,REPLACE,-1.0
+Whirlpool,TOP,2016,strange noise,REPAIR,1585.05
+Godrej,SIDE-BY-SIDE,2020,strange noise,REPAIR,2200.73
+Whirlpool,SINGLE,2020,defrost issue,REPAIR,1230.01
+Haier,DOUBLE,2018,not cooling,REPLACE,-1.0
+Godrej,SINGLE,2018,no power,REPLACE,-1.0
+Voltas,TOP,2018,door not closing,REPAIR,1897.74
+Samsung,SIDE-BY-SIDE,2017,strange noise,REPAIR,808.5
+LG,SINGLE,2016,leaking water,REPAIR,2894.97
+Godrej,TOP,2015,no power,REPLACE,-1.0
+Panasonic,SINGLE,2023,door not closing,REPAIR,1664.6
+Voltas,SIDE-BY-SIDE,2024,defrost issue,REPAIR,2937.54
+Godrej,SIDE-BY-SIDE,2019,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2020,no power,REPLACE,-1.0
+Godrej,TOP,2019,leaking water,REPAIR,1856.4
+Whirlpool,DOUBLE,2022,not cooling,REPLACE,-1.0
+Godrej,SINGLE,2024,excess ice,REPLACE,-1.0
+Samsung,SINGLE,2021,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2024,no power,REPLACE,-1.0
+Godrej,TOP,2022,excess ice,REPLACE,-1.0
+Whirlpool,DOUBLE,2015,not cooling,REPLACE,-1.0
+Whirlpool,TOP,2015,strange noise,REPAIR,585.71
+Whirlpool,SINGLE,2015,door not closing,REPAIR,2013.3
+Godrej,SINGLE,2022,leaking water,REPAIR,2046.94
+Whirlpool,TOP,2020,door not closing,REPAIR,2209.82
+Voltas,DOUBLE,2024,door not closing,REPAIR,2039.17
+Panasonic,TOP,2019,leaking water,REPAIR,1538.01
+Haier,TOP,2017,door not closing,REPAIR,2897.85
+Whirlpool,DOUBLE,2023,defrost issue,REPAIR,901.96
+Panasonic,DOUBLE,2019,no power,REPLACE,-1.0
+Haier,DOUBLE,2015,door not closing,REPAIR,2802.92
+LG,DOUBLE,2022,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2022,no power,REPLACE,-1.0
+Panasonic,TOP,2015,door not closing,REPAIR,2561.23
+Samsung,SINGLE,2015,excess ice,REPLACE,-1.0
+Godrej,TOP,2018,defrost issue,REPAIR,602.05
+Panasonic,SIDE-BY-SIDE,2016,leaking water,REPAIR,2148.18
+Voltas,DOUBLE,2018,defrost issue,REPAIR,604.94
+Panasonic,TOP,2015,not cooling,REPLACE,-1.0
+Voltas,SINGLE,2016,defrost issue,REPAIR,2489.65
+Haier,TOP,2016,leaking water,REPAIR,759.98
+Haier,DOUBLE,2017,no power,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2018,strange noise,REPAIR,1900.48
+Haier,DOUBLE,2016,leaking water,REPAIR,1063.22
+Panasonic,SIDE-BY-SIDE,2021,no power,REPLACE,-1.0
+Voltas,DOUBLE,2017,not cooling,REPLACE,-1.0
+Whirlpool,TOP,2019,defrost issue,REPAIR,1315.26
+Godrej,SIDE-BY-SIDE,2024,defrost issue,REPAIR,805.69
+Whirlpool,DOUBLE,2016,defrost issue,REPAIR,2616.38
+LG,TOP,2023,defrost issue,REPAIR,1493.93
+Panasonic,SIDE-BY-SIDE,2019,defrost issue,REPAIR,1035.82
+Voltas,TOP,2016,strange noise,REPAIR,2938.49
+Samsung,DOUBLE,2018,excess ice,REPLACE,-1.0
+Panasonic,SINGLE,2016,strange noise,REPAIR,1353.32
+Haier,DOUBLE,2018,not cooling,REPLACE,-1.0
+LG,DOUBLE,2022,excess ice,REPLACE,-1.0
+LG,DOUBLE,2016,excess ice,REPLACE,-1.0
+Whirlpool,TOP,2022,leaking water,REPAIR,2967.94
+Panasonic,TOP,2020,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2022,no power,REPLACE,-1.0
+Haier,TOP,2023,not cooling,REPLACE,-1.0
+Voltas,SINGLE,2020,door not closing,REPAIR,2824.43
+Haier,TOP,2019,not cooling,REPLACE,-1.0
+Godrej,DOUBLE,2018,strange noise,REPAIR,2652.13
+LG,SIDE-BY-SIDE,2023,not cooling,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2024,leaking water,REPAIR,740.39
+LG,SINGLE,2017,not cooling,REPLACE,-1.0
+Godrej,TOP,2022,defrost issue,REPAIR,2615.23
+LG,DOUBLE,2016,defrost issue,REPAIR,2149.88
+Voltas,TOP,2017,strange noise,REPAIR,2417.9
+Samsung,TOP,2016,excess ice,REPLACE,-1.0
+Godrej,SINGLE,2024,leaking water,REPAIR,907.66
+Panasonic,TOP,2016,strange noise,REPAIR,1662.84
+Godrej,TOP,2022,excess ice,REPLACE,-1.0
+Haier,TOP,2018,leaking water,REPAIR,2846.61
+Haier,SINGLE,2021,leaking water,REPAIR,2629.45
+Godrej,TOP,2017,defrost issue,REPAIR,2107.94
+Panasonic,DOUBLE,2023,excess ice,REPLACE,-1.0
+LG,DOUBLE,2024,strange noise,REPAIR,1759.37
+Haier,TOP,2022,no power,REPLACE,-1.0
+Godrej,DOUBLE,2021,leaking water,REPAIR,1544.18
+Godrej,DOUBLE,2019,door not closing,REPAIR,957.54
+LG,TOP,2019,no power,REPLACE,-1.0
+Whirlpool,DOUBLE,2015,excess ice,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2015,door not closing,REPAIR,2716.85
+Whirlpool,DOUBLE,2017,strange noise,REPAIR,2759.3
+Haier,DOUBLE,2019,no power,REPLACE,-1.0
+Whirlpool,TOP,2017,leaking water,REPAIR,1684.21
+Panasonic,TOP,2024,leaking water,REPAIR,566.49
+Haier,DOUBLE,2018,leaking water,REPAIR,1506.58
+Voltas,SINGLE,2015,strange noise,REPAIR,2122.65
+Voltas,SIDE-BY-SIDE,2015,strange noise,REPAIR,2306.07
+Samsung,TOP,2020,not cooling,REPLACE,-1.0
+Samsung,SINGLE,2015,door not closing,REPAIR,2930.81
+Haier,SINGLE,2019,excess ice,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2019,door not closing,REPAIR,525.57
+Samsung,SIDE-BY-SIDE,2019,defrost issue,REPAIR,2376.54
+Samsung,SINGLE,2019,strange noise,REPAIR,2957.46
+Voltas,SIDE-BY-SIDE,2024,no power,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2017,leaking water,REPAIR,2923.77
+Voltas,TOP,2017,no power,REPLACE,-1.0
+Godrej,TOP,2021,door not closing,REPAIR,1309.03
+Voltas,DOUBLE,2016,excess ice,REPLACE,-1.0
+Voltas,TOP,2021,excess ice,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2017,not cooling,REPLACE,-1.0
+Haier,DOUBLE,2017,no power,REPLACE,-1.0
+Haier,SINGLE,2023,leaking water,REPAIR,2805.18
+Samsung,TOP,2015,excess ice,REPLACE,-1.0
+Godrej,SINGLE,2015,door not closing,REPAIR,2748.9
+Haier,SINGLE,2022,leaking water,REPAIR,2105.99
+Whirlpool,SIDE-BY-SIDE,2016,defrost issue,REPAIR,2679.57
+Haier,DOUBLE,2023,door not closing,REPAIR,934.76
+LG,TOP,2015,excess ice,REPLACE,-1.0
+Voltas,SINGLE,2018,not cooling,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2022,strange noise,REPAIR,1652.94
+Voltas,DOUBLE,2023,no power,REPLACE,-1.0
+Haier,SINGLE,2024,strange noise,REPAIR,2779.16
+Haier,DOUBLE,2021,door not closing,REPAIR,2018.8
+LG,SIDE-BY-SIDE,2023,defrost issue,REPAIR,748.47
+Samsung,DOUBLE,2019,not cooling,REPLACE,-1.0
+Samsung,SINGLE,2015,excess ice,REPLACE,-1.0
+Godrej,TOP,2022,leaking water,REPAIR,1528.69
+Whirlpool,SIDE-BY-SIDE,2023,no power,REPLACE,-1.0
+Whirlpool,SIDE-BY-SIDE,2024,leaking water,REPAIR,2757.44
+Samsung,SINGLE,2018,door not closing,REPAIR,1249.32
+Whirlpool,SINGLE,2020,defrost issue,REPAIR,2383.14
+Haier,SIDE-BY-SIDE,2015,excess ice,REPLACE,-1.0
+Whirlpool,TOP,2016,no power,REPLACE,-1.0
+Whirlpool,TOP,2017,door not closing,REPAIR,585.64
+Whirlpool,SIDE-BY-SIDE,2022,door not closing,REPAIR,780.8
+Whirlpool,DOUBLE,2016,leaking water,REPAIR,811.65
+Panasonic,SINGLE,2015,not cooling,REPLACE,-1.0
+Haier,SINGLE,2021,door not closing,REPAIR,1242.32
+Whirlpool,DOUBLE,2022,defrost issue,REPAIR,2550.69
+LG,DOUBLE,2015,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2020,strange noise,REPAIR,1272.07
+Panasonic,SIDE-BY-SIDE,2017,leaking water,REPAIR,1094.16
+Godrej,SINGLE,2024,leaking water,REPAIR,2229.07
+Voltas,SIDE-BY-SIDE,2017,leaking water,REPAIR,2968.11
+Whirlpool,SINGLE,2015,door not closing,REPAIR,2224.38
+Haier,DOUBLE,2022,excess ice,REPLACE,-1.0
+Godrej,SINGLE,2015,door not closing,REPAIR,1067.94
+Haier,TOP,2024,strange noise,REPAIR,1514.26
+Panasonic,SINGLE,2017,defrost issue,REPAIR,2765.43
+Voltas,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Godrej,SINGLE,2023,door not closing,REPAIR,1889.04
+Samsung,DOUBLE,2021,not cooling,REPLACE,-1.0
+LG,DOUBLE,2019,no power,REPLACE,-1.0
+LG,SINGLE,2016,defrost issue,REPAIR,2916.54
+LG,SINGLE,2015,strange noise,REPAIR,2029.37
+Whirlpool,SINGLE,2019,excess ice,REPLACE,-1.0
+LG,DOUBLE,2018,leaking water,REPAIR,1772.89
+Panasonic,SINGLE,2019,excess ice,REPLACE,-1.0
+Voltas,DOUBLE,2024,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2020,no power,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2015,defrost issue,REPAIR,2631.61
+Haier,SINGLE,2016,leaking water,REPAIR,1562.34
+Samsung,SIDE-BY-SIDE,2015,defrost issue,REPAIR,1397.06
+Haier,SINGLE,2023,defrost issue,REPAIR,1810.09
+Voltas,TOP,2020,strange noise,REPAIR,2206.81
+LG,DOUBLE,2019,defrost issue,REPAIR,1765.81
+Whirlpool,SINGLE,2019,strange noise,REPAIR,1695.98
+LG,TOP,2021,defrost issue,REPAIR,2288.37
+LG,DOUBLE,2017,leaking water,REPAIR,2345.93
+Panasonic,SINGLE,2022,defrost issue,REPAIR,1403.93
+LG,DOUBLE,2019,no power,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2023,leaking water,REPAIR,1006.14
+LG,SIDE-BY-SIDE,2017,no power,REPLACE,-1.0
+Samsung,DOUBLE,2024,strange noise,REPAIR,2353.56
+LG,SINGLE,2023,no power,REPLACE,-1.0
+Voltas,TOP,2019,door not closing,REPAIR,941.95
+Godrej,SIDE-BY-SIDE,2024,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2019,excess ice,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2021,no power,REPLACE,-1.0
+Panasonic,TOP,2018,no power,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Voltas,SINGLE,2015,door not closing,REPAIR,2299.9
+LG,SIDE-BY-SIDE,2020,defrost issue,REPAIR,1060.41
+LG,SINGLE,2020,leaking water,REPAIR,1104.73
+Samsung,SIDE-BY-SIDE,2016,no power,REPLACE,-1.0
+Whirlpool,TOP,2019,defrost issue,REPAIR,1394.41
+Voltas,SINGLE,2020,no power,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2020,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2016,door not closing,REPAIR,2963.78
+Voltas,DOUBLE,2016,excess ice,REPLACE,-1.0
+LG,TOP,2017,excess ice,REPLACE,-1.0
+Voltas,SINGLE,2024,door not closing,REPAIR,833.88
+Panasonic,TOP,2022,excess ice,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2015,not cooling,REPLACE,-1.0
+Godrej,DOUBLE,2018,not cooling,REPLACE,-1.0
+Voltas,DOUBLE,2021,defrost issue,REPAIR,847.3
+Panasonic,TOP,2016,excess ice,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2016,no power,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2018,strange noise,REPAIR,2421.31
+Haier,TOP,2022,not cooling,REPLACE,-1.0
+LG,SINGLE,2017,strange noise,REPAIR,576.37
+Haier,SIDE-BY-SIDE,2024,defrost issue,REPAIR,1059.93
+Voltas,SIDE-BY-SIDE,2015,strange noise,REPAIR,1865.66
+Haier,SINGLE,2023,door not closing,REPAIR,1264.92
+Haier,DOUBLE,2018,defrost issue,REPAIR,1753.91
+Samsung,SIDE-BY-SIDE,2024,defrost issue,REPAIR,2238.62
+Godrej,TOP,2020,defrost issue,REPAIR,1841.83
+Whirlpool,SIDE-BY-SIDE,2018,defrost issue,REPAIR,1627.34
+Samsung,DOUBLE,2016,defrost issue,REPAIR,2008.99
+Haier,SIDE-BY-SIDE,2024,door not closing,REPAIR,2441.52
+Godrej,SIDE-BY-SIDE,2022,no power,REPLACE,-1.0
+Haier,SIDE-BY-SIDE,2015,no power,REPLACE,-1.0
+Panasonic,SINGLE,2019,not cooling,REPLACE,-1.0
+LG,TOP,2017,excess ice,REPLACE,-1.0
+Whirlpool,SINGLE,2024,strange noise,REPAIR,2883.87
+Panasonic,SIDE-BY-SIDE,2024,no power,REPLACE,-1.0
+Panasonic,TOP,2023,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2021,excess ice,REPLACE,-1.0
+Samsung,SINGLE,2023,excess ice,REPLACE,-1.0
+LG,TOP,2023,leaking water,REPAIR,793.17
+Voltas,DOUBLE,2016,leaking water,REPAIR,775.42
+Panasonic,SINGLE,2019,leaking water,REPAIR,1991.67
+Panasonic,TOP,2020,no power,REPLACE,-1.0
+Samsung,DOUBLE,2016,door not closing,REPAIR,2548.52
+Samsung,SIDE-BY-SIDE,2021,excess ice,REPLACE,-1.0
+Panasonic,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Samsung,DOUBLE,2023,not cooling,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2019,not cooling,REPLACE,-1.0
+Samsung,SIDE-BY-SIDE,2018,excess ice,REPLACE,-1.0
+LG,SINGLE,2024,strange noise,REPAIR,2349.13
+Voltas,DOUBLE,2018,leaking water,REPAIR,1247.65
+Godrej,SINGLE,2024,leaking water,REPAIR,2374.14
+Godrej,SIDE-BY-SIDE,2023,strange noise,REPAIR,717.56
+Samsung,SINGLE,2018,strange noise,REPAIR,1926.53
+Haier,SIDE-BY-SIDE,2016,excess ice,REPLACE,-1.0
+Godrej,TOP,2018,no power,REPLACE,-1.0
+Godrej,DOUBLE,2022,door not closing,REPAIR,926.67
+Godrej,DOUBLE,2017,defrost issue,REPAIR,1295.94
+Samsung,SINGLE,2019,no power,REPLACE,-1.0
+Whirlpool,TOP,2015,door not closing,REPAIR,2034.77
+Whirlpool,SINGLE,2018,not cooling,REPLACE,-1.0
+Panasonic,TOP,2017,no power,REPLACE,-1.0
+LG,DOUBLE,2015,leaking water,REPAIR,801.66
+Panasonic,DOUBLE,2023,door not closing,REPAIR,573.76
+Whirlpool,SIDE-BY-SIDE,2024,door not closing,REPAIR,758.3
+Haier,TOP,2015,excess ice,REPLACE,-1.0
+Voltas,SIDE-BY-SIDE,2017,strange noise,REPAIR,1217.79
+Voltas,SINGLE,2023,door not closing,REPAIR,687.01
+Whirlpool,SINGLE,2016,defrost issue,REPAIR,1100.71
+Panasonic,SINGLE,2022,door not closing,REPAIR,2102.18
+LG,SINGLE,2021,leaking water,REPAIR,2903.66
+Godrej,DOUBLE,2022,defrost issue,REPAIR,2094.3
+Voltas,SIDE-BY-SIDE,2024,leaking water,REPAIR,892.33
+LG,TOP,2024,excess ice,REPLACE,-1.0
+Voltas,TOP,2018,excess ice,REPLACE,-1.0
+LG,TOP,2024,no power,REPLACE,-1.0
+LG,TOP,2021,defrost issue,REPAIR,2827.78
+Haier,TOP,2024,not cooling,REPLACE,-1.0
+LG,SIDE-BY-SIDE,2016,not cooling,REPLACE,-1.0
+Godrej,SIDE-BY-SIDE,2021,excess ice,REPLACE,-1.0
+Haier,TOP,2019,strange noise,REPAIR,2019.96
+Samsung,SIDE-BY-SIDE,2020,strange noise,REPAIR,967.46
+Voltas,DOUBLE,2022,not cooling,REPLACE,-1.0
+Panasonic,TOP,2022,excess ice,REPLACE,-1.0
+Samsung,DOUBLE,2018,leaking water,REPAIR,1977.36
+LG,DOUBLE,2015,leaking water,REPAIR,2147.37

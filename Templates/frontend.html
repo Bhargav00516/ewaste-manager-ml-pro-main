@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washing Machine Repair Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .form-container {
+            background-color: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        select, input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #e8f4fc;
+        }
+        .repairable { color: #27ae60; }
+        .replaceable { color: #e74c3c; }
+        .cost { font-weight: bold; font-size: 18px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Washing Machine Repair Prediction</h1>
+    <div class="form-container">
+        <form method="POST">
+            <div class="form-group">
+                <label for="company">Company</label>
+                <select id="company" name="company" required>
+                    <option value="">Select a company</option>
+                    <option value="LG">LG</option>
+                    <option value="Samsung">Samsung</option>
+                    <option value="Whirlpool">Whirlpool</option>
+                    <option value="Bosch">Bosch</option>
+                    <option value="IFB">IFB</option>
+                    <option value="Haier">Haier</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="type">Type</label>
+                <select id="type" name="type" required>
+                    <option value="">Select type</option>
+                    <option value="Top">Top Load</option>
+                    <option value="Front">Front Load</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="year">Year of Purchase</label>
+                <input type="number" id="year" name="year" min="2000" max="2023" required>
+            </div>
+            <div class="form-group">
+                <label for="problem">Problem</label>
+                <select id="problem" name="problem" required>
+                    <option value="">Select problem</option>
+                    <option value="Power issue">Power issue</option>
+                    <option value="Drum issue">Drum issue</option>
+                    <option value="Not draining">Not draining</option>
+                    <option value="Not spinning">Not spinning</option>
+                    <option value="Leaking">Leaking</option>
+                    <option value="Noise">Noise</option>
+                </select>
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+        {% if result %}
+        <div class="result">
+            <h2>Prediction Result</h2>
+            {% if "Replace" in result %}
+                <p>Your washing machine needs to be <span class="replaceable">replaced</span>.</p>
+            {% elif "Repair" in result %}
+                <p>Your washing machine can be <span class="repairable">repaired</span>.</p>
+                <p class="cost">Estimated repair cost: {{ result.split("₹")[1]|default('0.00', true) }}</p>
+            {% else %}
+                <p><span class="replaceable">Invalid input values or error</span></p>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

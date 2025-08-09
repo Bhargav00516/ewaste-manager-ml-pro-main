@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battery Repair Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f4f4; }
+        h1 { color: #2c3e50; text-align: center; }
+        .form-container { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        select { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+        button { background-color: #3498db; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #2980b9; }
+        .result { background: #e8f5e9; padding: 15px; border-radius: 4px; margin-top: 20px; display: {% if result %}block{% else %}none{% endif %}; }
+        .cost { font-weight: bold; color: #27ae60; }
+    </style>
+</head>
+<body>
+    <h1>Battery Repair Prediction</h1>
+    <div class="form-container">
+        <form method="POST" action="/batteries">
+            <div class="form-group">
+                <label for="battery_type">Battery Type:</label>
+                <select name="battery_type" id="battery_type" required>
+                    <option value="Li-Polymer">Li-Polymer</option>
+                    <option value="NiMH">NiMH</option>
+                    <option value="Li-ion">Li-ion</option>
+                    <option value="Lead-Acid">Lead-Acid</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="brand">Brand:</label>
+                <select name="brand" id="brand" required>
+                    <option value="Samsung">Samsung</option>
+                    <option value="LG">LG</option>
+                    <option value="Exide">Exide</option>
+                    <option value="Duracell">Duracell</option>
+                    <option value="Panasonic">Panasonic</option>
+                    <option value="Sony">Sony</option>
+                    <option value="Amaron">Amaron</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="problem">Problem:</label>
+                <select name="problem" id="problem" required>
+                    <option value="Voltage Drop">Voltage Drop</option>
+                    <option value="Not Charging">Not Charging</option>
+                    <option value="Physical Damage">Physical Damage</option>
+                    <option value="Swollen Battery">Swollen Battery</option>
+                    <option value="Leakage">Leakage</option>
+                    <option value="Dead Cell">Dead Cell</option>
+                    <option value="Overheating">Overheating</option>
+                    <option value="Low Backup">Low Backup</option>
+                </select>
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+    <div class="result">
+        {% if result %}
+            <p>Repairable: {{ result.repairable }}</p>
+            <p>Action: {{ result.action }}</p>
+            {% if result.repairable == 'Yes' and result.cost >= 0 %}
+                <p class="cost">Approximate Cost: ₹{{ result.cost }}</p>
+            {% endif %}
+        {% endif %}
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

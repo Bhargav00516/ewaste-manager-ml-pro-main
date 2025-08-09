@@ -1,0 +1,264 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  position: relative;
+  min-height: 100vh;
+  background: linear-gradient(
+    45deg,
+    hwb(162 84% 8%),
+    hwb(180 80% 10%),
+    hwb(140 82% 12%),
+    hwb(162 84% 8%)
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.navbar {
+  background: linear-gradient(90deg, #2c3e50, #3498db);
+  padding: 15px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #fff !important;
+  transition: color 0.3s;
+}
+
+.navbar-brand:hover {
+  color: #f1c40f !important;
+}
+
+.nav-link {
+  color: #fff !important;
+  font-size: 1.1rem;
+  margin: 0 15px;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.nav-link:hover {
+  color: #f1c40f !important;
+  transform: translateY(-2px);
+}
+
+.title {
+  font-size: 3rem;
+  text-align: center;
+  margin: 50px 0 30px;
+  font-weight: 700;
+  color: #2c3e50;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.icon-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+
+.icon-card {
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.icon-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.icon-card p {
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #2c3e50;
+}
+
+.icon-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.icon-card:hover img {
+  transform: rotate(0deg);
+}
+
+.icon-card:active img {
+  transform: rotate(360deg);
+}
+
+.help-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  z-index: 1000;
+}
+
+.help-card {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  width: 65px;
+  height: 145px;
+  object-fit:cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.help-card img {
+  width: 80px;
+  height: 48px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.help-card p {
+  margin: 0 0 0 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #2c3e50;
+}
+
+.help-card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.help-card:hover img {
+  transform: rotate(0deg);
+}
+
+.help-card:active img {
+  transform: rotate(360deg);
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .icon-card img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .nav-link {
+    margin: 10px 0;
+  }
+
+  .help-card img {
+    width: 60px;
+    height: 36px;
+  }
+
+  .help-card p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .icon-card img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .icon-card p {
+    font-size: 0.9rem;
+  }
+
+  .help-card img {
+    width: 50px;
+    height: 30px;
+  }
+
+  .help-card p {
+    font-size: 0.9rem;
+  }
+}
+/* Add these styles to your existing gallery.css */
+.quote-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  max-height: 150px;
+  scrollbar-width: thin;
+  scrollbar-color: #3498db #f4f6f9;
+}
+
+.quote-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.quote-container::-webkit-scrollbar-track {
+  background: #f4f6f9;
+  border-radius: 10px;
+}
+
+.quote-container::-webkit-scrollbar-thumb {
+  background-color: #3498db;
+  border-radius: 10px;
+}
+
+.quote-text {
+  color: #2c3e50;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.quote-text p:first-child {
+  font-style: italic;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.quote-text p:last-child {
+  font-weight: 600;
+  color: #0066cc;
+}
+
+@media (max-width: 768px) {
+  .quote-text {
+    font-size: 1rem;
+  }
+}
+.scrollable-quote {
+  background-color: #f0f0f0; /* Light gray background */
+  padding: 10px;
+  margin-top: 20px;
+  overflow-y: auto; /* Enables vertical scrolling */
+  max-height: 100px; /* Adjust height as needed */
+  border-radius: 5px;
+  font-style: italic;
+  color: #333;
+  text-align: center;
+}

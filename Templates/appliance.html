@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appliance Repair Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .form-container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select, input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .result {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            display: {% if result %}block{% else %}none{% endif %};
+        }
+    </style>
+</head>
+<body>
+    <h1>Appliance Repair Prediction</h1>
+    <div class="form-container">
+        <form method="POST" action="/appliance">
+            <div class="form-group">
+                <label for="appliance_type">Appliance Type:</label>
+                <select name="appliance_type" id="appliance_type" required>
+                    <option value="TV" {% if request.form and request.form.get('appliance_type') == 'TV' %}selected{% endif %}>TV</option>
+                    <option value="Computer" {% if request.form and request.form.get('appliance_type') == 'Computer' %}selected{% endif %}>Computer</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="subtype">Subtype:</label>
+                <select name="subtype" id="subtype" required>
+                    {% for subtype in available_subtypes %}
+                        <option value="{{ subtype }}" {% if request.form and request.form.get('subtype') == subtype %}selected{% endif %}>{{ subtype }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="problem">Problem:</label>
+                <select name="problem" id="problem" required>
+                    {% for problem in available_problems %}
+                        <option value="{{ problem }}" {% if request.form and request.form.get('problem') == problem %}selected{% endif %}>{{ problem }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="year">Year:</label>
+                <input type="number" name="year" id="year" min="2008" max="2025" value="{{ request.form.get('year') if request.form else '' }}" required>
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+    <div class="result">
+        {% if result %}
+            <p>Prediction: {{ result }}</p>
+        {% endif %}
+    </div>
+
+    <script>
+        // JavaScript to update subtypes and problems in real-time
+        document.addEventListener('DOMContentLoaded', function() {
+            const applianceTypeSelect = document.getElementById('appliance_type');
+            const subtypeSelect = document.getElementById('subtype');
+            const problemSelect = document.getElementById('problem');
+
+            // Convert Python dictionaries to JavaScript objects
+            const subtypeCategories = {{ subtype_categories | tojson }};
+            const problemCategories = {{ problem_categories | tojson }};
+
+            function updateSubtypes() {
+                const selectedType = applianceTypeSelect.value;
+                const subtypes = subtypeCategories[selectedType] || [];
+                subtypeSelect.innerHTML = ''; // Clear current options
+                subtypes.forEach(subtype => {
+                    const option = document.createElement('option');
+                    option.value = subtype;
+                    option.textContent = subtype;
+                    if (subtype === '{{ request.form.get("subtype") if request.form else available_subtypes[0] }}') {
+                        option.selected = true;
+                    }
+                    subtypeSelect.appendChild(option);
+                });
+                updateProblems(); // Update problems when subtype changes
+            }
+
+            function updateProblems() {
+                const selectedType = applianceTypeSelect.value;
+                const selectedSubtype = subtypeSelect.value;
+                const problems = problemCategories[selectedType]?.[selectedSubtype] || [];
+                problemSelect.innerHTML = ''; // Clear current options
+                problems.forEach(problem => {
+                    const option = document.createElement('option');
+                    option.value = problem;
+                    option.textContent = problem;
+                    if (problem === '{{ request.form.get("problem") if request.form else available_problems[0] }}') {
+                        option.selected = true;
+                    }
+                    problemSelect.appendChild(option);
+                });
+            }
+
+            // Add event listeners
+            applianceTypeSelect.addEventListener('change', updateSubtypes);
+            subtypeSelect.addEventListener('change', updateProblems);
+
+            // Initial call to set correct options
+            updateSubtypes();
+        });
+    </script>
+</body>
+</html>

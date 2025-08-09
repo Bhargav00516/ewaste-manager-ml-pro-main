@@ -1,0 +1,1001 @@
+Battery_Type,Brand,Problem,Repairable,Action
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹681
+NiMH,LG,Not Charging,Yes,Repair - Approx Cost ₹429
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹1014
+NiMH,Amaron,Not Charging,Yes,Repair - Approx Cost ₹883
+Li-ion,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Overheating,Yes,Repair - Approx Cost ₹838
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹462
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1448
+Lead-Acid,Amaron,Not Charging,Yes,Repair - Approx Cost ₹964
+Li-ion,LG,Overheating,Yes,Repair - Approx Cost ₹1307
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹847
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Not Charging,Yes,Repair - Approx Cost ₹799
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹794
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹636
+NiMH,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1217
+NiMH,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1499
+Lead-Acid,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹942
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹287
+Li-ion,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹759
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Low Backup,Yes,Repair - Approx Cost ₹606
+Li-Polymer,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1390
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹574
+Lead-Acid,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹653
+Li-Polymer,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹459
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹537
+NiMH,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1026
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹1253
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹540
+NiMH,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹352
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Not Charging,Yes,Repair - Approx Cost ₹523
+NiMH,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹507
+Li-Polymer,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹528
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹585
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹364
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹738
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1072
+NiMH,Sony,Not Charging,Yes,Repair - Approx Cost ₹982
+Li-Polymer,Amaron,Not Charging,Yes,Repair - Approx Cost ₹974
+Li-ion,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1275
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹757
+Lead-Acid,Duracell,Not Charging,Yes,Repair - Approx Cost ₹1438
+Li-Polymer,Panasonic,Overheating,Yes,Repair - Approx Cost ₹984
+NiMH,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹463
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹841
+NiMH,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹754
+Li-Polymer,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹1362
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹708
+NiMH,Duracell,Low Backup,Yes,Repair - Approx Cost ₹1046
+Li-Polymer,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1449
+Li-ion,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1161
+Lead-Acid,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1195
+NiMH,Samsung,Overheating,Yes,Repair - Approx Cost ₹623
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹426
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹418
+NiMH,Exide,Not Charging,Yes,Repair - Approx Cost ₹1417
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1364
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Not Charging,Yes,Repair - Approx Cost ₹345
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹656
+NiMH,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹401
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹658
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1026
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1440
+NiMH,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Low Backup,Yes,Repair - Approx Cost ₹279
+NiMH,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹267
+NiMH,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹461
+Li-Polymer,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹850
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Overheating,Yes,Repair - Approx Cost ₹563
+Li-Polymer,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Not Charging,Yes,Repair - Approx Cost ₹520
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹741
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1027
+Lead-Acid,LG,Overheating,Yes,Repair - Approx Cost ₹384
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹384
+NiMH,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Overheating,Yes,Repair - Approx Cost ₹1207
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹1152
+NiMH,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹550
+NiMH,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1482
+NiMH,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹907
+Lead-Acid,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1261
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹268
+Lead-Acid,Amaron,Not Charging,Yes,Repair - Approx Cost ₹798
+Lead-Acid,Exide,Overheating,Yes,Repair - Approx Cost ₹1450
+NiMH,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹378
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Not Charging,Yes,Repair - Approx Cost ₹1456
+Li-ion,Sony,Overheating,Yes,Repair - Approx Cost ₹437
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹542
+NiMH,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1278
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹994
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1346
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Overheating,Yes,Repair - Approx Cost ₹671
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1032
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹1334
+Li-Polymer,Duracell,Not Charging,Yes,Repair - Approx Cost ₹393
+Li-ion,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1473
+Lead-Acid,Duracell,Low Backup,Yes,Repair - Approx Cost ₹269
+Li-Polymer,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1103
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹342
+Li-Polymer,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1075
+Lead-Acid,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Overheating,Yes,Repair - Approx Cost ₹1324
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Low Backup,Yes,Repair - Approx Cost ₹960
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Low Backup,Yes,Repair - Approx Cost ₹1322
+Lead-Acid,LG,Not Charging,Yes,Repair - Approx Cost ₹382
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1312
+Li-ion,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Overheating,Yes,Repair - Approx Cost ₹1386
+Li-Polymer,Samsung,Not Charging,Yes,Repair - Approx Cost ₹487
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹369
+Li-ion,Sony,Overheating,Yes,Repair - Approx Cost ₹915
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹1183
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹447
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Overheating,Yes,Repair - Approx Cost ₹1390
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹404
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹626
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹417
+Li-ion,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Overheating,Yes,Repair - Approx Cost ₹330
+Li-Polymer,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Overheating,Yes,Repair - Approx Cost ₹330
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1367
+NiMH,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹523
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Not Charging,Yes,Repair - Approx Cost ₹546
+Li-ion,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹939
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Low Backup,Yes,Repair - Approx Cost ₹703
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Overheating,Yes,Repair - Approx Cost ₹1484
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹870
+NiMH,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Not Charging,Yes,Repair - Approx Cost ₹1395
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹375
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1463
+Li-ion,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1255
+Lead-Acid,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹258
+Li-Polymer,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹482
+Li-Polymer,LG,Voltage Drop,Yes,Repair - Approx Cost ₹662
+Li-Polymer,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1256
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹567
+Lead-Acid,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹358
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹914
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹306
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Overheating,Yes,Repair - Approx Cost ₹1320
+Li-Polymer,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹533
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹375
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹367
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹385
+Lead-Acid,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1077
+NiMH,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹896
+Lead-Acid,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Overheating,Yes,Repair - Approx Cost ₹632
+Li-Polymer,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹698
+Lead-Acid,Duracell,Overheating,Yes,Repair - Approx Cost ₹1407
+Li-Polymer,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹807
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Overheating,Yes,Repair - Approx Cost ₹1347
+Li-ion,Amaron,Not Charging,Yes,Repair - Approx Cost ₹546
+Lead-Acid,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹236
+Li-ion,Amaron,Not Charging,Yes,Repair - Approx Cost ₹1478
+NiMH,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹993
+Li-Polymer,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1155
+Lead-Acid,Sony,Not Charging,Yes,Repair - Approx Cost ₹455
+Li-ion,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Low Backup,Yes,Repair - Approx Cost ₹315
+Li-ion,Duracell,Not Charging,Yes,Repair - Approx Cost ₹949
+Lead-Acid,Sony,Low Backup,Yes,Repair - Approx Cost ₹753
+Lead-Acid,Sony,Overheating,Yes,Repair - Approx Cost ₹1112
+Li-Polymer,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹1045
+Li-Polymer,LG,Overheating,Yes,Repair - Approx Cost ₹1090
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Not Charging,Yes,Repair - Approx Cost ₹1375
+Li-Polymer,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹692
+Li-Polymer,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹368
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹413
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹446
+NiMH,Amaron,Not Charging,Yes,Repair - Approx Cost ₹313
+NiMH,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹235
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹997
+Li-ion,Duracell,Not Charging,Yes,Repair - Approx Cost ₹915
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹1449
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1052
+Lead-Acid,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1325
+Li-ion,Samsung,Not Charging,Yes,Repair - Approx Cost ₹485
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹1188
+Li-Polymer,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1304
+Lead-Acid,Amaron,Not Charging,Yes,Repair - Approx Cost ₹1411
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1170
+NiMH,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Not Charging,Yes,Repair - Approx Cost ₹215
+Lead-Acid,LG,Not Charging,Yes,Repair - Approx Cost ₹247
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹312
+NiMH,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Not Charging,Yes,Repair - Approx Cost ₹1222
+Li-ion,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹222
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Not Charging,Yes,Repair - Approx Cost ₹1173
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹1034
+NiMH,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Overheating,Yes,Repair - Approx Cost ₹402
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1101
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹787
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹1055
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹422
+NiMH,LG,Low Backup,Yes,Repair - Approx Cost ₹1109
+Li-ion,Amaron,Not Charging,Yes,Repair - Approx Cost ₹440
+Lead-Acid,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹576
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Overheating,Yes,Repair - Approx Cost ₹1433
+Li-ion,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1335
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Low Backup,Yes,Repair - Approx Cost ₹755
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1338
+Lead-Acid,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Not Charging,Yes,Repair - Approx Cost ₹491
+Li-Polymer,Samsung,Overheating,Yes,Repair - Approx Cost ₹1140
+Lead-Acid,LG,Not Charging,Yes,Repair - Approx Cost ₹929
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1021
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1404
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹1018
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹1118
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1469
+Li-Polymer,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1487
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹506
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹220
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹1346
+Li-Polymer,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹887
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹296
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹223
+NiMH,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹1182
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Not Charging,Yes,Repair - Approx Cost ₹1133
+Li-Polymer,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹490
+Lead-Acid,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1074
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹1263
+Li-ion,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1266
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹1234
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹701
+Lead-Acid,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹693
+Li-ion,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1279
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹1414
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹739
+Lead-Acid,Exide,Low Backup,Yes,Repair - Approx Cost ₹1199
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹348
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹626
+Li-Polymer,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Overheating,Yes,Repair - Approx Cost ₹782
+Lead-Acid,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1039
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹634
+Li-Polymer,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹720
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Not Charging,Yes,Repair - Approx Cost ₹411
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1480
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1063
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹248
+NiMH,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹969
+Li-Polymer,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹569
+NiMH,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Not Charging,Yes,Repair - Approx Cost ₹1081
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Low Backup,Yes,Repair - Approx Cost ₹1209
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹932
+Li-ion,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹448
+Li-Polymer,Amaron,Low Backup,Yes,Repair - Approx Cost ₹428
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Low Backup,Yes,Repair - Approx Cost ₹934
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹878
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Not Charging,Yes,Repair - Approx Cost ₹282
+Li-ion,Samsung,Overheating,Yes,Repair - Approx Cost ₹529
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1219
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Overheating,Yes,Repair - Approx Cost ₹452
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹254
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1023
+Li-Polymer,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹260
+NiMH,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Overheating,Yes,Repair - Approx Cost ₹798
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1212
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹1383
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1134
+Li-Polymer,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹832
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹433
+NiMH,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Overheating,Yes,Repair - Approx Cost ₹1427
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹607
+Li-ion,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1333
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1104
+Li-ion,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹1141
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1015
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Not Charging,Yes,Repair - Approx Cost ₹588
+NiMH,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1498
+Lead-Acid,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1403
+Lead-Acid,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1066
+Li-ion,LG,Voltage Drop,Yes,Repair - Approx Cost ₹550
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹230
+Li-Polymer,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹280
+Li-Polymer,Sony,Overheating,Yes,Repair - Approx Cost ₹1178
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹889
+Li-ion,Amaron,Overheating,Yes,Repair - Approx Cost ₹1010
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹700
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹981
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1263
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Low Backup,Yes,Repair - Approx Cost ₹564
+Li-Polymer,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Not Charging,Yes,Repair - Approx Cost ₹1323
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Not Charging,Yes,Repair - Approx Cost ₹422
+Li-ion,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1270
+NiMH,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹841
+Lead-Acid,Duracell,Overheating,Yes,Repair - Approx Cost ₹934
+NiMH,LG,Not Charging,Yes,Repair - Approx Cost ₹402
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹957
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹342
+NiMH,LG,Not Charging,Yes,Repair - Approx Cost ₹429
+Li-Polymer,Duracell,Overheating,Yes,Repair - Approx Cost ₹849
+Li-Polymer,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1350
+NiMH,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹1491
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Overheating,Yes,Repair - Approx Cost ₹606
+Li-Polymer,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1204
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹615
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹803
+Li-ion,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1378
+NiMH,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹430
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1094
+Li-Polymer,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹890
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1253
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Overheating,Yes,Repair - Approx Cost ₹864
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹421
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹782
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹616
+NiMH,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Low Backup,Yes,Repair - Approx Cost ₹265
+Li-ion,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Low Backup,Yes,Repair - Approx Cost ₹1493
+Li-ion,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹289
+Lead-Acid,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1337
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1471
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹531
+Li-ion,Exide,Overheating,Yes,Repair - Approx Cost ₹300
+Li-Polymer,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹1464
+NiMH,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹808
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹909
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1304
+Li-ion,LG,Low Backup,Yes,Repair - Approx Cost ₹1010
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1377
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹769
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹269
+Li-Polymer,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹1164
+Li-Polymer,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Not Charging,Yes,Repair - Approx Cost ₹432
+Li-Polymer,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹862
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1129
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Voltage Drop,Yes,Repair - Approx Cost ₹646
+NiMH,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Overheating,Yes,Repair - Approx Cost ₹960
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹336
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1353
+Lead-Acid,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1344
+Li-ion,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹1440
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹702
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Low Backup,Yes,Repair - Approx Cost ₹539
+NiMH,LG,Not Charging,Yes,Repair - Approx Cost ₹247
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1489
+NiMH,LG,Overheating,Yes,Repair - Approx Cost ₹490
+Lead-Acid,Duracell,Low Backup,Yes,Repair - Approx Cost ₹806
+NiMH,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Overheating,Yes,Repair - Approx Cost ₹692
+Li-ion,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1464
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Overheating,Yes,Repair - Approx Cost ₹1439
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Low Backup,Yes,Repair - Approx Cost ₹295
+Lead-Acid,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Voltage Drop,Yes,Repair - Approx Cost ₹942
+NiMH,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹702
+Li-ion,Exide,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1266
+Li-ion,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1011
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Low Backup,Yes,Repair - Approx Cost ₹239
+NiMH,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹1445
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹914
+NiMH,Amaron,Not Charging,Yes,Repair - Approx Cost ₹1330
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹1123
+Li-Polymer,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹509
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Not Charging,Yes,Repair - Approx Cost ₹1482
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹414
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹815
+Li-Polymer,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Not Charging,Yes,Repair - Approx Cost ₹1075
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹793
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1350
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Overheating,Yes,Repair - Approx Cost ₹695
+NiMH,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Overheating,Yes,Repair - Approx Cost ₹248
+Lead-Acid,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Not Charging,Yes,Repair - Approx Cost ₹448
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹352
+Li-Polymer,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹1053
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Overheating,Yes,Repair - Approx Cost ₹1402
+Lead-Acid,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹1466
+Lead-Acid,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹707
+Li-ion,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹781
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹893
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1456
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Overheating,Yes,Repair - Approx Cost ₹1189
+NiMH,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Overheating,Yes,Repair - Approx Cost ₹844
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹810
+NiMH,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹994
+Lead-Acid,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Overheating,Yes,Repair - Approx Cost ₹746
+Li-Polymer,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1166
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1369
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹1239
+Li-Polymer,Amaron,Overheating,Yes,Repair - Approx Cost ₹1301
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹1449
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Overheating,Yes,Repair - Approx Cost ₹533
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹850
+Lead-Acid,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Overheating,Yes,Repair - Approx Cost ₹1470
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹271
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Not Charging,Yes,Repair - Approx Cost ₹789
+Lead-Acid,LG,Not Charging,Yes,Repair - Approx Cost ₹549
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Low Backup,Yes,Repair - Approx Cost ₹968
+NiMH,Amaron,Overheating,Yes,Repair - Approx Cost ₹854
+Lead-Acid,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹980
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹776
+Li-ion,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹566
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹276
+NiMH,Duracell,Overheating,Yes,Repair - Approx Cost ₹942
+Li-ion,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Low Backup,Yes,Repair - Approx Cost ₹806
+Lead-Acid,LG,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹705
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1251
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹920
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹264
+Li-ion,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Low Backup,Yes,Repair - Approx Cost ₹890
+Li-ion,Duracell,Low Backup,Yes,Repair - Approx Cost ₹635
+Lead-Acid,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Overheating,Yes,Repair - Approx Cost ₹1363
+Lead-Acid,LG,Voltage Drop,Yes,Repair - Approx Cost ₹693
+Lead-Acid,LG,Low Backup,Yes,Repair - Approx Cost ₹1472
+Li-ion,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Voltage Drop,Yes,Repair - Approx Cost ₹296
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1281
+Lead-Acid,Panasonic,Overheating,Yes,Repair - Approx Cost ₹674
+NiMH,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1392
+Li-ion,Samsung,Overheating,Yes,Repair - Approx Cost ₹632
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹788
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Not Charging,Yes,Repair - Approx Cost ₹810
+NiMH,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹690
+Li-ion,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Low Backup,Yes,Repair - Approx Cost ₹732
+Li-Polymer,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Overheating,Yes,Repair - Approx Cost ₹308
+Lead-Acid,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹559
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Overheating,Yes,Repair - Approx Cost ₹1402
+NiMH,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹1149
+Lead-Acid,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1075
+NiMH,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹1463
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹478
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Overheating,Yes,Repair - Approx Cost ₹1063
+Lead-Acid,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Overheating,Yes,Repair - Approx Cost ₹1104
+NiMH,Duracell,Overheating,Yes,Repair - Approx Cost ₹1385
+NiMH,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹365
+Lead-Acid,Sony,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹595
+Li-Polymer,Sony,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1402
+Li-ion,Sony,Overheating,Yes,Repair - Approx Cost ₹363
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Low Backup,Yes,Repair - Approx Cost ₹1004
+Li-Polymer,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Low Backup,Yes,Repair - Approx Cost ₹512
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹549
+Li-ion,Amaron,Not Charging,Yes,Repair - Approx Cost ₹773
+NiMH,Amaron,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹326
+Li-ion,Exide,Low Backup,Yes,Repair - Approx Cost ₹1388
+Li-ion,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹797
+Li-Polymer,LG,Overheating,Yes,Repair - Approx Cost ₹1157
+Lead-Acid,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Sony,Overheating,Yes,Repair - Approx Cost ₹295
+Li-ion,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹1008
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Low Backup,Yes,Repair - Approx Cost ₹684
+Lead-Acid,Amaron,Low Backup,Yes,Repair - Approx Cost ₹578
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1150
+Li-ion,Amaron,Low Backup,Yes,Repair - Approx Cost ₹772
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹360
+Lead-Acid,Exide,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Not Charging,Yes,Repair - Approx Cost ₹737
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹1208
+Li-Polymer,Sony,Overheating,Yes,Repair - Approx Cost ₹1364
+NiMH,Exide,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹1371
+Li-Polymer,Samsung,Not Charging,Yes,Repair - Approx Cost ₹1494
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹1245
+Lead-Acid,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Low Backup,Yes,Repair - Approx Cost ₹925
+Lead-Acid,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Low Backup,Yes,Repair - Approx Cost ₹689
+NiMH,Samsung,Overheating,Yes,Repair - Approx Cost ₹1093
+NiMH,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Not Charging,Yes,Repair - Approx Cost ₹1029
+NiMH,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹1402
+NiMH,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹295
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹588
+Li-ion,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Not Charging,Yes,Repair - Approx Cost ₹983
+Li-ion,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹487
+Li-Polymer,LG,Low Backup,Yes,Repair - Approx Cost ₹960
+Lead-Acid,Exide,Not Charging,Yes,Repair - Approx Cost ₹1376
+Li-Polymer,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Not Charging,Yes,Repair - Approx Cost ₹218
+Li-ion,Exide,Not Charging,Yes,Repair - Approx Cost ₹1409
+Li-Polymer,Sony,Not Charging,Yes,Repair - Approx Cost ₹622
+Li-Polymer,Exide,Not Charging,Yes,Repair - Approx Cost ₹956
+Lead-Acid,Duracell,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Not Charging,Yes,Repair - Approx Cost ₹1471
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹1368
+Lead-Acid,Sony,Voltage Drop,Yes,Repair - Approx Cost ₹317
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Sony,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Overheating,Yes,Repair - Approx Cost ₹630
+Li-ion,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹217
+Li-ion,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Low Backup,Yes,Repair - Approx Cost ₹692
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+NiMH,LG,Voltage Drop,Yes,Repair - Approx Cost ₹1086
+Lead-Acid,Sony,Overheating,Yes,Repair - Approx Cost ₹1009
+NiMH,Samsung,Not Charging,Yes,Repair - Approx Cost ₹709
+Lead-Acid,Sony,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Exide,Overheating,Yes,Repair - Approx Cost ₹1185
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹973
+Li-ion,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Not Charging,Yes,Repair - Approx Cost ₹742
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Overheating,Yes,Repair - Approx Cost ₹1270
+NiMH,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹784
+Lead-Acid,Amaron,Overheating,Yes,Repair - Approx Cost ₹806
+Lead-Acid,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹952
+Li-Polymer,Sony,Overheating,Yes,Repair - Approx Cost ₹1185
+Li-ion,Duracell,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Samsung,Overheating,Yes,Repair - Approx Cost ₹898
+Li-ion,Amaron,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Duracell,Low Backup,Yes,Repair - Approx Cost ₹796
+Li-ion,Sony,Overheating,Yes,Repair - Approx Cost ₹1351
+Li-ion,Exide,Low Backup,Yes,Repair - Approx Cost ₹756
+Li-ion,LG,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Low Backup,Yes,Repair - Approx Cost ₹915
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹238
+Li-ion,LG,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Amaron,Low Backup,Yes,Repair - Approx Cost ₹1208
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,LG,Overheating,Yes,Repair - Approx Cost ₹838
+Lead-Acid,Amaron,Overheating,Yes,Repair - Approx Cost ₹1465
+Lead-Acid,Exide,Overheating,Yes,Repair - Approx Cost ₹349
+NiMH,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Amaron,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-Polymer,Samsung,Leakage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Sony,Not Charging,Yes,Repair - Approx Cost ₹945
+Lead-Acid,Exide,Overheating,Yes,Repair - Approx Cost ₹294
+Li-Polymer,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹837
+Li-ion,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Low Backup,Yes,Repair - Approx Cost ₹437
+Li-Polymer,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Exide,Voltage Drop,Yes,Repair - Approx Cost ₹722
+Li-Polymer,Samsung,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Dead Cell,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,LG,Overheating,Yes,Repair - Approx Cost ₹337
+Lead-Acid,Sony,Swollen Battery,No,Not Repairable - Need to Buy New One
+NiMH,Duracell,Swollen Battery,No,Not Repairable - Need to Buy New One
+Li-ion,Samsung,Voltage Drop,Yes,Repair - Approx Cost ₹926
+Li-Polymer,Panasonic,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Exide,Low Backup,Yes,Repair - Approx Cost ₹1248
+Li-Polymer,Panasonic,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Samsung,Swollen Battery,No,Not Repairable - Need to Buy New One
+Lead-Acid,Amaron,Leakage,No,Not Repairable - Need to Buy New One
+Li-ion,Amaron,Voltage Drop,Yes,Repair - Approx Cost ₹648
+Li-ion,Samsung,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-ion,Duracell,Overheating,Yes,Repair - Approx Cost ₹1302
+Lead-Acid,Duracell,Dead Cell,No,Not Repairable - Need to Buy New One
+NiMH,Panasonic,Physical Damage,No,Not Repairable - Need to Buy New One
+Lead-Acid,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹671
+Li-Polymer,LG,Dead Cell,No,Not Repairable - Need to Buy New One
+Li-Polymer,Panasonic,Voltage Drop,Yes,Repair - Approx Cost ₹1143
+Li-ion,LG,Physical Damage,No,Not Repairable - Need to Buy New One
+Li-Polymer,Duracell,Voltage Drop,Yes,Repair - Approx Cost ₹1292

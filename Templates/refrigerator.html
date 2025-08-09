@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Refrigerator Problem Detector</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+  <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+    <h1 class="text-2xl font-bold mb-6 text-center text-gray-800">Refrigerator Problem Detector</h1>
+    <div class="mb-4 text-center">
+      <a href="/" class="text-blue-600 hover:underline mr-4">Home</a>
+      <a href="/washing-machines" class="text-blue-600 hover:underline mr-4">Washing Machine Predictor</a>
+      <a href="/gallery" class="text-blue-600 hover:underline">Gallery</a>
+    </div>
+    <form id="input-form" method="POST" class="space-y-4">
+      <div>
+        <label for="company" class="block text-sm font-medium text-gray-700">Company</label>
+        <select id="company" name="company" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="Voltas">Voltas</option>
+          <option value="Samsung">Samsung</option>
+          <option value="Godrej">Godrej</option>
+          <option value="LG">LG</option>
+          <option value="Panasonic">Panasonic</option>
+          <option value="Whirlpool">Whirlpool</option>
+          <option value="Haier">Haier</option>
+        </select>
+      </div>
+      <div>
+        <label for="type" class="block text-sm font-medium text-gray-700">Type</label>
+        <select id="type" name="type" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="SINGLE">Single Door</option>
+          <option value="DOUBLE">Double Door</option>
+          <option value="TOP">Top Freezer</option>
+          <option value="SIDE-BY-SIDE">Side-by-Side</option>
+        </select>
+      </div>
+      <div>
+        <label for="year" class="block text-sm font-medium text-gray-700">Year of Purchase</label>
+        <input type="number" id="year" name="year" value="2024" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+      </div>
+      <div>
+        <label for="problem" class="block text-sm font-medium text-gray-700">Problem</label>
+        <select id="problem" name="problem" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="door not closing">Door not closing</option>
+          <option value="strange noise">Strange noise</option>
+          <option value="excess ice">Excess ice</option>
+          <option value="leaking water">Leaking water</option>
+          <option value="no power">No power</option>
+          <option value="defrost issue">Defrost issue</option>
+          <option value="not cooling">Not cooling</option>
+        </select>
+      </div>
+      <button type="submit" class="w-full bg-blue-600 text-white p-2 rounded-md hover:bg-blue-700">Predict</button>
+    </form>
+    {% if result %}
+    <div class="mt-4 p-4 rounded-md {% if 'Repair' in result %}bg-green-100 text-green-800{% elif 'Replace' in result %}bg-red-100 text-red-800{% else %}bg-yellow-100 text-yellow-800{% endif %}">
+      {{ result }}
+    </div>
+    {% endif %}
+  </div>
+</body>
+</html>

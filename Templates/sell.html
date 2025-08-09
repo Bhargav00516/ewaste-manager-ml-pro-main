@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resell Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+        .container {
+            max-width: 500px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        select, input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        #result {
+            margin-top: 20px;
+            color: #333;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Resell Price Prediction</h2>
+        <form id="predictionForm">
+            <label>Appliance</label>
+            <select id="appliance" name="appliance" required>
+                <option value="">Select Appliance</option>
+                {% for appliance in appliances %}
+                    <option value="{{ appliance }}">{{ appliance }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Problem</label>
+            <select id="problem" name="problem" required>
+                <option value="">Select Problem</option>
+            </select>
+
+            <label>Brand</label>
+            <select id="brand" name="brand" required>
+                <option value="">Select Brand</option>
+            </select>
+
+            <label>Age (Years)</label>
+            <input type="number" id="age" name="age" min="0" required>
+
+            <button type="submit">Get Resell Price</button>
+        </form>
+
+        <h3 id="result"></h3>
+    </div>
+
+    <script>
+        document.getElementById('appliance').addEventListener('change', function() {
+            const appliance = this.value;
+            console.log('Selected appliance:', appliance);
+            if (!appliance) {
+                console.log('No appliance selected, resetting dropdowns');
+                document.getElementById('problem').innerHTML = '<option value="">Select Problem</option>';
+                document.getElementById('brand').innerHTML = '<option value="">Select Brand</option>';
+                document.getElementById('result').textContent = '';
+                return;
+            }
+            console.log('Fetching problems and brands for appliance:', appliance);
+            fetch('/get_problems', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ appliance: appliance })
+            })
+            .then(response => {
+                console.log('Response status:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Received data:', data);
+                let problemSelect = document.getElementById('problem');
+                let brandSelect = document.getElementById('brand');
+                problemSelect.innerHTML = '<option value="">Select Problem</option>';
+                brandSelect.innerHTML = '<option value="">Select Brand</option>';
+                if (data.error) {
+                    console.error('Server error:', data.error);
+                    document.getElementById('result').textContent = 'Error: ' + data.error;
+                    document.getElementById('result').classList.add('error');
+                    return;
+                }
+                if (!data.problems.length || !data.brands.length) {
+                    console.warn('No problems or brands returned for appliance:', appliance);
+                    document.getElementById('result').textContent = 'No problems or brands available for this appliance';
+                    document.getElementById('result').classList.add('error');
+                    return;
+                }
+                data.problems.forEach(p => {
+                    let opt = document.createElement('option');
+                    opt.value = p;
+                    opt.textContent = p;
+                    problemSelect.appendChild(opt);
+                });
+                data.brands.forEach(b => {
+                    let opt = document.createElement('option');
+                    opt.value = b;
+                    opt.textContent = b;
+                    brandSelect.appendChild(opt);
+                });
+                document.getElementById('result').textContent = '';
+                document.getElementById('result').classList.remove('error');
+            })
+            .catch(error => {
+                console.error('Fetch error:', error);
+                document.getElementById('result').textContent = 'Error loading problems and brands';
+                document.getElementById('result').classList.add('error');
+            });
+        });
+
+        document.getElementById('predictionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            document.getElementById('result').classList.remove('error');
+            let formData = new FormData(this);
+            console.log('Submitting form data:', Object.fromEntries(formData));
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => {
+                console.log('Predict response status:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Prediction response:', data);
+                if (data.error) {
+                    document.getElementById('result').textContent = 'Error: ' + data.error;
+                    document.getElementById('result').classList.add('error');
+                } else {
+                    document.getElementById('result').textContent = `Predicted Resell Price: ₹${data.resell_cost}`;
+                }
+            })
+            .catch(error => {
+                console.error('Prediction error:', error);
+                document.getElementById('result').textContent = 'Error predicting resell price';
+                document.getElementById('result').classList.add('error');
+            });
+        });
+    </script>
+</body>
+</html>

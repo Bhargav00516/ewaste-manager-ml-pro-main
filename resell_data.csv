@@ -1,0 +1,501 @@
+Brand,Appliance,Problem,Age,Resell_Cost
+LG,TV/Computer,Won't turn on,3,14503
+Energizer,Batteries,Not charging,3,1068
+HP,Printer,Ink smudge,6,2017
+Whirlpool,Refrigerator,Not cooling,4,10176
+Duracell,Batteries,Swollen battery,6,585
+Samsung,TV/Computer,Overheating,4,17863
+Godrej,Refrigerator,Not cooling,7,4797
+Brother,Printer,Slow printing,4,3947
+Haier,Refrigerator,Not cooling,4,12795
+Haier,Refrigerator,Not cooling,8,4323
+Haier,Refrigerator,Door seal broken,2,15414
+HP,Printer,Paper jam,8,1435
+IFB,Washing Machine,Strange noise,2,11008
+IFB,Washing Machine,No power,2,11859
+Whirlpool,Washing Machine,Not spinning,7,3278
+Sony,Batteries,Not charging,3,1142
+Samsung,TV/Computer,Screen flicker,6,8635
+Sony,Batteries,Short battery life,5,571
+Samsung,Washing Machine,Strange noise,5,5214
+Whirlpool,Washing Machine,Strange noise,5,6682
+Sony,TV/Computer,Overheating,10,4044
+LG,Refrigerator,Strange noise,10,3663
+Samsung,TV/Computer,Won't turn on,2,27995
+Sony,TV/Computer,Overheating,3,19951
+Samsung,Washing Machine,Door not closing,10,2944
+LG,Washing Machine,No power,2,12968
+Epson,Printer,No power,3,4300
+Epson,Printer,No power,6,2864
+Canon,Printer,WiFi not working,2,5586
+Haier,Refrigerator,Not cooling,6,5916
+LG,Washing Machine,Door not closing,7,3047
+HP,Printer,Ink smudge,3,2975
+LG,TV/Computer,Won't turn on,1,30144
+Samsung,Refrigerator,Door seal broken,3,11046
+Canon,Printer,Ink smudge,8,984
+Panasonic,Batteries,Leaking,3,770
+Panasonic,Batteries,Overheating,1,1174
+Sony,TV/Computer,Slow performance,5,13955
+Dell,TV/Computer,Won't turn on,7,9717
+HP,Printer,No power,4,2830
+Canon,Printer,Paper jam,6,2330
+Sony,Batteries,Short battery life,8,272
+HP,Printer,Slow printing,8,1377
+Xerox,Printer,WiFi not working,7,1997
+Brother,Printer,WiFi not working,3,3543
+Samsung,TV/Computer,Slow performance,5,10936
+Brother,Printer,Slow printing,1,3764
+HP,TV/Computer,Overheating,5,13265
+Godrej,Refrigerator,Strange noise,1,15079
+Dell,TV/Computer,Screen flicker,6,14237
+LG,Refrigerator,No power,3,14962
+Dell,TV/Computer,Overheating,10,6177
+LG,TV/Computer,Overheating,5,17299
+Haier,Refrigerator,Strange noise,5,11235
+Duracell,Batteries,Leaking,1,1576
+Epson,Printer,No power,10,802
+Sony,Batteries,Swollen battery,5,783
+Sony,TV/Computer,No display,2,24128
+Samsung,Refrigerator,No power,4,12859
+Epson,Printer,Slow printing,6,2753
+Godrej,Refrigerator,Not cooling,2,15132
+Bosch,Washing Machine,Strange noise,5,5356
+HP,Printer,No power,2,3551
+HP,TV/Computer,Screen flicker,1,31082
+Energizer,Batteries,Not charging,8,206
+Energizer,Batteries,Leaking,2,1132
+LG,TV/Computer,Won't turn on,8,6745
+Panasonic,Batteries,Swollen battery,3,1187
+Bosch,Washing Machine,No power,9,2130
+HP,TV/Computer,Screen flicker,4,15878
+Godrej,Refrigerator,Door seal broken,9,3317
+Samsung,Washing Machine,No power,2,11666
+LG,Refrigerator,Water leakage,6,8735
+Xerox,Printer,Ink smudge,1,3885
+HP,Printer,WiFi not working,7,1779
+HP,Printer,WiFi not working,2,3851
+Haier,Refrigerator,Not cooling,9,3026
+Whirlpool,Washing Machine,Strange noise,8,2611
+Sony,TV/Computer,Slow performance,6,14309
+Sony,Batteries,Swollen battery,4,639
+Xerox,Printer,WiFi not working,5,2725
+Duracell,Batteries,Leaking,7,459
+Haier,Refrigerator,Strange noise,5,8406
+Samsung,Washing Machine,Strange noise,3,8490
+Dell,TV/Computer,Overheating,7,9927
+Sony,TV/Computer,Overheating,7,8279
+Whirlpool,Washing Machine,Water leakage,9,3390
+Eveready,Batteries,Overheating,4,927
+Duracell,Batteries,Leaking,4,804
+Epson,Printer,Slow printing,3,3165
+Sony,Batteries,Leaking,3,988
+Dell,TV/Computer,Overheating,7,8579
+Samsung,TV/Computer,Slow performance,8,6759
+Canon,Printer,Ink smudge,2,4594
+Canon,Printer,Paper jam,5,3454
+Brother,Printer,WiFi not working,6,1769
+LG,Refrigerator,Water leakage,8,3280
+Godrej,Refrigerator,Door seal broken,4,11916
+LG,Refrigerator,Water leakage,5,6802
+Haier,Refrigerator,Not cooling,1,12346
+Whirlpool,Refrigerator,No power,2,16243
+Xerox,Printer,Ink smudge,10,1408
+Eveready,Batteries,Short battery life,4,736
+Energizer,Batteries,Not charging,6,457
+Brother,Printer,Ink smudge,5,3380
+Brother,Printer,No power,2,4404
+Dell,TV/Computer,Screen flicker,1,28238
+Samsung,Washing Machine,Water leakage,10,2681
+LG,Washing Machine,Water leakage,2,8736
+Whirlpool,Refrigerator,Door seal broken,9,2533
+Haier,Refrigerator,Strange noise,9,3383
+Eveready,Batteries,Swollen battery,5,584
+Epson,Printer,Ink smudge,9,1209
+HP,TV/Computer,No display,2,18531
+Whirlpool,Refrigerator,Not cooling,7,6535
+HP,TV/Computer,Screen flicker,9,4131
+HP,TV/Computer,No display,3,14615
+Whirlpool,Refrigerator,Strange noise,7,5491
+Canon,Printer,Slow printing,8,992
+Dell,TV/Computer,Screen flicker,7,6684
+Samsung,Washing Machine,No power,8,3322
+Sony,TV/Computer,No display,8,5874
+Whirlpool,Washing Machine,Not spinning,2,8600
+HP,Printer,WiFi not working,10,1424
+Dell,TV/Computer,Overheating,9,6292
+Panasonic,Batteries,Overheating,9,248
+IFB,Washing Machine,No power,2,13836
+Haier,Refrigerator,Not cooling,6,8130
+Whirlpool,Washing Machine,Water leakage,8,2503
+Energizer,Batteries,Not charging,10,317
+Panasonic,Batteries,Leaking,5,511
+Epson,Printer,Paper jam,4,3618
+Bosch,Washing Machine,Door not closing,9,3217
+Duracell,Batteries,Not charging,4,730
+LG,Washing Machine,Strange noise,2,9833
+Whirlpool,Washing Machine,Door not closing,6,6461
+Haier,Refrigerator,Not cooling,8,4429
+Xerox,Printer,Ink smudge,1,6459
+Samsung,TV/Computer,Screen flicker,9,4565
+LG,Refrigerator,Door seal broken,7,3973
+Haier,Refrigerator,No power,3,14982
+Duracell,Batteries,Overheating,6,469
+IFB,Washing Machine,Water leakage,9,3176
+Panasonic,Batteries,Overheating,8,337
+Xerox,Printer,Slow printing,4,3431
+Epson,Printer,Slow printing,3,4530
+Godrej,Refrigerator,Water leakage,8,3531
+LG,Washing Machine,Not spinning,9,2430
+Bosch,Washing Machine,Door not closing,6,6341
+Sony,Batteries,Overheating,4,754
+LG,Refrigerator,Strange noise,9,3819
+HP,Printer,Paper jam,8,1030
+Samsung,Refrigerator,Door seal broken,6,7748
+Bosch,Washing Machine,Not spinning,10,3151
+Canon,Printer,No power,8,1298
+Samsung,Refrigerator,Water leakage,9,3185
+Sony,TV/Computer,Slow performance,7,10532
+LG,Refrigerator,No power,4,9249
+LG,Washing Machine,Door not closing,1,11591
+Brother,Printer,Ink smudge,9,851
+HP,Printer,Paper jam,2,3429
+Haier,Refrigerator,Not cooling,5,7883
+Panasonic,Batteries,Leaking,2,935
+LG,Refrigerator,Not cooling,9,2506
+Eveready,Batteries,Short battery life,9,288
+Whirlpool,Washing Machine,Strange noise,4,10602
+Dell,TV/Computer,Won't turn on,8,6730
+Panasonic,Batteries,Not charging,10,325
+Samsung,Refrigerator,No power,9,3402
+Epson,Printer,WiFi not working,8,1425
+Brother,Printer,No power,1,4298
+Panasonic,Batteries,Leaking,4,1023
+IFB,Washing Machine,Strange noise,1,10145
+Godrej,Refrigerator,Water leakage,8,4080
+Samsung,Washing Machine,Door not closing,5,8807
+Bosch,Washing Machine,Strange noise,6,5884
+LG,Washing Machine,Not spinning,7,4417
+Dell,TV/Computer,Overheating,5,12142
+LG,Refrigerator,Not cooling,2,15383
+LG,TV/Computer,No display,8,5973
+Canon,Printer,No power,10,1029
+LG,Refrigerator,Strange noise,7,4233
+Epson,Printer,Slow printing,3,4406
+Brother,Printer,Slow printing,7,2004
+Brother,Printer,Slow printing,10,1164
+Godrej,Refrigerator,Door seal broken,4,9297
+Sony,TV/Computer,Screen flicker,1,21007
+Xerox,Printer,Slow printing,10,1323
+Samsung,Refrigerator,Not cooling,8,4225
+Bosch,Washing Machine,Door not closing,6,5663
+Samsung,Washing Machine,Door not closing,1,12252
+Duracell,Batteries,Short battery life,8,206
+Energizer,Batteries,Overheating,2,1258
+Dell,TV/Computer,Screen flicker,7,8529
+Xerox,Printer,WiFi not working,8,1173
+Sony,Batteries,Swollen battery,3,1234
+Xerox,Printer,Paper jam,5,3245
+Samsung,Refrigerator,Door seal broken,7,6659
+Eveready,Batteries,Swollen battery,8,216
+LG,Washing Machine,Door not closing,6,6178
+Eveready,Batteries,Swollen battery,7,514
+Whirlpool,Washing Machine,Not spinning,2,9539
+LG,Refrigerator,Not cooling,2,11103
+Samsung,TV/Computer,No display,5,14456
+Samsung,Washing Machine,Door not closing,8,2722
+Whirlpool,Refrigerator,No power,6,8719
+Godrej,Refrigerator,Door seal broken,3,15599
+Panasonic,Batteries,Not charging,7,353
+LG,Washing Machine,Strange noise,6,4721
+LG,Refrigerator,Door seal broken,8,2881
+Canon,Printer,No power,5,2782
+Samsung,Refrigerator,Not cooling,8,3250
+Duracell,Batteries,Short battery life,2,1359
+Haier,Refrigerator,Not cooling,10,4446
+Samsung,Refrigerator,Strange noise,4,8334
+Sony,Batteries,Overheating,2,1059
+Samsung,Refrigerator,No power,4,12760
+Dell,TV/Computer,No display,4,15636
+Godrej,Refrigerator,Strange noise,1,13611
+Bosch,Washing Machine,Water leakage,5,6189
+Brother,Printer,WiFi not working,10,1138
+Panasonic,Batteries,Overheating,9,316
+LG,TV/Computer,No display,3,17663
+Whirlpool,Refrigerator,No power,3,11678
+LG,Refrigerator,No power,8,3608
+Sony,Batteries,Not charging,6,648
+Canon,Printer,Slow printing,3,4392
+Epson,Printer,Slow printing,5,2442
+HP,TV/Computer,Won't turn on,4,16330
+Xerox,Printer,Ink smudge,3,3995
+IFB,Washing Machine,Not spinning,10,2733
+LG,Washing Machine,Door not closing,1,11364
+HP,Printer,No power,10,916
+IFB,Washing Machine,Strange noise,2,11614
+Brother,Printer,Ink smudge,7,1814
+Sony,TV/Computer,Screen flicker,7,7091
+Bosch,Washing Machine,Strange noise,4,9294
+Energizer,Batteries,Swollen battery,5,737
+LG,Washing Machine,Not spinning,7,3250
+Duracell,Batteries,Swollen battery,6,597
+Canon,Printer,WiFi not working,2,5192
+LG,Refrigerator,Water leakage,3,12332
+Sony,TV/Computer,Slow performance,7,10639
+Samsung,TV/Computer,No display,4,15476
+Canon,Printer,No power,2,3401
+Brother,Printer,Paper jam,10,1410
+Whirlpool,Washing Machine,No power,10,2590
+Samsung,TV/Computer,Won't turn on,5,11575
+LG,Washing Machine,Strange noise,6,4169
+Duracell,Batteries,Overheating,6,419
+Panasonic,Batteries,Overheating,9,239
+Panasonic,Batteries,Short battery life,6,535
+Canon,Printer,Ink smudge,9,1093
+Panasonic,Batteries,Overheating,9,231
+HP,TV/Computer,Screen flicker,5,12128
+Bosch,Washing Machine,Not spinning,3,11504
+Energizer,Batteries,Leaking,10,276
+Whirlpool,Refrigerator,Water leakage,7,5781
+Xerox,Printer,Paper jam,7,1513
+HP,Printer,Slow printing,5,2789
+IFB,Washing Machine,No power,7,4726
+Brother,Printer,No power,4,3182
+LG,Refrigerator,No power,1,12630
+IFB,Washing Machine,Strange noise,8,2637
+LG,TV/Computer,Screen flicker,6,8749
+Sony,Batteries,Not charging,6,457
+Whirlpool,Refrigerator,Water leakage,9,2781
+Sony,Batteries,Not charging,3,1228
+IFB,Washing Machine,Door not closing,1,11089
+Panasonic,Batteries,Leaking,6,592
+Sony,Batteries,Not charging,9,261
+Panasonic,Batteries,Overheating,10,240
+Samsung,TV/Computer,Screen flicker,9,5298
+Energizer,Batteries,Overheating,9,239
+Bosch,Washing Machine,Door not closing,3,8621
+Samsung,Washing Machine,No power,3,8942
+LG,TV/Computer,Slow performance,10,6644
+Xerox,Printer,Ink smudge,1,5323
+Eveready,Batteries,Swollen battery,9,230
+Energizer,Batteries,Short battery life,1,1224
+Duracell,Batteries,Overheating,2,1349
+Panasonic,Batteries,Short battery life,8,233
+Samsung,Washing Machine,Water leakage,8,3572
+Duracell,Batteries,Overheating,6,647
+Eveready,Batteries,Leaking,3,1179
+Samsung,Washing Machine,Door not closing,9,3253
+LG,Washing Machine,No power,6,5265
+Samsung,Washing Machine,Water leakage,2,11445
+Sony,Batteries,Leaking,1,1130
+HP,TV/Computer,Slow performance,6,13007
+LG,Refrigerator,Strange noise,4,9250
+Whirlpool,Refrigerator,Strange noise,5,7326
+Sony,TV/Computer,No display,9,4083
+Brother,Printer,Ink smudge,7,1974
+Epson,Printer,Ink smudge,3,4105
+Whirlpool,Refrigerator,No power,3,10315
+HP,TV/Computer,Overheating,8,4817
+Haier,Refrigerator,Water leakage,6,6415
+Sony,Batteries,Leaking,8,218
+LG,Washing Machine,No power,5,6256
+Samsung,Refrigerator,Not cooling,6,6740
+Panasonic,Batteries,Not charging,1,991
+LG,TV/Computer,Won't turn on,7,10506
+Dell,TV/Computer,Overheating,6,10770
+Bosch,Washing Machine,Door not closing,3,9444
+Duracell,Batteries,Swollen battery,3,1114
+LG,Refrigerator,Strange noise,5,9404
+Haier,Refrigerator,Not cooling,1,11486
+Sony,TV/Computer,Slow performance,4,17112
+Eveready,Batteries,Leaking,6,432
+Xerox,Printer,Paper jam,6,2307
+Xerox,Printer,WiFi not working,6,1801
+IFB,Washing Machine,Door not closing,7,3181
+Sony,TV/Computer,Overheating,9,6577
+Bosch,Washing Machine,Door not closing,4,8725
+Samsung,Refrigerator,Door seal broken,1,17930
+Sony,TV/Computer,No display,8,4939
+Dell,TV/Computer,Won't turn on,10,6475
+Energizer,Batteries,Short battery life,4,891
+Xerox,Printer,Paper jam,1,4002
+LG,TV/Computer,Overheating,5,13995
+LG,Washing Machine,Strange noise,5,8357
+Canon,Printer,Slow printing,10,1314
+Dell,TV/Computer,Screen flicker,4,14373
+HP,Printer,Paper jam,2,4553
+Whirlpool,Refrigerator,No power,6,5713
+Brother,Printer,Slow printing,7,2087
+Dell,TV/Computer,No display,6,9674
+LG,TV/Computer,Slow performance,7,10111
+Haier,Refrigerator,Strange noise,10,3399
+Haier,Refrigerator,Not cooling,5,7154
+Samsung,Refrigerator,Strange noise,10,4036
+Sony,Batteries,Short battery life,1,1208
+Sony,TV/Computer,Screen flicker,5,13878
+Sony,TV/Computer,Screen flicker,10,6327
+Whirlpool,Washing Machine,Not spinning,1,9097
+LG,TV/Computer,Slow performance,10,7059
+LG,Refrigerator,Water leakage,6,7126
+Sony,Batteries,Leaking,1,1439
+Haier,Refrigerator,Water leakage,4,11761
+Eveready,Batteries,Short battery life,5,896
+Duracell,Batteries,Swollen battery,7,405
+LG,Washing Machine,Water leakage,6,4865
+IFB,Washing Machine,Door not closing,10,3527
+IFB,Washing Machine,Water leakage,3,9103
+LG,Refrigerator,Water leakage,3,11389
+Godrej,Refrigerator,Water leakage,2,13699
+Energizer,Batteries,Overheating,10,347
+Haier,Refrigerator,Strange noise,2,14477
+HP,TV/Computer,No display,10,5534
+Whirlpool,Washing Machine,Not spinning,3,9137
+LG,Washing Machine,No power,1,15857
+Canon,Printer,Paper jam,6,2717
+HP,TV/Computer,Screen flicker,3,21234
+Samsung,Washing Machine,Door not closing,8,2978
+Sony,TV/Computer,Screen flicker,3,16881
+IFB,Washing Machine,Strange noise,1,10568
+IFB,Washing Machine,No power,3,8818
+Eveready,Batteries,Not charging,5,512
+Bosch,Washing Machine,Not spinning,6,5012
+HP,TV/Computer,Overheating,2,24604
+Energizer,Batteries,Not charging,6,416
+HP,TV/Computer,Overheating,6,8840
+Panasonic,Batteries,Swollen battery,1,1447
+Whirlpool,Refrigerator,Not cooling,2,13619
+Haier,Refrigerator,No power,1,11763
+Samsung,Refrigerator,Door seal broken,5,8692
+Samsung,TV/Computer,Screen flicker,9,4668
+Whirlpool,Washing Machine,Strange noise,2,8238
+Brother,Printer,Paper jam,2,4517
+Haier,Refrigerator,Strange noise,4,10521
+Sony,TV/Computer,Slow performance,4,21227
+Samsung,TV/Computer,Screen flicker,7,10406
+LG,Washing Machine,Strange noise,2,11300
+Epson,Printer,Paper jam,3,4031
+Sony,Batteries,Leaking,6,692
+LG,Refrigerator,Water leakage,6,8102
+Haier,Refrigerator,Door seal broken,7,4101
+Samsung,TV/Computer,Slow performance,4,12929
+Bosch,Washing Machine,Door not closing,7,3088
+Whirlpool,Refrigerator,Strange noise,7,3909
+Godrej,Refrigerator,No power,10,4121
+Duracell,Batteries,Swollen battery,6,715
+LG,TV/Computer,Slow performance,6,12553
+Bosch,Washing Machine,Not spinning,6,7110
+Brother,Printer,No power,1,5430
+IFB,Washing Machine,Door not closing,7,3404
+Godrej,Refrigerator,Water leakage,4,13144
+Whirlpool,Washing Machine,Not spinning,2,13823
+LG,TV/Computer,Overheating,4,19127
+Brother,Printer,WiFi not working,1,5190
+Samsung,TV/Computer,No display,3,15487
+Sony,TV/Computer,Won't turn on,2,20683
+Sony,Batteries,Not charging,2,1340
+HP,Printer,Ink smudge,7,1727
+Panasonic,Batteries,Swollen battery,8,353
+Energizer,Batteries,Leaking,2,925
+LG,TV/Computer,Screen flicker,7,6275
+LG,Washing Machine,Door not closing,3,8826
+Godrej,Refrigerator,Door seal broken,9,4101
+HP,TV/Computer,Screen flicker,6,10883
+Xerox,Printer,Ink smudge,3,3709
+Epson,Printer,Paper jam,3,3910
+Energizer,Batteries,Leaking,10,334
+IFB,Washing Machine,Strange noise,10,2473
+IFB,Washing Machine,Door not closing,3,12212
+Sony,Batteries,Overheating,9,354
+LG,TV/Computer,Overheating,10,6587
+Haier,Refrigerator,No power,10,3318
+Sony,Batteries,Swollen battery,5,739
+Godrej,Refrigerator,Water leakage,4,7506
+Haier,Refrigerator,Door seal broken,10,3561
+Samsung,TV/Computer,Slow performance,5,17494
+Haier,Refrigerator,Water leakage,6,7746
+Godrej,Refrigerator,No power,4,7717
+Duracell,Batteries,Swollen battery,8,244
+Sony,TV/Computer,Slow performance,2,18790
+Xerox,Printer,Ink smudge,2,4374
+LG,Refrigerator,Strange noise,2,10503
+Panasonic,Batteries,Overheating,2,1211
+LG,Washing Machine,No power,10,3099
+Xerox,Printer,WiFi not working,6,2509
+Samsung,TV/Computer,Screen flicker,9,4156
+Haier,Refrigerator,Door seal broken,9,3818
+Samsung,Refrigerator,Strange noise,3,13353
+Haier,Refrigerator,No power,3,14526
+Haier,Refrigerator,Strange noise,8,2630
+HP,Printer,No power,1,4070
+Energizer,Batteries,Short battery life,7,383
+LG,TV/Computer,Won't turn on,2,17435
+HP,Printer,Slow printing,3,3182
+Whirlpool,Refrigerator,Strange noise,9,3269
+Bosch,Washing Machine,Water leakage,3,10407
+Duracell,Batteries,Leaking,5,654
+Energizer,Batteries,Overheating,4,843
+Canon,Printer,Ink smudge,7,1203
+Xerox,Printer,No power,4,2519
+IFB,Washing Machine,No power,6,5098
+LG,Refrigerator,Strange noise,1,15913
+Brother,Printer,No power,3,4323
+Whirlpool,Refrigerator,Strange noise,8,3210
+HP,TV/Computer,Overheating,2,16470
+Dell,TV/Computer,Overheating,7,10482
+Samsung,Refrigerator,Not cooling,8,3456
+Duracell,Batteries,Overheating,9,235
+HP,TV/Computer,Slow performance,2,22940
+HP,Printer,WiFi not working,2,4715
+Panasonic,Batteries,Swollen battery,5,619
+Energizer,Batteries,Overheating,6,409
+Duracell,Batteries,Overheating,5,683
+IFB,Washing Machine,Not spinning,2,12117
+HP,TV/Computer,Screen flicker,1,19083
+Samsung,Washing Machine,Door not closing,2,12275
+HP,Printer,No power,6,2032
+Whirlpool,Washing Machine,Not spinning,7,4138
+Whirlpool,Washing Machine,Not spinning,7,3659
+Xerox,Printer,Ink smudge,10,985
+IFB,Washing Machine,No power,2,13298
+Dell,TV/Computer,Slow performance,5,10663
+Godrej,Refrigerator,Not cooling,9,3263
+Energizer,Batteries,Swollen battery,3,1028
+Eveready,Batteries,Not charging,5,810
+Canon,Printer,WiFi not working,4,3314
+IFB,Washing Machine,Strange noise,1,14138
+Godrej,Refrigerator,Water leakage,7,6487
+Eveready,Batteries,Leaking,1,1020
+Samsung,Refrigerator,Water leakage,4,9323
+Sony,Batteries,Short battery life,1,1248
+Haier,Refrigerator,Door seal broken,7,5631
+Canon,Printer,WiFi not working,10,1133
+Samsung,Refrigerator,Water leakage,8,2709
+Panasonic,Batteries,Overheating,7,463
+Samsung,Refrigerator,Strange noise,10,4115
+Samsung,Refrigerator,No power,8,3198
+LG,Washing Machine,Water leakage,7,3341
+Haier,Refrigerator,Water leakage,8,4366
+Epson,Printer,Slow printing,5,3476
+Whirlpool,Washing Machine,No power,2,10115
+Haier,Refrigerator,Not cooling,8,3998
+Panasonic,Batteries,Swollen battery,2,923
+Bosch,Washing Machine,Not spinning,2,10898
+Energizer,Batteries,Overheating,1,1131
+LG,Washing Machine,Not spinning,3,12360
+HP,TV/Computer,Overheating,2,18075
+Dell,TV/Computer,Won't turn on,5,16376
+Brother,Printer,Slow printing,7,1715
+LG,TV/Computer,Slow performance,7,7499
+Samsung,Refrigerator,Not cooling,1,16674
+HP,TV/Computer,Overheating,4,17919
+Eveready,Batteries,Overheating,1,1503
+Bosch,Washing Machine,Not spinning,4,8304
+Epson,Printer,No power,4,3511
+Epson,Printer,Slow printing,5,2919
+Whirlpool,Refrigerator,Not cooling,10,2702
+Eveready,Batteries,Overheating,6,697
+LG,Washing Machine,Door not closing,9,2718
+LG,Refrigerator,No power,5,8901
+LG,TV/Computer,Slow performance,2,18350
+Dell,TV/Computer,Won't turn on,4,18048
+HP,TV/Computer,No display,8,6857

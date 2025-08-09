@@ -1,0 +1,1001 @@
+ApplianceType,SubType,Problem,Repairability,Year,RepairCost
+TV,LED,HDMI not working,Repairable,2017,1120
+TV,Old TV,Color distortion,Repairable,2015,2265
+Computer,Laptop,HDD failure,Replaceable,2010,
+TV,Old TV,HDMI not working,Repairable,2018,857
+TV,LED,Color distortion,Repairable,2010,1710
+Computer,Desktop,HDD failure,Replaceable,2014,
+Computer,Desktop,Overheating,Repairable,2020,1124
+Computer,Desktop,Battery not charging,Repairable,2012,977
+TV,Old TV,Color distortion,Repairable,2018,1639
+Computer,Desktop,Slow booting,Repairable,2018,2335
+Computer,Laptop,Slow booting,Repairable,2014,1194
+TV,Old TV,Black screen but power light on,Repairable,2010,2053
+Computer,Laptop,Battery not charging,Repairable,2013,1265
+TV,LED,Panel cracked,Replaceable,2017,
+Computer,Laptop,Overheating,Repairable,2008,1584
+TV,LED,Color distortion,Repairable,2018,2264
+TV,LED,HDMI not working,Repairable,2013,939
+TV,Old TV,Burning smell,Replaceable,2008,
+Computer,Desktop,No power at all,Replaceable,2020,
+Computer,Laptop,Fan noise,Repairable,2009,820
+Computer,Laptop,Slow booting,Repairable,2018,2011
+Computer,Laptop,Screen flickering,Repairable,2015,2447
+TV,Old TV,Black screen but power light on,Repairable,2009,1981
+Computer,Laptop,HDD failure,Replaceable,2020,
+TV,LED,Color distortion,Repairable,2019,1885
+Computer,Desktop,HDD failure,Replaceable,2010,
+Computer,Laptop,Fan noise,Repairable,2010,1491
+Computer,Desktop,Fan noise,Repairable,2014,1918
+TV,LED,No sound,Repairable,2018,2368
+TV,LED,Black screen but power light on,Repairable,2015,1559
+TV,Old TV,No sound,Repairable,2013,573
+TV,LED,Color distortion,Repairable,2020,1352
+TV,Old TV,Burning smell,Replaceable,2009,
+Computer,Laptop,Motherboard dead,Replaceable,2009,
+TV,LED,Burning smell,Replaceable,2018,
+TV,LED,Burning smell,Replaceable,2020,
+TV,Old TV,Burning smell,Replaceable,2011,
+TV,LED,Black screen but power light on,Repairable,2018,690
+Computer,Laptop,Motherboard dead,Replaceable,2012,
+TV,LED,No signal detection,Repairable,2012,1106
+Computer,Desktop,Screen flickering,Repairable,2010,1722
+TV,LED,HDMI not working,Repairable,2009,750
+TV,LED,HDMI not working,Repairable,2016,2355
+TV,Old TV,Panel cracked,Replaceable,2010,
+TV,LED,Panel cracked,Replaceable,2017,
+TV,Old TV,No sound,Repairable,2015,528
+TV,LED,Panel cracked,Replaceable,2016,
+Computer,Desktop,Battery not charging,Repairable,2014,1497
+Computer,Laptop,Motherboard dead,Replaceable,2017,
+TV,Old TV,Color distortion,Repairable,2010,1017
+TV,Old TV,HDMI not working,Repairable,2013,1910
+TV,Old TV,No sound,Repairable,2014,937
+TV,LED,Tube damage,Replaceable,2015,
+TV,Old TV,Tube damage,Replaceable,2013,
+TV,LED,Color distortion,Repairable,2011,2479
+TV,LED,Black screen but power light on,Repairable,2021,2190
+Computer,Laptop,Screen flickering,Repairable,2010,2321
+TV,LED,HDMI not working,Repairable,2017,1004
+Computer,Desktop,HDD failure,Replaceable,2014,
+TV,Old TV,Panel cracked,Replaceable,2008,
+TV,LED,No sound,Repairable,2010,833
+Computer,Desktop,Slow booting,Repairable,2010,1118
+TV,LED,HDMI not working,Repairable,2008,1968
+TV,LED,No sound,Repairable,2021,952
+TV,LED,No sound,Repairable,2011,1680
+TV,LED,No sound,Repairable,2019,2222
+Computer,Desktop,Motherboard dead,Replaceable,2019,
+Computer,Laptop,Overheating,Repairable,2016,2313
+TV,LED,No sound,Repairable,2009,1819
+Computer,Desktop,Battery not charging,Repairable,2011,2454
+Computer,Laptop,Slow booting,Repairable,2012,702
+TV,Old TV,HDMI not working,Repairable,2011,2351
+Computer,Laptop,No power at all,Replaceable,2014,
+Computer,Laptop,Battery not charging,Repairable,2015,1128
+TV,LED,Panel cracked,Replaceable,2017,
+TV,Old TV,Panel cracked,Replaceable,2018,
+Computer,Laptop,Fan noise,Repairable,2008,1799
+TV,Old TV,HDMI not working,Repairable,2021,1390
+Computer,Desktop,Motherboard dead,Replaceable,2015,
+TV,Old TV,Tube damage,Replaceable,2008,
+TV,Old TV,Burning smell,Replaceable,2011,
+Computer,Desktop,Overheating,Repairable,2014,1959
+TV,LED,Black screen but power light on,Repairable,2013,772
+Computer,Laptop,Screen flickering,Repairable,2011,2265
+TV,LED,HDMI not working,Repairable,2016,1460
+Computer,Laptop,HDD failure,Replaceable,2014,
+Computer,Desktop,Motherboard dead,Replaceable,2009,
+TV,LED,No signal detection,Repairable,2014,2444
+Computer,Laptop,Screen flickering,Repairable,2020,1779
+TV,Old TV,Color distortion,Repairable,2020,2478
+Computer,Laptop,Motherboard dead,Replaceable,2022,
+TV,Old TV,Color distortion,Repairable,2011,1766
+TV,Old TV,Black screen but power light on,Repairable,2017,1820
+TV,Old TV,Color distortion,Repairable,2010,1134
+TV,LED,Tube damage,Replaceable,2011,
+TV,Old TV,No sound,Repairable,2012,1149
+Computer,Laptop,HDD failure,Replaceable,2019,
+TV,Old TV,No sound,Repairable,2016,2148
+TV,Old TV,Burning smell,Replaceable,2010,
+Computer,Desktop,Fan noise,Repairable,2019,1125
+Computer,Desktop,Slow booting,Repairable,2022,1775
+TV,LED,No sound,Repairable,2011,1798
+Computer,Desktop,Screen flickering,Repairable,2010,2130
+Computer,Desktop,Screen flickering,Repairable,2019,2058
+Computer,Laptop,Motherboard dead,Replaceable,2012,
+TV,Old TV,Color distortion,Repairable,2021,2335
+Computer,Laptop,Overheating,Repairable,2011,1928
+TV,LED,Panel cracked,Replaceable,2022,
+Computer,Laptop,Screen flickering,Repairable,2008,1177
+Computer,Desktop,Motherboard dead,Replaceable,2021,
+TV,LED,No signal detection,Repairable,2021,2165
+Computer,Desktop,Slow booting,Repairable,2013,630
+Computer,Laptop,Overheating,Repairable,2022,1656
+Computer,Desktop,HDD failure,Replaceable,2018,
+Computer,Desktop,No power at all,Replaceable,2021,
+Computer,Laptop,Screen flickering,Repairable,2019,653
+Computer,Laptop,Fan noise,Repairable,2013,2159
+Computer,Laptop,Screen flickering,Repairable,2022,1930
+TV,Old TV,Burning smell,Replaceable,2020,
+Computer,Laptop,Overheating,Repairable,2008,2340
+TV,LED,Burning smell,Replaceable,2022,
+TV,LED,Panel cracked,Replaceable,2011,
+TV,Old TV,Tube damage,Replaceable,2013,
+TV,LED,Tube damage,Replaceable,2016,
+Computer,Desktop,No power at all,Replaceable,2020,
+Computer,Desktop,HDD failure,Replaceable,2011,
+Computer,Laptop,Battery not charging,Repairable,2009,2347
+Computer,Desktop,Fan noise,Repairable,2009,2316
+Computer,Desktop,Fan noise,Repairable,2009,1444
+TV,LED,No signal detection,Repairable,2008,1440
+Computer,Desktop,Motherboard dead,Replaceable,2017,
+TV,Old TV,Tube damage,Replaceable,2011,
+TV,Old TV,Tube damage,Replaceable,2012,
+Computer,Desktop,HDD failure,Replaceable,2008,
+Computer,Laptop,Slow booting,Repairable,2009,1611
+Computer,Desktop,HDD failure,Replaceable,2010,
+Computer,Desktop,No power at all,Replaceable,2022,
+TV,LED,Black screen but power light on,Repairable,2015,2102
+TV,Old TV,Color distortion,Repairable,2018,2330
+TV,LED,Burning smell,Replaceable,2008,
+TV,Old TV,Black screen but power light on,Repairable,2016,1123
+TV,LED,Color distortion,Repairable,2021,1703
+Computer,Desktop,HDD failure,Replaceable,2014,
+Computer,Laptop,Overheating,Repairable,2011,1066
+TV,LED,Tube damage,Replaceable,2009,
+Computer,Desktop,Slow booting,Repairable,2011,1323
+Computer,Desktop,Overheating,Repairable,2010,690
+TV,Old TV,Tube damage,Replaceable,2021,
+Computer,Laptop,Battery not charging,Repairable,2011,694
+TV,LED,No sound,Repairable,2015,1798
+TV,Old TV,Panel cracked,Replaceable,2018,
+Computer,Laptop,Overheating,Repairable,2014,678
+TV,LED,No sound,Repairable,2011,1987
+Computer,Laptop,Screen flickering,Repairable,2019,1816
+Computer,Desktop,HDD failure,Replaceable,2011,
+Computer,Desktop,HDD failure,Replaceable,2016,
+TV,LED,Color distortion,Repairable,2021,1430
+Computer,Laptop,Battery not charging,Repairable,2017,1141
+TV,Old TV,Color distortion,Repairable,2013,2388
+TV,Old TV,Burning smell,Replaceable,2011,
+TV,LED,No sound,Repairable,2010,1011
+Computer,Laptop,Motherboard dead,Replaceable,2013,
+TV,Old TV,Burning smell,Replaceable,2013,
+Computer,Laptop,HDD failure,Replaceable,2015,
+Computer,Laptop,Slow booting,Repairable,2021,1735
+Computer,Desktop,Overheating,Repairable,2018,640
+TV,Old TV,No signal detection,Repairable,2020,2408
+TV,LED,No sound,Repairable,2009,1412
+TV,LED,Black screen but power light on,Repairable,2022,2244
+TV,Old TV,Panel cracked,Replaceable,2021,
+TV,Old TV,Panel cracked,Replaceable,2009,
+TV,Old TV,Tube damage,Replaceable,2015,
+Computer,Desktop,No power at all,Replaceable,2014,
+Computer,Laptop,Screen flickering,Repairable,2012,1762
+Computer,Laptop,Battery not charging,Repairable,2014,1407
+TV,LED,No signal detection,Repairable,2008,1974
+TV,Old TV,Tube damage,Replaceable,2014,
+Computer,Laptop,HDD failure,Replaceable,2021,
+TV,LED,No signal detection,Repairable,2014,1862
+Computer,Desktop,Fan noise,Repairable,2008,992
+TV,Old TV,No signal detection,Repairable,2018,1766
+TV,Old TV,Color distortion,Repairable,2017,2104
+TV,Old TV,Color distortion,Repairable,2018,1438
+Computer,Desktop,Overheating,Repairable,2021,2330
+Computer,Desktop,No power at all,Replaceable,2019,
+Computer,Desktop,Battery not charging,Repairable,2012,1582
+TV,LED,HDMI not working,Repairable,2016,1010
+TV,LED,HDMI not working,Repairable,2022,1864
+TV,LED,Color distortion,Repairable,2020,914
+Computer,Laptop,No power at all,Replaceable,2022,
+Computer,Desktop,Fan noise,Repairable,2013,1119
+Computer,Laptop,Screen flickering,Repairable,2018,2006
+Computer,Laptop,Fan noise,Repairable,2021,1889
+Computer,Laptop,HDD failure,Replaceable,2010,
+TV,LED,Tube damage,Replaceable,2018,
+TV,LED,Burning smell,Replaceable,2011,
+TV,LED,No sound,Repairable,2010,1086
+TV,LED,Black screen but power light on,Repairable,2014,2036
+TV,LED,No signal detection,Repairable,2010,907
+TV,LED,Burning smell,Replaceable,2009,
+Computer,Laptop,Motherboard dead,Replaceable,2021,
+TV,LED,Color distortion,Repairable,2015,628
+Computer,Desktop,Motherboard dead,Replaceable,2012,
+Computer,Desktop,Overheating,Repairable,2008,2134
+TV,LED,Burning smell,Replaceable,2018,
+TV,LED,No sound,Repairable,2017,2108
+TV,LED,Burning smell,Replaceable,2013,
+TV,LED,Color distortion,Repairable,2009,841
+TV,LED,No sound,Repairable,2016,794
+Computer,Desktop,Fan noise,Repairable,2014,2043
+Computer,Laptop,Fan noise,Repairable,2017,1244
+Computer,Desktop,Overheating,Repairable,2011,1971
+TV,Old TV,HDMI not working,Repairable,2022,686
+TV,Old TV,HDMI not working,Repairable,2022,2463
+Computer,Desktop,Screen flickering,Repairable,2014,2346
+Computer,Desktop,Battery not charging,Repairable,2017,515
+TV,LED,No signal detection,Repairable,2014,2198
+Computer,Laptop,No power at all,Replaceable,2013,
+TV,LED,Burning smell,Replaceable,2019,
+TV,Old TV,Black screen but power light on,Repairable,2022,2455
+TV,LED,No sound,Repairable,2018,2291
+TV,LED,Panel cracked,Replaceable,2011,
+TV,Old TV,No signal detection,Repairable,2018,1658
+Computer,Desktop,No power at all,Replaceable,2019,
+Computer,Laptop,Overheating,Repairable,2014,1780
+TV,LED,Color distortion,Repairable,2008,953
+Computer,Laptop,Slow booting,Repairable,2016,2332
+TV,Old TV,Color distortion,Repairable,2012,1583
+TV,LED,Burning smell,Replaceable,2016,
+Computer,Desktop,Fan noise,Repairable,2017,664
+Computer,Desktop,Battery not charging,Repairable,2009,1343
+TV,Old TV,Burning smell,Replaceable,2022,
+Computer,Desktop,Fan noise,Repairable,2020,944
+TV,LED,Tube damage,Replaceable,2022,
+Computer,Desktop,No power at all,Replaceable,2018,
+TV,LED,No sound,Repairable,2014,1562
+TV,LED,Color distortion,Repairable,2009,1579
+Computer,Laptop,Slow booting,Repairable,2020,1198
+TV,Old TV,Burning smell,Replaceable,2016,
+TV,Old TV,Burning smell,Replaceable,2016,
+Computer,Laptop,HDD failure,Replaceable,2010,
+TV,LED,Panel cracked,Replaceable,2019,
+Computer,Desktop,Screen flickering,Repairable,2012,524
+TV,Old TV,Tube damage,Replaceable,2011,
+Computer,Laptop,Overheating,Repairable,2020,524
+TV,Old TV,Black screen but power light on,Repairable,2015,1372
+TV,Old TV,No signal detection,Repairable,2012,2230
+Computer,Desktop,Slow booting,Repairable,2016,1026
+TV,LED,Color distortion,Repairable,2013,2466
+TV,LED,Black screen but power light on,Repairable,2017,875
+TV,Old TV,Color distortion,Repairable,2013,2246
+Computer,Laptop,Motherboard dead,Replaceable,2015,
+Computer,Laptop,HDD failure,Replaceable,2018,
+Computer,Laptop,Slow booting,Repairable,2021,2020
+TV,Old TV,Panel cracked,Replaceable,2019,
+TV,Old TV,Black screen but power light on,Repairable,2010,1026
+Computer,Laptop,No power at all,Replaceable,2018,
+Computer,Desktop,Overheating,Repairable,2008,843
+TV,Old TV,Burning smell,Replaceable,2016,
+Computer,Desktop,No power at all,Replaceable,2013,
+TV,Old TV,Burning smell,Replaceable,2019,
+TV,LED,No sound,Repairable,2014,986
+Computer,Desktop,Screen flickering,Repairable,2011,1136
+TV,LED,Burning smell,Replaceable,2016,
+Computer,Desktop,Overheating,Repairable,2012,764
+Computer,Desktop,Fan noise,Repairable,2009,927
+TV,Old TV,HDMI not working,Repairable,2011,2205
+TV,LED,HDMI not working,Repairable,2019,901
+Computer,Desktop,Slow booting,Repairable,2020,1664
+TV,Old TV,HDMI not working,Repairable,2017,599
+Computer,Laptop,HDD failure,Replaceable,2013,
+Computer,Desktop,Motherboard dead,Replaceable,2017,
+Computer,Laptop,Slow booting,Repairable,2009,1426
+TV,LED,Black screen but power light on,Repairable,2018,1054
+Computer,Desktop,Overheating,Repairable,2019,1040
+Computer,Laptop,Battery not charging,Repairable,2011,1468
+TV,LED,No signal detection,Repairable,2022,1740
+Computer,Desktop,Screen flickering,Repairable,2012,2285
+TV,LED,No signal detection,Repairable,2021,1205
+Computer,Laptop,Screen flickering,Repairable,2008,856
+Computer,Desktop,Overheating,Repairable,2013,1673
+TV,LED,Black screen but power light on,Repairable,2019,878
+TV,Old TV,Tube damage,Replaceable,2019,
+Computer,Desktop,Battery not charging,Repairable,2011,1607
+Computer,Desktop,No power at all,Replaceable,2015,
+Computer,Desktop,No power at all,Replaceable,2009,
+Computer,Laptop,Screen flickering,Repairable,2020,616
+TV,Old TV,Tube damage,Replaceable,2019,
+Computer,Desktop,Fan noise,Repairable,2019,2151
+Computer,Desktop,No power at all,Replaceable,2018,
+TV,Old TV,Panel cracked,Replaceable,2009,
+TV,Old TV,Panel cracked,Replaceable,2022,
+Computer,Laptop,Motherboard dead,Replaceable,2015,
+Computer,Desktop,No power at all,Replaceable,2020,
+TV,Old TV,Panel cracked,Replaceable,2008,
+Computer,Desktop,Battery not charging,Repairable,2008,2499
+Computer,Desktop,Motherboard dead,Replaceable,2010,
+Computer,Desktop,No power at all,Replaceable,2021,
+TV,LED,Panel cracked,Replaceable,2020,
+TV,LED,HDMI not working,Repairable,2017,1715
+TV,LED,Tube damage,Replaceable,2010,
+TV,Old TV,Panel cracked,Replaceable,2022,
+Computer,Laptop,Screen flickering,Repairable,2013,518
+Computer,Desktop,Slow booting,Repairable,2021,1016
+Computer,Desktop,Battery not charging,Repairable,2020,1957
+Computer,Desktop,Motherboard dead,Replaceable,2008,
+TV,LED,Panel cracked,Replaceable,2017,
+TV,LED,No signal detection,Repairable,2022,1015
+TV,Old TV,Tube damage,Replaceable,2009,
+TV,LED,Panel cracked,Replaceable,2017,
+Computer,Desktop,No power at all,Replaceable,2022,
+Computer,Laptop,Fan noise,Repairable,2021,1310
+TV,LED,No signal detection,Repairable,2009,2222
+Computer,Laptop,Overheating,Repairable,2018,1789
+TV,Old TV,No signal detection,Repairable,2020,2051
+Computer,Desktop,HDD failure,Replaceable,2008,
+TV,Old TV,Black screen but power light on,Repairable,2020,793
+TV,Old TV,Black screen but power light on,Repairable,2014,2384
+TV,Old TV,Black screen but power light on,Repairable,2013,1035
+TV,LED,Panel cracked,Replaceable,2009,
+TV,Old TV,Tube damage,Replaceable,2012,
+TV,Old TV,Black screen but power light on,Repairable,2018,1039
+Computer,Laptop,HDD failure,Replaceable,2008,
+TV,LED,Tube damage,Replaceable,2011,
+Computer,Laptop,Fan noise,Repairable,2021,2335
+TV,LED,Panel cracked,Replaceable,2012,
+TV,LED,Burning smell,Replaceable,2017,
+Computer,Desktop,Fan noise,Repairable,2016,1498
+Computer,Desktop,Fan noise,Repairable,2016,737
+Computer,Laptop,Battery not charging,Repairable,2011,1943
+Computer,Desktop,Screen flickering,Repairable,2020,599
+Computer,Laptop,Battery not charging,Repairable,2016,875
+TV,LED,Burning smell,Replaceable,2014,
+TV,LED,Tube damage,Replaceable,2022,
+Computer,Laptop,Overheating,Repairable,2018,2144
+Computer,Desktop,Fan noise,Repairable,2021,1777
+TV,LED,No sound,Repairable,2017,2138
+TV,Old TV,Panel cracked,Replaceable,2013,
+Computer,Laptop,Overheating,Repairable,2019,1767
+Computer,Laptop,HDD failure,Replaceable,2014,
+Computer,Laptop,HDD failure,Replaceable,2010,
+TV,LED,HDMI not working,Repairable,2012,1433
+TV,LED,No signal detection,Repairable,2020,1983
+Computer,Laptop,Screen flickering,Repairable,2013,648
+TV,LED,HDMI not working,Repairable,2020,2331
+TV,Old TV,No sound,Repairable,2018,1382
+TV,Old TV,Panel cracked,Replaceable,2022,
+Computer,Desktop,Battery not charging,Repairable,2019,1732
+Computer,Desktop,Battery not charging,Repairable,2011,1821
+Computer,Laptop,HDD failure,Replaceable,2014,
+Computer,Desktop,Motherboard dead,Replaceable,2021,
+TV,LED,HDMI not working,Repairable,2008,776
+Computer,Desktop,Slow booting,Repairable,2015,1381
+Computer,Desktop,Motherboard dead,Replaceable,2019,
+TV,Old TV,Burning smell,Replaceable,2014,
+TV,LED,No sound,Repairable,2010,1901
+TV,Old TV,Color distortion,Repairable,2014,1571
+Computer,Laptop,Slow booting,Repairable,2011,1433
+Computer,Desktop,Fan noise,Repairable,2016,1647
+Computer,Laptop,Fan noise,Repairable,2012,826
+Computer,Desktop,Slow booting,Repairable,2008,1908
+Computer,Desktop,Overheating,Repairable,2022,2100
+Computer,Desktop,HDD failure,Replaceable,2015,
+TV,Old TV,Burning smell,Replaceable,2008,
+TV,Old TV,Panel cracked,Replaceable,2015,
+TV,Old TV,HDMI not working,Repairable,2015,943
+TV,LED,Color distortion,Repairable,2017,2353
+Computer,Laptop,No power at all,Replaceable,2010,
+Computer,Desktop,HDD failure,Replaceable,2020,
+TV,LED,Burning smell,Replaceable,2018,
+TV,Old TV,Color distortion,Repairable,2018,1984
+Computer,Laptop,Battery not charging,Repairable,2022,507
+TV,Old TV,HDMI not working,Repairable,2017,1906
+TV,LED,HDMI not working,Repairable,2019,1387
+TV,Old TV,Black screen but power light on,Repairable,2009,1485
+TV,Old TV,Panel cracked,Replaceable,2012,
+Computer,Desktop,Battery not charging,Repairable,2022,2348
+TV,Old TV,No sound,Repairable,2022,2458
+TV,Old TV,No sound,Repairable,2015,1369
+Computer,Laptop,HDD failure,Replaceable,2013,
+Computer,Laptop,Battery not charging,Repairable,2022,1450
+TV,Old TV,No sound,Repairable,2022,814
+TV,LED,No signal detection,Repairable,2008,2442
+TV,LED,No sound,Repairable,2022,2339
+TV,Old TV,Burning smell,Replaceable,2014,
+Computer,Desktop,No power at all,Replaceable,2017,
+TV,Old TV,Color distortion,Repairable,2009,1885
+Computer,Laptop,Slow booting,Repairable,2017,1252
+TV,Old TV,Color distortion,Repairable,2011,2225
+TV,Old TV,Burning smell,Replaceable,2011,
+Computer,Laptop,No power at all,Replaceable,2009,
+Computer,Laptop,No power at all,Replaceable,2014,
+Computer,Desktop,Overheating,Repairable,2016,1683
+TV,Old TV,HDMI not working,Repairable,2016,1711
+Computer,Desktop,Battery not charging,Repairable,2022,998
+TV,LED,HDMI not working,Repairable,2021,1517
+TV,LED,No signal detection,Repairable,2012,788
+TV,Old TV,Burning smell,Replaceable,2017,
+TV,LED,Panel cracked,Replaceable,2015,
+Computer,Laptop,Battery not charging,Repairable,2010,2084
+Computer,Desktop,Screen flickering,Repairable,2021,894
+TV,LED,No sound,Repairable,2012,2054
+Computer,Laptop,Slow booting,Repairable,2017,1049
+Computer,Desktop,Motherboard dead,Replaceable,2017,
+TV,LED,HDMI not working,Repairable,2015,1994
+Computer,Desktop,Overheating,Repairable,2011,616
+Computer,Laptop,HDD failure,Replaceable,2015,
+TV,Old TV,HDMI not working,Repairable,2011,693
+TV,Old TV,Burning smell,Replaceable,2013,
+TV,Old TV,Color distortion,Repairable,2020,996
+Computer,Desktop,Motherboard dead,Replaceable,2021,
+Computer,Laptop,Battery not charging,Repairable,2019,1667
+TV,Old TV,Black screen but power light on,Repairable,2016,2068
+Computer,Laptop,Fan noise,Repairable,2022,727
+TV,LED,HDMI not working,Repairable,2015,764
+Computer,Laptop,HDD failure,Replaceable,2010,
+TV,LED,Burning smell,Replaceable,2018,
+Computer,Laptop,No power at all,Replaceable,2012,
+Computer,Laptop,Screen flickering,Repairable,2012,1731
+TV,LED,HDMI not working,Repairable,2019,2240
+TV,Old TV,Burning smell,Replaceable,2010,
+TV,Old TV,Color distortion,Repairable,2008,1898
+TV,Old TV,Black screen but power light on,Repairable,2018,1637
+Computer,Laptop,Battery not charging,Repairable,2009,2194
+TV,Old TV,Black screen but power light on,Repairable,2011,1036
+TV,LED,Color distortion,Repairable,2019,907
+TV,LED,Panel cracked,Replaceable,2010,
+Computer,Desktop,Motherboard dead,Replaceable,2017,
+Computer,Desktop,Battery not charging,Repairable,2018,832
+Computer,Desktop,Motherboard dead,Replaceable,2008,
+TV,LED,Burning smell,Replaceable,2011,
+Computer,Desktop,HDD failure,Replaceable,2008,
+TV,Old TV,Tube damage,Replaceable,2021,
+TV,LED,Color distortion,Repairable,2022,2293
+TV,Old TV,Panel cracked,Replaceable,2020,
+TV,Old TV,Panel cracked,Replaceable,2009,
+TV,LED,Burning smell,Replaceable,2019,
+TV,LED,No signal detection,Repairable,2021,2083
+TV,LED,No signal detection,Repairable,2012,2268
+Computer,Laptop,Motherboard dead,Replaceable,2015,
+Computer,Desktop,Slow booting,Repairable,2008,1486
+Computer,Desktop,Overheating,Repairable,2012,2019
+Computer,Desktop,Battery not charging,Repairable,2013,1531
+Computer,Laptop,No power at all,Replaceable,2013,
+Computer,Laptop,Screen flickering,Repairable,2017,699
+TV,LED,No sound,Repairable,2009,1037
+TV,LED,No signal detection,Repairable,2022,780
+TV,Old TV,No signal detection,Repairable,2022,1827
+TV,LED,No sound,Repairable,2009,1771
+TV,Old TV,No sound,Repairable,2009,1371
+TV,LED,No signal detection,Repairable,2014,1626
+TV,LED,Black screen but power light on,Repairable,2022,902
+Computer,Desktop,Overheating,Repairable,2010,1129
+Computer,Laptop,Slow booting,Repairable,2019,2351
+TV,LED,Color distortion,Repairable,2020,1216
+TV,Old TV,Tube damage,Replaceable,2021,
+Computer,Desktop,Fan noise,Repairable,2009,1119
+TV,Old TV,Burning smell,Replaceable,2015,
+Computer,Desktop,HDD failure,Replaceable,2018,
+Computer,Desktop,Screen flickering,Repairable,2021,854
+TV,Old TV,Black screen but power light on,Repairable,2018,546
+TV,LED,No signal detection,Repairable,2021,917
+Computer,Laptop,Overheating,Repairable,2022,1489
+Computer,Laptop,HDD failure,Replaceable,2018,
+Computer,Desktop,Fan noise,Repairable,2009,2220
+TV,Old TV,No signal detection,Repairable,2010,1538
+Computer,Laptop,Slow booting,Repairable,2009,832
+TV,Old TV,Color distortion,Repairable,2022,1272
+TV,Old TV,No sound,Repairable,2021,2479
+Computer,Desktop,HDD failure,Replaceable,2017,
+Computer,Laptop,No power at all,Replaceable,2008,
+TV,Old TV,Burning smell,Replaceable,2010,
+Computer,Desktop,Motherboard dead,Replaceable,2011,
+TV,LED,No signal detection,Repairable,2016,577
+Computer,Desktop,Motherboard dead,Replaceable,2014,
+TV,Old TV,Black screen but power light on,Repairable,2020,743
+Computer,Desktop,HDD failure,Replaceable,2018,
+Computer,Desktop,HDD failure,Replaceable,2019,
+Computer,Laptop,HDD failure,Replaceable,2018,
+Computer,Desktop,Screen flickering,Repairable,2010,902
+TV,LED,Color distortion,Repairable,2013,1269
+Computer,Laptop,Fan noise,Repairable,2013,867
+Computer,Desktop,Slow booting,Repairable,2020,1536
+TV,LED,HDMI not working,Repairable,2015,2249
+TV,LED,Black screen but power light on,Repairable,2021,980
+Computer,Laptop,Motherboard dead,Replaceable,2010,
+Computer,Desktop,Slow booting,Repairable,2010,1548
+TV,Old TV,Color distortion,Repairable,2011,1812
+Computer,Laptop,No power at all,Replaceable,2012,
+Computer,Laptop,Motherboard dead,Replaceable,2015,
+Computer,Laptop,HDD failure,Replaceable,2020,
+TV,LED,Panel cracked,Replaceable,2012,
+TV,Old TV,Color distortion,Repairable,2011,2030
+Computer,Desktop,Battery not charging,Repairable,2009,583
+TV,LED,Panel cracked,Replaceable,2016,
+TV,LED,Burning smell,Replaceable,2009,
+Computer,Laptop,Overheating,Repairable,2014,1955
+TV,LED,Black screen but power light on,Repairable,2010,1878
+TV,Old TV,HDMI not working,Repairable,2016,2404
+Computer,Laptop,Fan noise,Repairable,2022,778
+TV,LED,Color distortion,Repairable,2020,2406
+Computer,Desktop,No power at all,Replaceable,2021,
+TV,Old TV,Tube damage,Replaceable,2008,
+Computer,Laptop,HDD failure,Replaceable,2019,
+TV,Old TV,HDMI not working,Repairable,2011,1729
+TV,Old TV,No signal detection,Repairable,2019,555
+Computer,Laptop,Motherboard dead,Replaceable,2021,
+Computer,Desktop,HDD failure,Replaceable,2015,
+Computer,Laptop,Slow booting,Repairable,2021,514
+TV,LED,HDMI not working,Repairable,2013,536
+Computer,Desktop,Motherboard dead,Replaceable,2008,
+TV,Old TV,Tube damage,Replaceable,2008,
+TV,LED,Tube damage,Replaceable,2018,
+Computer,Laptop,Slow booting,Repairable,2022,1360
+TV,Old TV,Tube damage,Replaceable,2021,
+Computer,Desktop,Overheating,Repairable,2018,2240
+Computer,Desktop,HDD failure,Replaceable,2011,
+TV,LED,No sound,Repairable,2018,550
+TV,Old TV,No sound,Repairable,2019,1229
+Computer,Desktop,Motherboard dead,Replaceable,2014,
+Computer,Desktop,Motherboard dead,Replaceable,2009,
+Computer,Desktop,Battery not charging,Repairable,2015,894
+Computer,Desktop,Screen flickering,Repairable,2014,2216
+TV,LED,HDMI not working,Repairable,2016,2169
+TV,LED,No signal detection,Repairable,2010,1740
+Computer,Laptop,Slow booting,Repairable,2017,1259
+TV,Old TV,No sound,Repairable,2017,2179
+Computer,Desktop,Slow booting,Repairable,2015,741
+TV,LED,Tube damage,Replaceable,2016,
+Computer,Laptop,Fan noise,Repairable,2022,2254
+Computer,Desktop,No power at all,Replaceable,2010,
+TV,LED,Panel cracked,Replaceable,2015,
+Computer,Desktop,HDD failure,Replaceable,2017,
+Computer,Desktop,HDD failure,Replaceable,2022,
+TV,Old TV,HDMI not working,Repairable,2022,1052
+TV,LED,HDMI not working,Repairable,2022,1864
+Computer,Desktop,Overheating,Repairable,2009,1501
+Computer,Laptop,Fan noise,Repairable,2012,1469
+TV,Old TV,Panel cracked,Replaceable,2010,
+TV,LED,Color distortion,Repairable,2011,2189
+TV,Old TV,No sound,Repairable,2017,1631
+Computer,Desktop,Screen flickering,Repairable,2022,2207
+TV,LED,Black screen but power light on,Repairable,2021,2445
+TV,LED,Panel cracked,Replaceable,2009,
+TV,Old TV,Burning smell,Replaceable,2017,
+Computer,Laptop,Overheating,Repairable,2016,1020
+TV,LED,Panel cracked,Replaceable,2010,
+Computer,Desktop,Overheating,Repairable,2018,523
+Computer,Laptop,Screen flickering,Repairable,2012,742
+TV,Old TV,Black screen but power light on,Repairable,2015,837
+Computer,Desktop,Fan noise,Repairable,2008,1349
+TV,LED,Color distortion,Repairable,2011,2298
+TV,LED,Panel cracked,Replaceable,2013,
+TV,Old TV,No signal detection,Repairable,2020,2035
+TV,Old TV,Tube damage,Replaceable,2017,
+Computer,Laptop,HDD failure,Replaceable,2022,
+Computer,Desktop,Fan noise,Repairable,2010,831
+Computer,Laptop,Motherboard dead,Replaceable,2018,
+TV,Old TV,Burning smell,Replaceable,2010,
+Computer,Laptop,Fan noise,Repairable,2015,612
+TV,LED,Color distortion,Repairable,2016,1988
+TV,LED,Tube damage,Replaceable,2021,
+Computer,Laptop,Slow booting,Repairable,2016,1670
+Computer,Laptop,Overheating,Repairable,2008,1610
+Computer,Desktop,Motherboard dead,Replaceable,2013,
+Computer,Desktop,Fan noise,Repairable,2018,1902
+TV,LED,No signal detection,Repairable,2008,1865
+Computer,Laptop,No power at all,Replaceable,2021,
+Computer,Desktop,Battery not charging,Repairable,2008,1161
+Computer,Laptop,No power at all,Replaceable,2021,
+TV,LED,HDMI not working,Repairable,2008,2082
+Computer,Desktop,Overheating,Repairable,2018,864
+TV,Old TV,Black screen but power light on,Repairable,2015,2065
+Computer,Laptop,HDD failure,Replaceable,2022,
+TV,LED,Black screen but power light on,Repairable,2017,1497
+Computer,Desktop,HDD failure,Replaceable,2016,
+Computer,Laptop,Screen flickering,Repairable,2019,1881
+TV,LED,No signal detection,Repairable,2009,2056
+Computer,Desktop,Motherboard dead,Replaceable,2008,
+TV,LED,Burning smell,Replaceable,2012,
+Computer,Laptop,Motherboard dead,Replaceable,2011,
+Computer,Laptop,No power at all,Replaceable,2012,
+Computer,Laptop,Motherboard dead,Replaceable,2020,
+Computer,Desktop,Overheating,Repairable,2011,724
+Computer,Desktop,Fan noise,Repairable,2017,2483
+Computer,Laptop,Slow booting,Repairable,2011,1491
+TV,Old TV,Burning smell,Replaceable,2012,
+TV,LED,Panel cracked,Replaceable,2014,
+TV,Old TV,No signal detection,Repairable,2016,2167
+TV,Old TV,Burning smell,Replaceable,2009,
+Computer,Laptop,Slow booting,Repairable,2017,899
+Computer,Laptop,Battery not charging,Repairable,2010,1355
+Computer,Desktop,Fan noise,Repairable,2021,1086
+TV,Old TV,No sound,Repairable,2011,2448
+TV,LED,HDMI not working,Repairable,2013,1274
+Computer,Laptop,HDD failure,Replaceable,2010,
+Computer,Desktop,No power at all,Replaceable,2018,
+Computer,Laptop,No power at all,Replaceable,2016,
+TV,LED,No sound,Repairable,2015,1694
+Computer,Desktop,Screen flickering,Repairable,2016,2244
+TV,Old TV,No sound,Repairable,2018,1258
+Computer,Laptop,Motherboard dead,Replaceable,2018,
+Computer,Laptop,Overheating,Repairable,2017,1262
+Computer,Desktop,Fan noise,Repairable,2015,1791
+TV,LED,Black screen but power light on,Repairable,2011,1461
+Computer,Laptop,Fan noise,Repairable,2009,629
+TV,Old TV,Burning smell,Replaceable,2022,
+Computer,Desktop,Battery not charging,Repairable,2018,1152
+TV,LED,Tube damage,Replaceable,2008,
+Computer,Laptop,Screen flickering,Repairable,2010,2381
+TV,LED,Panel cracked,Replaceable,2021,
+Computer,Laptop,Fan noise,Repairable,2011,970
+Computer,Laptop,HDD failure,Replaceable,2019,
+Computer,Laptop,Fan noise,Repairable,2015,1565
+Computer,Laptop,HDD failure,Replaceable,2019,
+Computer,Laptop,Battery not charging,Repairable,2017,802
+TV,Old TV,Tube damage,Replaceable,2016,
+Computer,Laptop,Fan noise,Repairable,2011,2277
+TV,LED,No signal detection,Repairable,2010,1058
+TV,Old TV,Color distortion,Repairable,2022,698
+Computer,Laptop,Fan noise,Repairable,2011,658
+TV,LED,Panel cracked,Replaceable,2014,
+Computer,Laptop,Motherboard dead,Replaceable,2009,
+TV,Old TV,Color distortion,Repairable,2018,1427
+TV,Old TV,No signal detection,Repairable,2009,1042
+TV,Old TV,No signal detection,Repairable,2020,715
+Computer,Laptop,Fan noise,Repairable,2021,1670
+Computer,Desktop,HDD failure,Replaceable,2015,
+TV,Old TV,Tube damage,Replaceable,2018,
+TV,Old TV,Black screen but power light on,Repairable,2008,1710
+Computer,Laptop,Battery not charging,Repairable,2009,976
+Computer,Laptop,Motherboard dead,Replaceable,2009,
+Computer,Laptop,Battery not charging,Repairable,2017,660
+TV,LED,HDMI not working,Repairable,2017,909
+TV,Old TV,No signal detection,Repairable,2010,593
+TV,LED,HDMI not working,Repairable,2012,663
+Computer,Desktop,Motherboard dead,Replaceable,2014,
+Computer,Laptop,Slow booting,Repairable,2010,1760
+Computer,Laptop,No power at all,Replaceable,2022,
+TV,Old TV,Black screen but power light on,Repairable,2014,1114
+TV,LED,Panel cracked,Replaceable,2010,
+TV,Old TV,No sound,Repairable,2016,1327
+Computer,Laptop,No power at all,Replaceable,2017,
+TV,LED,Panel cracked,Replaceable,2022,
+Computer,Desktop,No power at all,Replaceable,2013,
+TV,Old TV,HDMI not working,Repairable,2022,1896
+TV,Old TV,Panel cracked,Replaceable,2012,
+Computer,Desktop,Screen flickering,Repairable,2022,1064
+Computer,Laptop,HDD failure,Replaceable,2020,
+Computer,Desktop,No power at all,Replaceable,2020,
+Computer,Desktop,No power at all,Replaceable,2018,
+Computer,Laptop,HDD failure,Replaceable,2019,
+Computer,Laptop,Screen flickering,Repairable,2011,1965
+Computer,Laptop,No power at all,Replaceable,2022,
+TV,Old TV,No signal detection,Repairable,2019,856
+Computer,Laptop,Battery not charging,Repairable,2009,2333
+Computer,Desktop,Slow booting,Repairable,2014,1005
+TV,LED,Panel cracked,Replaceable,2016,
+Computer,Laptop,Motherboard dead,Replaceable,2016,
+Computer,Laptop,No power at all,Replaceable,2021,
+TV,LED,Burning smell,Replaceable,2009,
+Computer,Laptop,Slow booting,Repairable,2021,1497
+TV,LED,Panel cracked,Replaceable,2017,
+TV,LED,Color distortion,Repairable,2016,920
+TV,LED,Burning smell,Replaceable,2009,
+Computer,Laptop,Slow booting,Repairable,2008,846
+Computer,Desktop,Overheating,Repairable,2011,1983
+Computer,Laptop,Battery not charging,Repairable,2010,793
+TV,Old TV,Burning smell,Replaceable,2010,
+Computer,Desktop,Screen flickering,Repairable,2013,762
+TV,Old TV,Color distortion,Repairable,2012,2068
+Computer,Desktop,Overheating,Repairable,2021,559
+Computer,Laptop,HDD failure,Replaceable,2021,
+TV,Old TV,Black screen but power light on,Repairable,2015,1159
+TV,LED,Burning smell,Replaceable,2011,
+Computer,Desktop,No power at all,Replaceable,2008,
+TV,LED,HDMI not working,Repairable,2014,1083
+TV,Old TV,Tube damage,Replaceable,2012,
+TV,LED,No sound,Repairable,2013,2316
+Computer,Desktop,Screen flickering,Repairable,2019,1029
+TV,Old TV,Tube damage,Replaceable,2022,
+Computer,Laptop,Slow booting,Repairable,2008,2415
+Computer,Laptop,Fan noise,Repairable,2012,1475
+Computer,Laptop,HDD failure,Replaceable,2022,
+Computer,Laptop,HDD failure,Replaceable,2019,
+TV,LED,Tube damage,Replaceable,2011,
+TV,LED,Burning smell,Replaceable,2021,
+Computer,Laptop,No power at all,Replaceable,2011,
+Computer,Laptop,Screen flickering,Repairable,2022,1423
+TV,Old TV,Burning smell,Replaceable,2011,
+Computer,Laptop,Motherboard dead,Replaceable,2014,
+Computer,Laptop,Fan noise,Repairable,2008,1250
+Computer,Desktop,Battery not charging,Repairable,2018,1713
+TV,LED,No signal detection,Repairable,2018,1946
+Computer,Laptop,Overheating,Repairable,2010,2169
+Computer,Laptop,Screen flickering,Repairable,2010,2134
+Computer,Laptop,HDD failure,Replaceable,2019,
+TV,LED,No sound,Repairable,2021,918
+TV,Old TV,Black screen but power light on,Repairable,2010,1882
+Computer,Desktop,HDD failure,Replaceable,2021,
+TV,LED,Black screen but power light on,Repairable,2011,2213
+Computer,Laptop,Slow booting,Repairable,2014,1855
+TV,Old TV,Color distortion,Repairable,2010,1181
+Computer,Laptop,Overheating,Repairable,2016,1926
+TV,LED,Panel cracked,Replaceable,2018,
+Computer,Desktop,Motherboard dead,Replaceable,2021,
+Computer,Desktop,Screen flickering,Repairable,2017,1944
+TV,Old TV,No sound,Repairable,2020,545
+TV,LED,No signal detection,Repairable,2009,2285
+TV,Old TV,No sound,Repairable,2008,1858
+TV,Old TV,No signal detection,Repairable,2013,763
+Computer,Laptop,Fan noise,Repairable,2017,1369
+Computer,Desktop,Overheating,Repairable,2019,1223
+TV,Old TV,Tube damage,Replaceable,2013,
+TV,LED,Panel cracked,Replaceable,2022,
+Computer,Laptop,Overheating,Repairable,2012,1811
+Computer,Laptop,Motherboard dead,Replaceable,2013,
+TV,LED,Panel cracked,Replaceable,2020,
+Computer,Laptop,Slow booting,Repairable,2018,1126
+TV,Old TV,No signal detection,Repairable,2010,2198
+Computer,Desktop,Overheating,Repairable,2008,805
+TV,LED,Burning smell,Replaceable,2022,
+TV,LED,Burning smell,Replaceable,2016,
+TV,LED,HDMI not working,Repairable,2011,797
+Computer,Desktop,Overheating,Repairable,2018,1491
+TV,LED,Burning smell,Replaceable,2017,
+Computer,Laptop,Fan noise,Repairable,2015,996
+TV,LED,Burning smell,Replaceable,2008,
+Computer,Desktop,Slow booting,Repairable,2009,2476
+TV,LED,HDMI not working,Repairable,2018,686
+TV,LED,Panel cracked,Replaceable,2020,
+TV,Old TV,Tube damage,Replaceable,2016,
+Computer,Laptop,HDD failure,Replaceable,2008,
+Computer,Laptop,Motherboard dead,Replaceable,2010,
+Computer,Laptop,Slow booting,Repairable,2017,2279
+TV,LED,Panel cracked,Replaceable,2020,
+TV,Old TV,Burning smell,Replaceable,2018,
+TV,LED,Tube damage,Replaceable,2020,
+TV,LED,Panel cracked,Replaceable,2018,
+TV,Old TV,Burning smell,Replaceable,2017,
+Computer,Desktop,Fan noise,Repairable,2015,2094
+Computer,Desktop,Overheating,Repairable,2008,1075
+Computer,Laptop,Motherboard dead,Replaceable,2020,
+TV,LED,Color distortion,Repairable,2013,1528
+Computer,Desktop,No power at all,Replaceable,2016,
+Computer,Laptop,Battery not charging,Repairable,2008,1780
+TV,Old TV,HDMI not working,Repairable,2017,1452
+Computer,Desktop,Slow booting,Repairable,2010,2356
+TV,Old TV,Color distortion,Repairable,2018,914
+Computer,Desktop,Battery not charging,Repairable,2008,2296
+TV,LED,No sound,Repairable,2017,534
+Computer,Laptop,Fan noise,Repairable,2013,1686
+Computer,Laptop,HDD failure,Replaceable,2021,
+Computer,Desktop,Battery not charging,Repairable,2022,1168
+TV,LED,Panel cracked,Replaceable,2018,
+Computer,Desktop,No power at all,Replaceable,2012,
+Computer,Laptop,Screen flickering,Repairable,2010,2400
+Computer,Desktop,Screen flickering,Repairable,2013,693
+Computer,Desktop,Battery not charging,Repairable,2014,2149
+Computer,Laptop,Motherboard dead,Replaceable,2012,
+TV,LED,Burning smell,Replaceable,2010,
+TV,LED,Burning smell,Replaceable,2015,
+TV,LED,No sound,Repairable,2019,2470
+Computer,Desktop,Motherboard dead,Replaceable,2020,
+Computer,Desktop,No power at all,Replaceable,2015,
+Computer,Desktop,No power at all,Replaceable,2008,
+TV,Old TV,No signal detection,Repairable,2020,1070
+Computer,Laptop,Battery not charging,Repairable,2012,659
+Computer,Desktop,Battery not charging,Repairable,2011,1775
+TV,LED,No signal detection,Repairable,2019,1025
+Computer,Desktop,Fan noise,Repairable,2011,883
+TV,Old TV,Black screen but power light on,Repairable,2014,2285
+TV,Old TV,No sound,Repairable,2021,1706
+TV,Old TV,Panel cracked,Replaceable,2020,
+TV,LED,Black screen but power light on,Repairable,2015,2025
+Computer,Laptop,Slow booting,Repairable,2022,1711
+Computer,Laptop,Screen flickering,Repairable,2013,2344
+TV,Old TV,Burning smell,Replaceable,2022,
+TV,LED,Panel cracked,Replaceable,2017,
+TV,LED,No sound,Repairable,2008,721
+TV,LED,Tube damage,Replaceable,2010,
+TV,Old TV,Tube damage,Replaceable,2015,
+Computer,Desktop,Fan noise,Repairable,2014,600
+Computer,Desktop,Screen flickering,Repairable,2020,796
+TV,Old TV,Color distortion,Repairable,2015,1124
+Computer,Laptop,Screen flickering,Repairable,2018,1684
+TV,LED,Color distortion,Repairable,2020,1555
+TV,Old TV,Color distortion,Repairable,2017,2120
+Computer,Laptop,Overheating,Repairable,2011,2455
+TV,Old TV,HDMI not working,Repairable,2018,1452
+TV,LED,No signal detection,Repairable,2013,829
+TV,LED,No signal detection,Repairable,2019,627
+Computer,Desktop,HDD failure,Replaceable,2019,
+Computer,Laptop,Battery not charging,Repairable,2015,1451
+Computer,Laptop,Motherboard dead,Replaceable,2020,
+TV,Old TV,No signal detection,Repairable,2011,1272
+TV,Old TV,Black screen but power light on,Repairable,2021,2377
+TV,LED,HDMI not working,Repairable,2011,991
+TV,LED,Color distortion,Repairable,2019,904
+TV,Old TV,Burning smell,Replaceable,2019,
+TV,Old TV,HDMI not working,Repairable,2022,588
+Computer,Laptop,Fan noise,Repairable,2011,2018
+TV,Old TV,No sound,Repairable,2018,925
+TV,LED,HDMI not working,Repairable,2009,541
+Computer,Laptop,Slow booting,Repairable,2011,558
+TV,Old TV,No signal detection,Repairable,2018,946
+TV,LED,Burning smell,Replaceable,2017,
+TV,LED,Burning smell,Replaceable,2010,
+TV,Old TV,Color distortion,Repairable,2016,1820
+Computer,Desktop,Slow booting,Repairable,2016,2284
+TV,Old TV,Burning smell,Replaceable,2012,
+TV,LED,No sound,Repairable,2010,2086
+TV,Old TV,Black screen but power light on,Repairable,2019,2067
+Computer,Desktop,HDD failure,Replaceable,2018,
+TV,LED,Color distortion,Repairable,2012,809
+Computer,Desktop,Overheating,Repairable,2018,899
+Computer,Desktop,Fan noise,Repairable,2015,969
+TV,LED,Tube damage,Replaceable,2016,
+TV,LED,Color distortion,Repairable,2008,2041
+TV,LED,Burning smell,Replaceable,2010,
+Computer,Desktop,Overheating,Repairable,2013,1376
+TV,Old TV,No sound,Repairable,2014,731
+TV,LED,HDMI not working,Repairable,2019,1763
+Computer,Desktop,Motherboard dead,Replaceable,2009,
+TV,Old TV,HDMI not working,Repairable,2022,1224
+Computer,Desktop,Overheating,Repairable,2015,988
+Computer,Desktop,Motherboard dead,Replaceable,2019,
+Computer,Desktop,Battery not charging,Repairable,2008,1429
+TV,Old TV,Panel cracked,Replaceable,2022,
+Computer,Desktop,Slow booting,Repairable,2019,1251
+Computer,Laptop,Fan noise,Repairable,2017,678
+TV,LED,Burning smell,Replaceable,2008,
+Computer,Desktop,Battery not charging,Repairable,2014,2357
+TV,LED,Color distortion,Repairable,2019,2087
+Computer,Desktop,Screen flickering,Repairable,2016,2217
+Computer,Desktop,Fan noise,Repairable,2017,1891
+TV,Old TV,Color distortion,Repairable,2012,1951
+TV,LED,No sound,Repairable,2009,1746
+Computer,Laptop,Fan noise,Repairable,2018,1841
+TV,Old TV,Color distortion,Repairable,2014,1948
+TV,LED,Panel cracked,Replaceable,2017,
+Computer,Desktop,Screen flickering,Repairable,2012,2311
+TV,Old TV,Color distortion,Repairable,2019,2324
+Computer,Desktop,Battery not charging,Repairable,2011,1455
+Computer,Laptop,Screen flickering,Repairable,2020,2494
+Computer,Laptop,Fan noise,Repairable,2022,1869
+TV,Old TV,No signal detection,Repairable,2019,709
+TV,LED,Burning smell,Replaceable,2019,
+TV,Old TV,Black screen but power light on,Repairable,2017,1982
+Computer,Laptop,No power at all,Replaceable,2009,
+Computer,Laptop,Motherboard dead,Replaceable,2020,
+TV,LED,No signal detection,Repairable,2014,919
+Computer,Desktop,No power at all,Replaceable,2010,
+Computer,Desktop,Motherboard dead,Replaceable,2020,
+TV,LED,Black screen but power light on,Repairable,2012,536
+TV,Old TV,Burning smell,Replaceable,2009,
+TV,Old TV,No signal detection,Repairable,2012,1624
+TV,Old TV,HDMI not working,Repairable,2020,2383
+Computer,Desktop,Motherboard dead,Replaceable,2019,
+Computer,Laptop,Screen flickering,Repairable,2018,1649
+Computer,Desktop,Motherboard dead,Replaceable,2021,
+TV,Old TV,HDMI not working,Repairable,2022,1738
+Computer,Desktop,Battery not charging,Repairable,2019,1480
+TV,LED,Panel cracked,Replaceable,2013,
+Computer,Desktop,Battery not charging,Repairable,2009,1279
+TV,Old TV,No signal detection,Repairable,2010,910
+TV,Old TV,Tube damage,Replaceable,2018,
+TV,Old TV,Black screen but power light on,Repairable,2018,1271
+Computer,Laptop,No power at all,Replaceable,2016,
+Computer,Desktop,Slow booting,Repairable,2021,1406
+TV,LED,Tube damage,Replaceable,2022,
+Computer,Desktop,Fan noise,Repairable,2014,1732
+TV,LED,Panel cracked,Replaceable,2016,
+TV,Old TV,Burning smell,Replaceable,2011,
+TV,LED,Color distortion,Repairable,2016,2281
+TV,Old TV,Color distortion,Repairable,2022,2004
+TV,Old TV,No signal detection,Repairable,2022,728
+TV,LED,Tube damage,Replaceable,2013,
+Computer,Desktop,Battery not charging,Repairable,2019,1390
+Computer,Laptop,Overheating,Repairable,2022,1651
+Computer,Laptop,Screen flickering,Repairable,2016,1366
+Computer,Desktop,Slow booting,Repairable,2014,1082
+TV,LED,Panel cracked,Replaceable,2016,
+TV,Old TV,Panel cracked,Replaceable,2009,
+TV,Old TV,No signal detection,Repairable,2016,2155
+Computer,Laptop,Slow booting,Repairable,2009,2441
+TV,LED,Panel cracked,Replaceable,2010,
+TV,Old TV,Panel cracked,Replaceable,2020,
+TV,LED,No signal detection,Repairable,2019,2259
+Computer,Laptop,No power at all,Replaceable,2012,
+Computer,Desktop,Battery not charging,Repairable,2019,965
+TV,LED,No sound,Repairable,2014,2252
+Computer,Desktop,Battery not charging,Repairable,2011,1131
+Computer,Desktop,Motherboard dead,Replaceable,2014,
+Computer,Desktop,No power at all,Replaceable,2020,
+Computer,Desktop,Slow booting,Repairable,2014,1000
+Computer,Desktop,Fan noise,Repairable,2017,2364
+Computer,Desktop,No power at all,Replaceable,2015,
+TV,LED,Panel cracked,Replaceable,2011,
+Computer,Laptop,Fan noise,Repairable,2018,2435
+Computer,Desktop,Battery not charging,Repairable,2022,1905
+TV,LED,Panel cracked,Replaceable,2013,
+TV,Old TV,Black screen but power light on,Repairable,2019,2156
+TV,Old TV,Burning smell,Replaceable,2019,
+Computer,Desktop,Slow booting,Repairable,2018,1511
+TV,Old TV,Black screen but power light on,Repairable,2021,1674
+TV,LED,Color distortion,Repairable,2011,2236
+TV,LED,No sound,Repairable,2018,2416
+Computer,Laptop,Motherboard dead,Replaceable,2008,
+TV,LED,Burning smell,Replaceable,2008,
+Computer,Desktop,No power at all,Replaceable,2016,
+TV,LED,No sound,Repairable,2022,2010
+Computer,Laptop,Overheating,Repairable,2019,624
+Computer,Desktop,Fan noise,Repairable,2014,1556
+Computer,Desktop,Overheating,Repairable,2021,2138
+TV,Old TV,Panel cracked,Replaceable,2015,
+TV,Old TV,Tube damage,Replaceable,2018,
+Computer,Laptop,Slow booting,Repairable,2011,1640
+Computer,Laptop,Fan noise,Repairable,2010,961
+Computer,Laptop,Fan noise,Repairable,2013,857
+Computer,Laptop,Fan noise,Repairable,2021,2363
+Computer,Desktop,Overheating,Repairable,2015,1367
+Computer,Desktop,Slow booting,Repairable,2014,966
+TV,Old TV,Black screen but power light on,Repairable,2016,1773
+Computer,Laptop,Motherboard dead,Replaceable,2022,
+Computer,Laptop,Fan noise,Repairable,2017,1732
+Computer,Laptop,Slow booting,Repairable,2017,1427
+TV,Old TV,No sound,Repairable,2009,890
+Computer,Desktop,Screen flickering,Repairable,2009,1317
+Computer,Laptop,Screen flickering,Repairable,2015,2316
+TV,Old TV,HDMI not working,Repairable,2012,1869
+Computer,Laptop,Battery not charging,Repairable,2012,1445
+TV,LED,No signal detection,Repairable,2011,2497
+Computer,Desktop,Slow booting,Repairable,2020,1897
+Computer,Desktop,Screen flickering,Repairable,2013,1953
+TV,LED,HDMI not working,Repairable,2018,1706
+Computer,Desktop,HDD failure,Replaceable,2015,
+Computer,Desktop,Battery not charging,Repairable,2018,1716
+TV,Old TV,Tube damage,Replaceable,2020,
+TV,Old TV,Tube damage,Replaceable,2017,
+Computer,Desktop,HDD failure,Replaceable,2009,
+Computer,Desktop,Battery not charging,Repairable,2018,1390
+TV,LED,Black screen but power light on,Repairable,2010,1015
+Computer,Desktop,Fan noise,Repairable,2009,1225
+TV,Old TV,No signal detection,Repairable,2018,1714
+Computer,Desktop,No power at all,Replaceable,2011,
+Computer,Desktop,HDD failure,Replaceable,2018,
+TV,LED,Black screen but power light on,Repairable,2008,1703
+Computer,Desktop,No power at all,Replaceable,2018,
+Computer,Laptop,Motherboard dead,Replaceable,2022,
+Computer,Laptop,Motherboard dead,Replaceable,2009,
+TV,LED,Tube damage,Replaceable,2010,
+TV,LED,HDMI not working,Repairable,2015,1889
+Computer,Laptop,HDD failure,Replaceable,2017,
+Computer,Laptop,Screen flickering,Repairable,2009,1858
+TV,LED,Tube damage,Replaceable,2020,
+TV,LED,Panel cracked,Replaceable,2008,
+Computer,Laptop,Screen flickering,Repairable,2016,657
+TV,Old TV,Burning smell,Replaceable,2014,
+TV,LED,Panel cracked,Replaceable,2021,
+TV,Old TV,No sound,Repairable,2022,1000
+Computer,Laptop,Overheating,Repairable,2020,1400
+TV,LED,No sound,Repairable,2020,1863
+Computer,Desktop,No power at all,Replaceable,2022,
+Computer,Desktop,Screen flickering,Repairable,2016,2053
+Computer,Desktop,HDD failure,Replaceable,2008,
+TV,LED,Burning smell,Replaceable,2022,
+TV,Old TV,HDMI not working,Repairable,2022,707
+Computer,Laptop,Overheating,Repairable,2020,1415
+Computer,Desktop,Battery not charging,Repairable,2014,1943
+Computer,Laptop,Overheating,Repairable,2015,1125
+TV,LED,Black screen but power light on,Repairable,2015,774
+Computer,Desktop,Fan noise,Repairable,2019,1489
+TV,Old TV,Black screen but power light on,Repairable,2016,2011
+Computer,Laptop,Overheating,Repairable,2009,707
+Computer,Desktop,Battery not charging,Repairable,2009,1127
+TV,LED,Black screen but power light on,Repairable,2016,522
+Computer,Laptop,HDD failure,Replaceable,2022,
+Computer,Laptop,Battery not charging,Repairable,2014,1847
+Computer,Desktop,HDD failure,Replaceable,2013,
+Computer,Laptop,Overheating,Repairable,2021,821
+Computer,Desktop,HDD failure,Replaceable,2019,
+TV,Old TV,No sound,Repairable,2019,2077
+Computer,Desktop,Overheating,Repairable,2022,2105
+Computer,Desktop,Motherboard dead,Replaceable,2016,
+TV,Old TV,Color distortion,Repairable,2010,1600
+Computer,Desktop,Overheating,Repairable,2013,2265
+Computer,Desktop,Motherboard dead,Replaceable,2010,
+TV,LED,No signal detection,Repairable,2009,2357
+Computer,Desktop,No power at all,Replaceable,2014,
+Computer,Laptop,Screen flickering,Repairable,2022,2353
+Computer,Desktop,Slow booting,Repairable,2010,1003
+Computer,Laptop,No power at all,Replaceable,2021,
+Computer,Desktop,Overheating,Repairable,2014,1436
+TV,LED,No signal detection,Repairable,2014,1493
+TV,LED,Tube damage,Replaceable,2010,
+Computer,Laptop,Overheating,Repairable,2012,2229
+TV,Old TV,Panel cracked,Replaceable,2014,
+TV,LED,No sound,Repairable,2011,526
+TV,LED,HDMI not working,Repairable,2013,1545

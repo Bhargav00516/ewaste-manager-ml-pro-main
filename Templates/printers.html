@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Printer Problem Detector</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+  <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+    <h1 class="text-2xl font-bold mb-6 text-center text-gray-800">Printer Problem Detector</h1>
+    <div class="mb-4 text-center">
+      <a href="/" class="text-blue-600 hover:underline mr-4">Home</a>
+      <a href="/refrigerator" class="text-blue-600 hover:underline mr-4">Refrigerator Predictor</a>
+      <a href="/washing-machines" class="text-blue-600 hover:underline mr-4">Washing Machine Predictor</a>
+      <a href="/gallery" class="text-blue-600 hover:underline">Gallery</a>
+    </div>
+    <form id="input-form" method="POST" class="space-y-4">
+      <div>
+        <label for="brand" class="block text-sm font-medium text-gray-700">Brand</label>
+        <select id="brand" name="brand" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="Canon">Canon</option>
+          <option value="Kyocera">Kyocera</option>
+          <option value="Xerox">Xerox</option>
+          <option value="HP">HP</option>
+          <option value="Brother">Brother</option>
+          <option value="Epson">Epson</option>
+          <option value="Ricoh">Ricoh</option>
+        </select>
+      </div>
+      <div>
+        <label for="type" class="block text-sm font-medium text-gray-700">Type</label>
+        <select id="type" name="type" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="LASER">Laser</option>
+          <option value="MULTIFUNCTION">Multifunction</option>
+          <option value="INKJET">Inkjet</option>
+          <option value="DOT MATRIX">Dot Matrix</option>
+        </select>
+      </div>
+      <div>
+        <label for="year" class="block text-sm font-medium text-gray-700">Year of Purchase</label>
+        <input type="number" id="year" name="year" value="2024" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+      </div>
+      <div>
+        <label for="problem" class="block text-sm font-medium text-gray-700">Problem</label>
+        <select id="problem" name="problem" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
+          <option value="no power">No power</option>
+          <option value="ink/toner low">Ink/Toner low</option>
+          <option value="paper jam">Paper jam</option>
+          <option value="overheating">Overheating</option>
+          <option value="printing faded">Printing faded</option>
+          <option value="scanner not working">Scanner not working</option>
+          <option value="mechanical failure">Mechanical failure</option>
+        </select>
+      </div>
+      <button type="submit" class="w-full bg-blue-600 text-white p-2 rounded-md hover:bg-blue-700">Predict</button>
+    </form>
+    {% if result %}
+    <div class="mt-4 p-4 rounded-md {% if 'Repair' in result %}bg-green-100 text-green-800{% elif 'Replace' in result %}bg-red-100 text-red-800{% else %}bg-yellow-100 text-yellow-800{% endif %}">
+      {{ result }}
+    </div>
+    {% endif %}
+  </div>
+</body>
+</html>

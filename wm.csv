@@ -1,0 +1,502 @@
+Company,Type,Year_of_Purchase,Problem,Repair_or_Replace,Cost
+LG,Top,2015,Power issue,Repairable,1897
+Samsung,Top,2013,Drum issue,Repairable,1349
+Whirlpool,Top,2023,Not draining,Replaceable,-1
+Bosch,Front,2012,Not spinning,Repairable,2448
+Whirlpool,Front,2020,Leaking,Repairable,2077
+Whirlpool,Top,2018,Not draining,Repairable,2909
+Whirlpool,Top,2019,Not spinning,Repairable,2232
+Whirlpool,Front,2016,Not spinning,Repairable,2558
+Samsung,Front,2017,Leaking,Replaceable,-1
+LG,Front,2016,Leaking,Repairable,1333
+LG,Front,2023,Power issue,Replaceable,-1
+LG,Top,2023,Not draining,Replaceable,-1
+Bosch,Top,2020,Power issue,Repairable,1769
+IFB,Front,2023,Not draining,Repairable,2396
+Bosch,Top,2016,Leaking,Repairable,1587
+Whirlpool,Top,2019,Not spinning,Replaceable,-1
+Samsung,Front,2012,Noise,Repairable,2191
+Whirlpool,Front,2019,Not spinning,Repairable,2185
+Samsung,Top,2017,Not spinning,Replaceable,-1
+LG,Top,2015,Not draining,Repairable,1123
+Haier,Front,2018,Power issue,Repairable,1727
+IFB,Top,2016,Not draining,Repairable,836
+Whirlpool,Top,2023,Not draining,Repairable,1061
+LG,Top,2017,Power issue,Repairable,2158
+LG,Top,2020,Noise,Replaceable,-1
+LG,Top,2016,Not draining,Repairable,790
+Haier,Top,2021,Drum issue,Replaceable,-1
+Samsung,Front,2023,Power issue,Repairable,1279
+Samsung,Top,2022,Not spinning,Repairable,2713
+IFB,Top,2014,Drum issue,Replaceable,-1
+IFB,Top,2021,Not draining,Repairable,2180
+Whirlpool,Front,2019,Drum issue,Repairable,1913
+Haier,Front,2017,Drum issue,Replaceable,-1
+IFB,Front,2012,Drum issue,Replaceable,-1
+LG,Front,2017,Drum issue,Replaceable,-1
+Haier,Top,2022,Drum issue,Replaceable,-1
+Samsung,Top,2014,Noise,Repairable,1628
+Whirlpool,Top,2014,Drum issue,Repairable,2061
+Haier,Front,2014,Not draining,Replaceable,-1
+Bosch,Top,2015,Power issue,Replaceable,-1
+IFB,Front,2015,Power issue,Repairable,2403
+IFB,Top,2015,Leaking,Repairable,1218
+Whirlpool,Front,2020,Noise,Repairable,1783
+Bosch,Top,2014,Noise,Replaceable,-1
+IFB,Top,2022,Not spinning,Replaceable,-1
+Bosch,Top,2017,Drum issue,Repairable,788
+IFB,Front,2016,Not spinning,Replaceable,-1
+Haier,Front,2023,Not draining,Repairable,1689
+Whirlpool,Front,2016,Not draining,Repairable,2157
+Haier,Top,2017,Noise,Repairable,2971
+Whirlpool,Front,2022,Not spinning,Repairable,1674
+IFB,Front,2013,Not draining,Repairable,578
+IFB,Front,2013,Drum issue,Repairable,2396
+Haier,Top,2016,Not spinning,Repairable,2775
+Samsung,Top,2015,Not draining,Repairable,2211
+LG,Top,2022,Noise,Repairable,2351
+Whirlpool,Top,2012,Not spinning,Repairable,2067
+Whirlpool,Front,2020,Noise,Repairable,765
+Haier,Front,2021,Noise,Repairable,1422
+IFB,Top,2021,Not draining,Repairable,2924
+Bosch,Front,2019,Noise,Repairable,1100
+LG,Top,2014,Not spinning,Replaceable,-1
+Samsung,Top,2020,Drum issue,Repairable,587
+Haier,Top,2022,Not draining,Repairable,1674
+IFB,Top,2019,Drum issue,Replaceable,-1
+Haier,Top,2018,Drum issue,Repairable,2600
+IFB,Front,2023,Drum issue,Replaceable,-1
+IFB,Top,2015,Power issue,Repairable,2038
+Whirlpool,Front,2022,Not draining,Repairable,1477
+Samsung,Front,2019,Not spinning,Repairable,1077
+LG,Top,2013,Power issue,Repairable,628
+Whirlpool,Top,2019,Leaking,Replaceable,-1
+IFB,Top,2016,Not draining,Repairable,2117
+LG,Top,2012,Noise,Repairable,1172
+Haier,Front,2017,Power issue,Replaceable,-1
+Samsung,Front,2021,Noise,Repairable,2646
+Haier,Front,2018,Leaking,Repairable,2775
+LG,Top,2020,Not draining,Repairable,1105
+IFB,Top,2016,Power issue,Repairable,2381
+Bosch,Top,2013,Drum issue,Repairable,2078
+Whirlpool,Front,2021,Noise,Replaceable,-1
+Whirlpool,Front,2018,Not draining,Repairable,2277
+IFB,Top,2023,Leaking,Repairable,2296
+LG,Front,2018,Not draining,Replaceable,-1
+IFB,Front,2016,Power issue,Repairable,2081
+Bosch,Front,2016,Leaking,Repairable,2476
+Whirlpool,Front,2014,Not draining,Repairable,2258
+Bosch,Top,2023,Not spinning,Repairable,2919
+Haier,Top,2016,Not spinning,Repairable,2973
+Haier,Top,2022,Noise,Repairable,1328
+LG,Front,2015,Leaking,Repairable,2966
+Whirlpool,Top,2021,Not spinning,Repairable,2800
+IFB,Front,2017,Not spinning,Replaceable,-1
+Whirlpool,Top,2018,Not spinning,Replaceable,-1
+Bosch,Top,2022,Power issue,Repairable,2318
+Samsung,Front,2019,Not spinning,Repairable,602
+LG,Front,2014,Not draining,Replaceable,-1
+IFB,Front,2015,Not draining,Repairable,1040
+LG,Front,2013,Leaking,Replaceable,-1
+Haier,Front,2021,Power issue,Repairable,2742
+IFB,Front,2013,Drum issue,Repairable,1826
+IFB,Front,2015,Noise,Repairable,819
+Bosch,Top,2021,Leaking,Repairable,756
+Bosch,Top,2015,Drum issue,Repairable,1565
+LG,Top,2023,Not spinning,Repairable,2402
+LG,Front,2019,Not draining,Repairable,1890
+LG,Top,2022,Leaking,Repairable,779
+Whirlpool,Top,2013,Leaking,Repairable,562
+Whirlpool,Front,2015,Noise,Repairable,1585
+Samsung,Front,2022,Not draining,Repairable,2106
+IFB,Front,2017,Power issue,Repairable,585
+Whirlpool,Top,2018,Drum issue,Repairable,1786
+Bosch,Top,2018,Not draining,Repairable,1105
+LG,Front,2013,Not spinning,Replaceable,-1
+Haier,Top,2017,Not draining,Replaceable,-1
+Whirlpool,Top,2015,Drum issue,Replaceable,-1
+LG,Top,2014,Drum issue,Replaceable,-1
+Haier,Top,2016,Not draining,Repairable,2442
+Haier,Front,2020,Not spinning,Repairable,2244
+Haier,Front,2015,Noise,Repairable,504
+IFB,Front,2016,Leaking,Repairable,2329
+LG,Top,2013,Power issue,Repairable,2205
+Bosch,Top,2018,Leaking,Repairable,862
+LG,Top,2021,Leaking,Repairable,1780
+Haier,Top,2012,Not spinning,Repairable,965
+Bosch,Front,2020,Not spinning,Repairable,2493
+IFB,Front,2018,Noise,Replaceable,-1
+Haier,Front,2015,Drum issue,Repairable,2918
+Samsung,Top,2020,Noise,Repairable,968
+Samsung,Top,2015,Noise,Repairable,510
+Samsung,Top,2022,Not spinning,Repairable,2199
+Haier,Top,2017,Not draining,Repairable,2684
+Haier,Front,2017,Not draining,Repairable,1071
+LG,Front,2019,Drum issue,Repairable,1445
+Bosch,Front,2015,Not spinning,Repairable,2392
+LG,Front,2013,Power issue,Repairable,1948
+Whirlpool,Front,2022,Power issue,Replaceable,-1
+Haier,Top,2018,Drum issue,Repairable,1876
+Bosch,Front,2016,Drum issue,Repairable,2491
+Haier,Top,2012,Power issue,Repairable,777
+Bosch,Front,2015,Not spinning,Replaceable,-1
+Whirlpool,Front,2018,Drum issue,Repairable,1758
+Bosch,Front,2021,Noise,Repairable,1913
+Bosch,Top,2012,Drum issue,Repairable,1775
+LG,Front,2019,Not spinning,Replaceable,-1
+Haier,Front,2021,Leaking,Replaceable,-1
+LG,Top,2022,Not spinning,Repairable,2665
+Haier,Front,2020,Noise,Repairable,2114
+Bosch,Top,2021,Power issue,Replaceable,-1
+Haier,Front,2016,Power issue,Repairable,518
+Whirlpool,Top,2022,Not spinning,Replaceable,-1
+Whirlpool,Top,2017,Power issue,Replaceable,-1
+Haier,Front,2014,Drum issue,Repairable,2278
+LG,Front,2013,Not spinning,Repairable,2628
+LG,Front,2015,Drum issue,Replaceable,-1
+Samsung,Top,2014,Not spinning,Replaceable,-1
+Whirlpool,Top,2016,Leaking,Repairable,2721
+IFB,Top,2014,Drum issue,Repairable,589
+Samsung,Front,2013,Drum issue,Repairable,1904
+Bosch,Top,2018,Not spinning,Replaceable,-1
+Haier,Top,2023,Noise,Repairable,1417
+Samsung,Front,2019,Noise,Repairable,1107
+LG,Top,2016,Power issue,Repairable,2893
+LG,Front,2022,Not spinning,Repairable,1770
+Samsung,Front,2013,Leaking,Replaceable,-1
+Haier,Front,2023,Not draining,Repairable,802
+Bosch,Top,2014,Noise,Replaceable,-1
+Bosch,Top,2016,Noise,Replaceable,-1
+IFB,Top,2021,Drum issue,Repairable,2795
+Samsung,Top,2020,Not draining,Repairable,2164
+LG,Top,2022,Leaking,Replaceable,-1
+Samsung,Front,2020,Not spinning,Replaceable,-1
+Samsung,Front,2019,Leaking,Replaceable,-1
+Bosch,Top,2014,Noise,Repairable,1478
+LG,Front,2016,Drum issue,Repairable,2250
+Whirlpool,Top,2012,Power issue,Repairable,2318
+Whirlpool,Top,2020,Not spinning,Repairable,2990
+Bosch,Front,2023,Noise,Repairable,538
+Whirlpool,Front,2019,Noise,Repairable,890
+IFB,Top,2017,Leaking,Repairable,2806
+Samsung,Top,2023,Drum issue,Repairable,2243
+IFB,Top,2012,Leaking,Repairable,2726
+IFB,Front,2013,Not draining,Repairable,789
+Whirlpool,Front,2021,Noise,Replaceable,-1
+Haier,Top,2021,Drum issue,Replaceable,-1
+IFB,Top,2021,Not spinning,Repairable,1756
+Haier,Top,2013,Leaking,Replaceable,-1
+Samsung,Top,2014,Not spinning,Repairable,2559
+LG,Front,2023,Power issue,Replaceable,-1
+IFB,Top,2019,Noise,Repairable,2727
+Haier,Front,2012,Not draining,Repairable,1593
+Samsung,Top,2015,Power issue,Repairable,2401
+Whirlpool,Front,2012,Power issue,Repairable,2020
+LG,Front,2015,Power issue,Replaceable,-1
+IFB,Front,2017,Not spinning,Repairable,2232
+IFB,Front,2023,Not spinning,Repairable,712
+Samsung,Top,2012,Noise,Repairable,2072
+LG,Front,2016,Power issue,Replaceable,-1
+Whirlpool,Top,2023,Noise,Repairable,1287
+Whirlpool,Top,2016,Not spinning,Replaceable,-1
+Haier,Top,2015,Not draining,Replaceable,-1
+Samsung,Top,2018,Leaking,Repairable,654
+IFB,Top,2015,Power issue,Repairable,2069
+Haier,Top,2023,Not draining,Repairable,2428
+LG,Front,2013,Not draining,Replaceable,-1
+Samsung,Top,2017,Drum issue,Repairable,1618
+Haier,Top,2023,Noise,Repairable,2457
+LG,Front,2012,Leaking,Repairable,947
+IFB,Front,2023,Not draining,Replaceable,-1
+Samsung,Top,2016,Drum issue,Replaceable,-1
+Haier,Front,2020,Drum issue,Repairable,1509
+Bosch,Top,2021,Drum issue,Repairable,991
+Haier,Top,2016,Power issue,Repairable,2255
+IFB,Front,2017,Not draining,Replaceable,-1
+Haier,Top,2013,Not spinning,Repairable,2203
+IFB,Top,2019,Noise,Repairable,610
+IFB,Top,2012,Not draining,Repairable,2439
+Samsung,Top,2021,Noise,Repairable,1233
+Haier,Top,2013,Drum issue,Repairable,2601
+LG,Front,2014,Not draining,Repairable,2716
+Bosch,Front,2016,Not spinning,Replaceable,-1
+LG,Top,2016,Not spinning,Repairable,1119
+Haier,Front,2016,Power issue,Replaceable,-1
+LG,Top,2021,Drum issue,Replaceable,-1
+LG,Top,2020,Drum issue,Repairable,2337
+Samsung,Front,2017,Noise,Repairable,2146
+Haier,Top,2019,Power issue,Repairable,2936
+Haier,Front,2019,Power issue,Repairable,1414
+LG,Top,2020,Not draining,Repairable,2039
+Bosch,Top,2018,Power issue,Repairable,733
+Haier,Top,2018,Noise,Repairable,1293
+Haier,Top,2019,Drum issue,Replaceable,-1
+Bosch,Front,2022,Not draining,Repairable,2077
+Whirlpool,Front,2016,Noise,Replaceable,-1
+Bosch,Top,2013,Drum issue,Replaceable,-1
+LG,Top,2019,Not spinning,Repairable,553
+Bosch,Front,2014,Drum issue,Replaceable,-1
+LG,Front,2013,Drum issue,Replaceable,-1
+Whirlpool,Top,2022,Leaking,Repairable,2993
+Bosch,Top,2017,Power issue,Repairable,1967
+IFB,Top,2017,Not draining,Repairable,2043
+Haier,Top,2017,Not spinning,Repairable,1320
+Whirlpool,Front,2019,Leaking,Repairable,2579
+Haier,Top,2022,Leaking,Repairable,2049
+Haier,Top,2019,Noise,Repairable,669
+LG,Top,2021,Noise,Repairable,1019
+Whirlpool,Front,2013,Not draining,Repairable,896
+LG,Front,2020,Noise,Repairable,2626
+LG,Top,2020,Not draining,Repairable,2124
+LG,Top,2015,Not spinning,Repairable,706
+Whirlpool,Front,2017,Not spinning,Repairable,1837
+LG,Top,2019,Drum issue,Repairable,962
+Whirlpool,Top,2020,Power issue,Repairable,1008
+Bosch,Top,2022,Not draining,Repairable,912
+Samsung,Top,2019,Not spinning,Repairable,2431
+IFB,Front,2016,Noise,Repairable,1613
+Haier,Front,2023,Drum issue,Repairable,2029
+Haier,Top,2022,Drum issue,Replaceable,-1
+Whirlpool,Top,2018,Noise,Replaceable,-1
+Haier,Top,2023,Power issue,Repairable,1423
+LG,Top,2013,Noise,Repairable,2404
+Samsung,Top,2012,Noise,Replaceable,-1
+LG,Top,2019,Not spinning,Repairable,690
+Bosch,Top,2022,Noise,Replaceable,-1
+Whirlpool,Top,2020,Noise,Repairable,1513
+Whirlpool,Top,2017,Not spinning,Repairable,2642
+Bosch,Top,2022,Leaking,Repairable,823
+Bosch,Top,2017,Not draining,Repairable,1089
+Whirlpool,Top,2012,Drum issue,Repairable,2035
+Bosch,Top,2023,Noise,Repairable,2262
+Bosch,Front,2021,Leaking,Repairable,1723
+IFB,Top,2019,Not draining,Repairable,1524
+Bosch,Top,2021,Not draining,Replaceable,-1
+LG,Front,2018,Leaking,Repairable,1079
+Haier,Top,2023,Power issue,Replaceable,-1
+Whirlpool,Top,2020,Noise,Replaceable,-1
+Haier,Top,2023,Not draining,Replaceable,-1
+Whirlpool,Front,2013,Not spinning,Repairable,2304
+Samsung,Top,2023,Leaking,Replaceable,-1
+Whirlpool,Front,2021,Leaking,Repairable,2196
+Whirlpool,Front,2022,Drum issue,Replaceable,-1
+LG,Front,2017,Noise,Repairable,1439
+IFB,Top,2019,Noise,Repairable,1048
+LG,Front,2013,Noise,Replaceable,-1
+Samsung,Front,2015,Power issue,Repairable,778
+LG,Top,2014,Power issue,Repairable,2798
+Samsung,Front,2012,Power issue,Repairable,595
+Whirlpool,Front,2023,Drum issue,Repairable,830
+Haier,Front,2015,Not spinning,Repairable,1889
+LG,Top,2023,Noise,Repairable,1955
+LG,Front,2015,Noise,Replaceable,-1
+Bosch,Top,2021,Not spinning,Replaceable,-1
+Samsung,Top,2012,Noise,Repairable,1484
+LG,Front,2023,Drum issue,Repairable,2467
+IFB,Top,2016,Power issue,Repairable,1975
+LG,Top,2019,Noise,Repairable,1943
+IFB,Top,2015,Leaking,Replaceable,-1
+Haier,Top,2017,Noise,Repairable,664
+Haier,Front,2023,Not draining,Repairable,661
+Bosch,Front,2019,Leaking,Replaceable,-1
+Whirlpool,Top,2012,Not spinning,Replaceable,-1
+Samsung,Front,2013,Noise,Repairable,1263
+LG,Front,2019,Power issue,Replaceable,-1
+IFB,Top,2022,Not draining,Repairable,2921
+Haier,Front,2015,Power issue,Repairable,1950
+Samsung,Top,2017,Not draining,Replaceable,-1
+LG,Top,2014,Power issue,Repairable,2571
+Haier,Front,2017,Power issue,Repairable,2443
+LG,Front,2014,Power issue,Repairable,1159
+Haier,Front,2022,Power issue,Repairable,1294
+LG,Top,2015,Noise,Repairable,2854
+LG,Top,2022,Power issue,Repairable,1899
+IFB,Front,2018,Noise,Replaceable,-1
+Haier,Front,2013,Not spinning,Repairable,2662
+Whirlpool,Top,2021,Not spinning,Replaceable,-1
+Haier,Top,2022,Not draining,Replaceable,-1
+LG,Front,2014,Drum issue,Repairable,1781
+IFB,Top,2021,Not draining,Repairable,2071
+Whirlpool,Top,2020,Leaking,Repairable,2983
+Bosch,Front,2022,Power issue,Replaceable,-1
+Samsung,Top,2021,Not draining,Repairable,1601
+Haier,Front,2012,Power issue,Replaceable,-1
+Bosch,Top,2012,Not draining,Repairable,2406
+Haier,Top,2013,Not draining,Repairable,2697
+Whirlpool,Front,2020,Leaking,Repairable,1834
+Whirlpool,Top,2012,Not spinning,Repairable,2522
+Haier,Top,2018,Power issue,Replaceable,-1
+Samsung,Top,2012,Leaking,Replaceable,-1
+Haier,Front,2018,Noise,Repairable,1920
+Bosch,Top,2014,Leaking,Repairable,1196
+Whirlpool,Front,2020,Drum issue,Repairable,772
+Bosch,Top,2014,Not draining,Repairable,2155
+Whirlpool,Top,2016,Leaking,Replaceable,-1
+Bosch,Front,2019,Drum issue,Repairable,1796
+Whirlpool,Top,2022,Drum issue,Repairable,1070
+Whirlpool,Top,2018,Noise,Replaceable,-1
+Bosch,Front,2013,Not draining,Repairable,2487
+LG,Top,2022,Drum issue,Repairable,1913
+Haier,Top,2017,Drum issue,Repairable,2234
+Haier,Front,2023,Not spinning,Replaceable,-1
+Samsung,Front,2023,Drum issue,Repairable,2410
+Haier,Front,2023,Power issue,Repairable,968
+Haier,Top,2018,Not draining,Replaceable,-1
+Haier,Top,2023,Drum issue,Repairable,1670
+Whirlpool,Front,2013,Leaking,Repairable,1534
+Samsung,Top,2017,Not draining,Replaceable,-1
+Whirlpool,Top,2018,Power issue,Repairable,1744
+Haier,Front,2016,Power issue,Replaceable,-1
+Whirlpool,Front,2022,Noise,Repairable,713
+Whirlpool,Top,2014,Noise,Repairable,1848
+Whirlpool,Front,2012,Drum issue,Repairable,2569
+LG,Front,2023,Leaking,Replaceable,-1
+LG,Top,2016,Leaking,Repairable,766
+Haier,Top,2015,Power issue,Replaceable,-1
+IFB,Top,2015,Not draining,Replaceable,-1
+Haier,Front,2014,Noise,Repairable,1341
+Bosch,Front,2018,Drum issue,Repairable,818
+Samsung,Front,2014,Leaking,Repairable,2629
+Haier,Front,2018,Not draining,Replaceable,-1
+LG,Front,2015,Leaking,Repairable,2010
+Haier,Top,2014,Not spinning,Repairable,1844
+Samsung,Front,2019,Drum issue,Repairable,2183
+Bosch,Top,2017,Noise,Repairable,2544
+IFB,Front,2018,Drum issue,Repairable,942
+LG,Front,2019,Drum issue,Replaceable,-1
+Haier,Front,2020,Leaking,Replaceable,-1
+Whirlpool,Front,2015,Not draining,Repairable,1399
+LG,Top,2018,Drum issue,Repairable,1123
+Samsung,Front,2021,Not spinning,Replaceable,-1
+LG,Front,2023,Drum issue,Repairable,716
+IFB,Top,2021,Power issue,Repairable,2363
+IFB,Front,2021,Power issue,Repairable,1567
+Samsung,Front,2016,Power issue,Repairable,2608
+Haier,Top,2018,Not draining,Repairable,1234
+Bosch,Front,2018,Noise,Repairable,1526
+LG,Front,2022,Drum issue,Repairable,2421
+Samsung,Front,2013,Not draining,Repairable,1267
+Bosch,Front,2018,Drum issue,Repairable,1894
+Whirlpool,Top,2015,Not spinning,Replaceable,-1
+Bosch,Top,2019,Leaking,Repairable,642
+Samsung,Top,2012,Power issue,Replaceable,-1
+Whirlpool,Front,2022,Not spinning,Repairable,2485
+Whirlpool,Front,2015,Not spinning,Repairable,1661
+Bosch,Front,2019,Drum issue,Repairable,747
+Bosch,Top,2018,Not draining,Repairable,1499
+Samsung,Front,2021,Not draining,Replaceable,-1
+Haier,Top,2016,Noise,Replaceable,-1
+LG,Front,2013,Leaking,Repairable,1649
+Whirlpool,Top,2020,Noise,Repairable,1547
+IFB,Front,2019,Power issue,Repairable,1175
+Haier,Top,2016,Drum issue,Replaceable,-1
+Whirlpool,Top,2016,Leaking,Repairable,1290
+Whirlpool,Top,2018,Drum issue,Repairable,621
+Haier,Top,2017,Drum issue,Repairable,687
+LG,Top,2014,Power issue,Replaceable,-1
+Bosch,Top,2022,Noise,Replaceable,-1
+Whirlpool,Front,2021,Power issue,Repairable,2958
+Bosch,Top,2012,Power issue,Repairable,2396
+LG,Front,2023,Not draining,Repairable,602
+Haier,Front,2019,Drum issue,Repairable,2739
+IFB,Top,2021,Leaking,Repairable,949
+Whirlpool,Front,2012,Noise,Replaceable,-1
+LG,Front,2019,Leaking,Replaceable,-1
+Whirlpool,Front,2017,Drum issue,Repairable,1106
+LG,Top,2012,Drum issue,Repairable,2081
+Whirlpool,Front,2014,Drum issue,Replaceable,-1
+Whirlpool,Front,2017,Leaking,Replaceable,-1
+Samsung,Front,2013,Not spinning,Repairable,1180
+Bosch,Top,2012,Not spinning,Replaceable,-1
+LG,Top,2020,Not draining,Repairable,2621
+IFB,Front,2013,Drum issue,Repairable,2248
+LG,Top,2012,Not draining,Replaceable,-1
+LG,Top,2019,Drum issue,Repairable,2139
+IFB,Top,2019,Noise,Repairable,1248
+Bosch,Front,2014,Not draining,Repairable,1040
+IFB,Top,2018,Leaking,Repairable,514
+Bosch,Front,2012,Noise,Repairable,938
+IFB,Front,2015,Drum issue,Replaceable,-1
+Whirlpool,Front,2016,Power issue,Repairable,826
+LG,Front,2015,Noise,Repairable,1837
+Samsung,Front,2023,Not spinning,Repairable,2891
+Bosch,Top,2020,Noise,Replaceable,-1
+Whirlpool,Front,2015,Not draining,Repairable,571
+LG,Top,2023,Not spinning,Repairable,2950
+Haier,Top,2017,Not draining,Repairable,747
+Haier,Top,2014,Not spinning,Repairable,2272
+LG,Top,2013,Not draining,Repairable,1314
+Whirlpool,Top,2019,Leaking,Repairable,1229
+Haier,Top,2022,Drum issue,Repairable,2649
+LG,Top,2022,Drum issue,Replaceable,-1
+Haier,Top,2017,Noise,Repairable,2712
+IFB,Top,2022,Leaking,Repairable,1339
+IFB,Front,2013,Not spinning,Repairable,861
+Haier,Front,2014,Not draining,Repairable,1167
+Haier,Front,2020,Power issue,Repairable,2424
+Whirlpool,Front,2013,Power issue,Repairable,536
+Haier,Front,2016,Not spinning,Repairable,1252
+IFB,Top,2022,Power issue,Repairable,2180
+Bosch,Front,2020,Noise,Repairable,1327
+Whirlpool,Top,2021,Not spinning,Replaceable,-1
+Samsung,Front,2018,Not spinning,Replaceable,-1
+IFB,Front,2019,Not draining,Repairable,2921
+Samsung,Top,2023,Leaking,Repairable,1019
+Whirlpool,Top,2014,Not spinning,Repairable,1530
+IFB,Top,2019,Noise,Replaceable,-1
+Whirlpool,Top,2012,Noise,Repairable,2029
+Bosch,Front,2014,Noise,Repairable,2017
+Bosch,Top,2016,Not spinning,Replaceable,-1
+LG,Front,2019,Leaking,Repairable,2972
+LG,Top,2018,Drum issue,Repairable,1747
+LG,Top,2019,Leaking,Repairable,2224
+LG,Top,2021,Leaking,Replaceable,-1
+IFB,Top,2017,Power issue,Replaceable,-1
+IFB,Front,2014,Power issue,Repairable,2408
+Bosch,Top,2021,Leaking,Repairable,1781
+Haier,Front,2018,Not draining,Replaceable,-1
+IFB,Top,2019,Not spinning,Repairable,2353
+Haier,Top,2017,Not draining,Repairable,784
+LG,Top,2014,Noise,Repairable,595
+Haier,Top,2022,Not spinning,Repairable,1601
+LG,Top,2016,Drum issue,Replaceable,-1
+Samsung,Top,2016,Not spinning,Repairable,587
+IFB,Top,2016,Drum issue,Repairable,1721
+Bosch,Front,2012,Not spinning,Repairable,850
+Haier,Top,2012,Leaking,Replaceable,-1
+Haier,Top,2020,Not draining,Repairable,1231
+IFB,Top,2018,Power issue,Repairable,982
+Samsung,Top,2015,Not spinning,Repairable,2062
+Samsung,Top,2013,Not spinning,Repairable,611
+Samsung,Top,2018,Drum issue,Repairable,2816
+Samsung,Front,2018,Not spinning,Replaceable,-1
+IFB,Top,2017,Noise,Replaceable,-1
+LG,Front,2020,Not spinning,Replaceable,-1
+Haier,Top,2014,Leaking,Repairable,1174
+Whirlpool,Front,2016,Not spinning,Repairable,2446
+Haier,Front,2019,Noise,Repairable,2258
+Samsung,Top,2020,Drum issue,Repairable,1988
+Whirlpool,Top,2018,Power issue,Repairable,2804
+Samsung,Top,2017,Leaking,Replaceable,-1
+IFB,Top,2023,Not draining,Repairable,1030
+Whirlpool,Front,2012,Not draining,Replaceable,-1
+Haier,Front,2020,Drum issue,Repairable,666
+Bosch,Front,2018,Leaking,Repairable,2154
+Samsung,Front,2020,Power issue,Repairable,1688
+Samsung,Front,2013,Not spinning,Replaceable,-1
+Haier,Top,2016,Not draining,Replaceable,-1
+LG,Front,2015,Not draining,Repairable,1216
+Bosch,Front,2017,Drum issue,Repairable,2640
+Bosch,Top,2012,Drum issue,Repairable,1413
+Haier,Top,2013,Not spinning,Repairable,527
+IFB,Front,2015,Noise,Repairable,1191
+Bosch,Top,2015,Drum issue,Repairable,512
+Samsung,Top,2020,Not draining,Replaceable,-1
+LG,Top,2023,Not spinning,Repairable,1032
+Samsung,Front,2014,Drum issue,Replaceable,-1
+Samsung,Top,2017,Not draining,Repairable,2284
+LG,Top,2020,Not draining,Replaceable,-1
+Whirlpool,Top,2013,Not draining,Replaceable,-1
+Bosch,Front,2014,Power issue,Repairable,2870
+Whirlpool,Front,2019,Power issue,Repairable,2424
+
