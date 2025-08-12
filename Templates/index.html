@@ -2,25 +2,65 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Epsilon Problem - E-Waste Collection</title>
-  <link rel="stylesheet" href="/static/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Electronic Appliance Resell and Repair Management</title>
+  <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/6020/6020634.png">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background-color: #000;
+      color: #EEE;
+      font-family: 'Orbitron', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      overflow: hidden;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .main-heading {
+      font-size: 4rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #E63946;
+      user-select: none;
+    }
+    .suffix {
+      font-size: 1.5rem;
+      color: #F1FAEE;
+      margin-top: 1rem;
+      letter-spacing: 0.05em;
+    }
+    @media (max-width: 768px) {
+      .main-heading {
+        font-size: 2.5rem;
+      }
+      .suffix {
+        font-size: 1rem;
+      }
+    }
+  </style>
+  <script>
+    setTimeout(() => {
+      window.location.href = '/gallery';
+    }, 3000);
+  </script>
 </head>
 <body>
-  <div class="header">
-    <div class="nav">
-      <a href="/">Home</a>
-      <a href="/gallery">Gallery</a>
-      <a href="/sell">Sell</a>
-      <a href="#">Contact</a>
-    </div>
+  <div class="container" role="main" aria-label="Entry page with Electronic Appliances text">
+    <div class="main-heading">ELECTRONIC APPLIANCES</div>
+    <div class="suffix">Resell and Repair Management</div>
   </div>
-  <div class="container">
-    <div class="content">
-      <h1 class="title">E-Waste Collection At Your Doorstep</h1>
-      <p class="subtitle">Convenient doorstep pickup for all e-waste, ensuring safe disposal and top payouts.</p>
-    </div>
-  </div>
-  <script src="/static/js/main.js"></script>
 </body>
 </html>

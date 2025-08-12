@@ -531,12 +531,7 @@ def batteries():
         result = {'repairable': repairable, 'action': action, 'cost': cost}
     return render_template('batteries.html', result=result, battery_types=battery_types, brands=brands, problems=problems)
 
-@app.route('/favicon.ico')
-def favicon():
-    try:
-        return send_from_directory('static', 'favicon.ico', mimetype='image/vnd.microsoft.icon')
-    except FileNotFoundError:
-        return '', 204
+
 
 @app.errorhandler(404)
 def page_not_found(e):
