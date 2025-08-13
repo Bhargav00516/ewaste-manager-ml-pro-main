@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Portal - Resell Price Predictor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-4">
+    <div class="container mx-auto p-6 bg-white rounded-lg shadow-lg">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Admin Portal</h1>
+        <table class="min-w-full bg-white border border-gray-300">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="py-2 px-4 border-b">Order No</th>
+                    <th class="py-2 px-4 border-b">Appliance</th>
+                    <th class="py-2 px-4 border-b">Problem</th>
+                    <th class="py-2 px-4 border-b">Brand</th>
+                    <th class="py-2 px-4 border-b">Age</th>
+                    <th class="py-2 px-4 border-b">Resell Cost</th>
+                    <th class="py-2 px-4 border-b">Name</th>
+                    <th class="py-2 px-4 border-b">Address</th>
+                    <th class="py-2 px-4 border-b">Phone</th>
+                    <th class="py-2 px-4 border-b">Submitted At</th>
+                    <th class="py-2 px-4 border-b">Confirmation Code</th>
+                    <th class="py-2 px-4 border-b">Status</th>
+                    <th class="py-2 px-4 border-b">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for submission in submissions %}
+                <tr class="hover:bg-gray-100">
+                    <td class="py-2 px-4 border-b">{{ submission.order_no }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.appliance }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.problem }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.brand }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.age }}</td>
+                    <td class="py-2 px-4 border-b">₹{{ submission.resell_cost }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.name }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.address }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.phone }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.submission_time }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.confirmation_code }}</td>
+                    <td class="py-2 px-4 border-b">{{ submission.status }}</td>
+                    <td class="py-2 px-4 border-b">
+                        <form action="/update_status/{{ submission.id }}" method="POST" class="inline">
+                            <select name="status" class="p-1 border rounded">
+                                <option value="Pending" {% if submission.status == 'Pending' %}selected{% endif %}>Pending</option>
+                                <option value="Viewed" {% if submission.status == 'Viewed' %}selected{% endif %}>Viewed</option>
+                                <option value="Sent" {% if submission.status == 'Sent' %}selected{% endif %}>Sent</option>
+                                <option value="Done" {% if submission.status == 'Done' %}selected{% endif %}>Done</option>
+                            </select>
+                            <button type="submit" class="ml-2 bg-blue-500 text-white p-1 rounded hover:bg-blue-600">Update</button>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="/" class="mt-4 inline-block bg-blue-600 text-white p-2 rounded-lg hover:bg-blue-700">Back to Home</a>
+    </div>
+    <script>
+        document.querySelectorAll('form').forEach(form => {
+            form.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const response = await fetch(form.action, {
+                    method: 'POST',
+                    body: new FormData(form)
+                });
+                const data = await response.json();
+                if (data.message) alert(data.message);
+            });
+        });
+    </script>
+</body>
+</html>

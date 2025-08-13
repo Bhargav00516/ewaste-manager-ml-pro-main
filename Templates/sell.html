@@ -1,86 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Resell Price Prediction</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resell Price Predictor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            padding: 20px;
+        @keyframes slideIn {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
         }
-        .container {
-            max-width: 500px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        .animate-slide-in {
+            animation: slideIn 0.5s ease-out forwards;
         }
-        select, input, button {
-            width: 100%;
-            padding: 10px;
-            margin: 8px 0;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-        button {
-            background-color: #28a745;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #218838;
-        }
-        #result {
-            margin-top: 20px;
-            color: #333;
-        }
-        .error {
-            color: red;
+        .hover-scale:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <h2>Resell Price Prediction</h2>
-        <form id="predictionForm">
-            <label>Appliance</label>
-            <select id="appliance" name="appliance" required>
-                <option value="">Select Appliance</option>
-                {% for appliance in appliances %}
-                    <option value="{{ appliance }}">{{ appliance }}</option>
-                {% endfor %}
-            </select>
+<body class="bg-gradient-to-br from-gray-100 to-blue-100 min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full animate-slide-in">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Resell Price Predictor</h1>
+        
+        <div class="space-y-6">
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Appliance</label>
+                <select id="appliance" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                    <option value="">Select Appliance</option>
+                    {% for appliance in appliances %}
+                        <option value="{{ appliance }}">{{ appliance }}</option>
+                    {% endfor %}
+                </select>
+            </div>
 
-            <label>Problem</label>
-            <select id="problem" name="problem" required>
-                <option value="">Select Problem</option>
-            </select>
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Problem</label>
+                <select id="problem" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                    <option value="">Select Problem</option>
+                </select>
+            </div>
 
-            <label>Brand</label>
-            <select id="brand" name="brand" required>
-                <option value="">Select Brand</option>
-            </select>
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Brand</label>
+                <select id="brand" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                    <option value="">Select Brand</option>
+                </select>
+            </div>
 
-            <label>Age (Years)</label>
-            <input type="number" id="age" name="age" min="0" required>
+            <div>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Age (Years)</label>
+                <input type="number" id="age" min="0" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+            </div>
 
-            <button type="submit">Get Resell Price</button>
-        </form>
+            <div class="flex space-x-4">
+                <button id="predictBtn" class="flex-1 bg-green-600 text-white p-3 rounded-lg hover:bg-green-700 hover-scale transition-colors">Get Resell Price</button>
+                <button id="checkoutBtn" class="flex-1 bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 hover-scale transition-colors" disabled onclick="window.location.href='/checkout'">Check Out</button>
+            </div>
 
-        <h3 id="result"></h3>
+            <div id="result" class="text-center text-lg font-semibold text-gray-800 mt-6"></div>
+        </div>
     </div>
 
     <script>
-        document.getElementById('appliance').addEventListener('change', function() {
+        const applianceSelect = document.getElementById('appliance');
+        const problemSelect = document.getElementById('problem');
+        const brandSelect = document.getElementById('brand');
+        const ageInput = document.getElementById('age');
+        const predictBtn = document.getElementById('predictBtn');
+        const checkoutBtn = document.getElementById('checkoutBtn');
+        const resultDiv = document.getElementById('result');
+
+        applianceSelect.addEventListener('change', function() {
             const appliance = this.value;
             console.log('Selected appliance:', appliance);
             if (!appliance) {
                 console.log('No appliance selected, resetting dropdowns');
-                document.getElementById('problem').innerHTML = '<option value="">Select Problem</option>';
-                document.getElementById('brand').innerHTML = '<option value="">Select Brand</option>';
-                document.getElementById('result').textContent = '';
+                problemSelect.innerHTML = '<option value="">Select Problem</option>';
+                brandSelect.innerHTML = '<option value="">Select Brand</option>';
+                resultDiv.textContent = '';
+                checkoutBtn.disabled = true;
                 return;
             }
             console.log('Fetching problems and brands for appliance:', appliance);
@@ -98,20 +97,19 @@
             })
             .then(data => {
                 console.log('Received data:', data);
-                let problemSelect = document.getElementById('problem');
-                let brandSelect = document.getElementById('brand');
                 problemSelect.innerHTML = '<option value="">Select Problem</option>';
                 brandSelect.innerHTML = '<option value="">Select Brand</option>';
+                checkoutBtn.disabled = true;
                 if (data.error) {
                     console.error('Server error:', data.error);
-                    document.getElementById('result').textContent = 'Error: ' + data.error;
-                    document.getElementById('result').classList.add('error');
+                    resultDiv.textContent = 'Error: ' + data.error;
+                    resultDiv.classList.add('text-red-500');
                     return;
                 }
                 if (!data.problems.length || !data.brands.length) {
                     console.warn('No problems or brands returned for appliance:', appliance);
-                    document.getElementById('result').textContent = 'No problems or brands available for this appliance';
-                    document.getElementById('result').classList.add('error');
+                    resultDiv.textContent = 'No problems or brands available for this appliance';
+                    resultDiv.classList.add('text-red-500');
                     return;
                 }
                 data.problems.forEach(p => {
@@ -126,20 +124,31 @@
                     opt.textContent = b;
                     brandSelect.appendChild(opt);
                 });
-                document.getElementById('result').textContent = '';
-                document.getElementById('result').classList.remove('error');
+                resultDiv.textContent = '';
+                resultDiv.classList.remove('text-red-500');
             })
             .catch(error => {
                 console.error('Fetch error:', error);
-                document.getElementById('result').textContent = 'Error loading problems and brands';
-                document.getElementById('result').classList.add('error');
+                resultDiv.textContent = 'Error loading problems and brands';
+                resultDiv.classList.add('text-red-500');
+                checkoutBtn.disabled = true;
             });
         });
 
-        document.getElementById('predictionForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            document.getElementById('result').classList.remove('error');
-            let formData = new FormData(this);
+        predictBtn.addEventListener('click', function() {
+            if (!applianceSelect.value || !problemSelect.value || !brandSelect.value || !ageInput.value) {
+                resultDiv.textContent = 'Please fill in all fields';
+                resultDiv.classList.add('text-red-500');
+                checkoutBtn.disabled = true;
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('appliance', applianceSelect.value);
+            formData.append('problem', problemSelect.value);
+            formData.append('brand', brandSelect.value);
+            formData.append('age', ageInput.value);
+
             console.log('Submitting form data:', Object.fromEntries(formData));
             fetch('/predict', {
                 method: 'POST',
@@ -155,16 +164,20 @@
             .then(data => {
                 console.log('Prediction response:', data);
                 if (data.error) {
-                    document.getElementById('result').textContent = 'Error: ' + data.error;
-                    document.getElementById('result').classList.add('error');
+                    resultDiv.textContent = 'Error: ' + data.error;
+                    resultDiv.classList.add('text-red-500');
+                    checkoutBtn.disabled = true;
                 } else {
-                    document.getElementById('result').textContent = `Predicted Resell Price: ₹${data.resell_cost}`;
+                    resultDiv.textContent = `Predicted Resell Price: ₹${data.resell_cost}`;
+                    resultDiv.classList.remove('text-red-500');
+                    checkoutBtn.disabled = false;
                 }
             })
             .catch(error => {
                 console.error('Prediction error:', error);
-                document.getElementById('result').textContent = 'Error predicting resell price';
-                document.getElementById('result').classList.add('error');
+                resultDiv.textContent = 'Error predicting resell price';
+                resultDiv.classList.add('text-red-500');
+                checkoutBtn.disabled = true;
             });
         });
     </script>

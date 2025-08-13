@@ -2,9 +2,19 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
-from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask import Flask, render_template, request, jsonify, send_from_directory, session, redirect, url_for
 import logging
 import joblib
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import text
+from flask_mail import Mail, Message
+import os
+import uuid
+from datetime import datetime
+from dotenv import load_dotenv
+
+# Load environment variables from .env file if present
+load_dotenv()
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
@@ -12,8 +22,48 @@ logger = logging.getLogger(__name__)
 
 # Initialize Flask app
 app = Flask(__name__)
+app.secret_key = os.urandom(24)  # Secure random key for sessions
 
-# Global variables for datasets and encoders
+# MySQL Database Configuration
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Bhargav%40200516@localhost/ewaste_manager'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+
+# Email Configuration
+from flask_mail import Mail
+
+app.config['MAIL_SERVER'] = 'smtp.gmail.com'
+app.config['MAIL_PORT'] = 587
+app.config['MAIL_USE_TLS'] = True
+app.config['MAIL_USERNAME'] = 'kurapatibhargav005@gmail.com'  # Your Gmail
+app.config['MAIL_PASSWORD'] = 'ukuktessaaxlgvjy'  # Your App Password
+app.config['MAIL_DEFAULT_SENDER'] = 'bhargavanagavenkatasaikurapati.com'  # Fix for AssertionError
+
+mail = Mail(app)
+
+# Database Model
+class Submission(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    appliance = db.Column(db.String(100), nullable=False)
+    problem = db.Column(db.String(100), nullable=False)
+    brand = db.Column(db.String(100), nullable=False)
+    age = db.Column(db.Integer, nullable=False)
+    resell_cost = db.Column(db.Float, nullable=False)
+    name = db.Column(db.String(100), nullable=False)
+    address = db.Column(db.String(200), nullable=False)
+    phone = db.Column(db.String(20), nullable=False)
+    submission_time = db.Column(db.DateTime, default=datetime.utcnow)
+    confirmation_code = db.Column(db.String(36))
+    status = db.Column(db.String(20), default='Pending')
+    order_no = db.Column(db.String(20), unique=True, nullable=False)
+
+# Function to generate order number
+def generate_order_no():
+    current_date = datetime.now().strftime('%Y%m%d')
+    random_part = str(uuid.uuid4().int)[:6]
+    return f"{current_date}-{random_part}"
+
+# Global variables for datasets and encoders (your existing code)
 refrig_df = None
 refrig_le_company = None
 refrig_le_type = None
@@ -49,7 +99,7 @@ battery_df = None
 df_original = None
 label_encoders = {}
 
-# --- Refrigerator Prediction Logic ---
+# --- Refrigerator Prediction Logic --- (your existing code)
 try:
     refrig_df = pd.read_csv('refrigerator_repair_dataset.csv')
     refrig_le_company = LabelEncoder()
@@ -93,7 +143,7 @@ def predict_refrigerator(company, type_, year, problem):
         logger.error(f"Error in refrigerator prediction: {str(e)}")
         return "Invalid input values"
 
-# --- Washing Machine Prediction Logic ---
+# --- Washing Machine Prediction Logic --- (your existing code)
 try:
     wm_df = pd.read_csv('wm.csv')
     wm_df['Cost'] = wm_df['Cost'].replace(-1, np.nan)
@@ -142,7 +192,7 @@ def predict_washing_machine(company, type_, year, problem):
         logger.error(f"Error in washing machine prediction: {str(e)}")
         return "Invalid input values"
 
-# --- Printer Prediction Logic ---
+# --- Printer Prediction Logic --- (your existing code)
 try:
     printer_df = pd.read_csv('printer_xerox_repair_dataset.csv')
     printer_le_brand = LabelEncoder()
@@ -186,7 +236,7 @@ def predict_printer(brand, type_, year, problem):
         logger.error(f"Error in printer prediction: {str(e)}")
         return "Invalid input values"
 
-# --- Appliance Prediction Logic ---
+# --- Appliance Prediction Logic --- (your existing code)
 try:
     appliance_df = pd.read_csv('appliance_diagnosis_dataset.csv')
     appliance_df['RepairCost'] = pd.to_numeric(appliance_df['RepairCost'], errors='coerce')
@@ -198,7 +248,6 @@ try:
     appliance_df['ApplianceType'] = appliance_le_appliance.fit_transform(appliance_df['ApplianceType'])
     appliance_df['SubType'] = appliance_le_subtype.fit_transform(appliance_df['SubType'])
     appliance_df['Problem'] = appliance_le_problem.fit_transform(appliance_df['Problem'])
-    # Updated to current date: August 09, 2025
     appliance_df['YearDiff'] = 2025 - appliance_df['Year']
     appliance_X_clf = appliance_df[['ApplianceType', 'SubType', 'Problem', 'YearDiff']]
     appliance_y_clf = appliance_df['Repairability'].map({'Repairable': 1, 'Replaceable': 0})
@@ -227,7 +276,7 @@ def predict_appliance(appliance_type, subtype, year, problem):
         appliance_enc = appliance_le_appliance.transform([appliance_type])[0]
         subtype_enc = appliance_le_subtype.transform([subtype])[0]
         problem_enc = appliance_le_problem.transform([problem])[0]
-        year_diff = 2025 - int(year)  # Updated to 2025
+        year_diff = 2025 - int(year)
         input_data = pd.DataFrame({
             'ApplianceType': [appliance_enc],
             'SubType': [subtype_enc],
@@ -244,7 +293,7 @@ def predict_appliance(appliance_type, subtype, year, problem):
         logger.error(f"Error in appliance prediction: {str(e)}")
         return "Invalid input values"
 
-# --- Mobile Phone Prediction Logic ---
+# --- Mobile Phone Prediction Logic --- (your existing code)
 try:
     mobile_df = pd.read_csv('mobile_phone_repair_dataset.csv')
     mobile_df['Cost'] = mobile_df['Cost'].replace(-1, np.nan)
@@ -295,7 +344,7 @@ def predict_mobile_phone(brand, feature, os, year, problem):
         logger.error(f"Error in mobile phone prediction: {str(e)}")
         return "Invalid input values"
 
-# --- Battery Prediction Logic ---
+# --- Battery Prediction Logic --- (your existing code)
 try:
     battery_df = pd.read_csv('battery_problems_1000.csv')
 except FileNotFoundError:
@@ -321,27 +370,22 @@ def predict_battery(battery_type, brand, problem):
     else:
         return 'No', 'Not Repairable - Need to Buy New One', -1.0
 
-# --- Resell Prediction Logic ---
+# --- Resell Prediction Logic --- (your existing code)
 try:
     df_original = pd.read_csv("resell_data.csv")
-    # Normalize data: strip spaces, convert to title case, handle special characters
     for col in ["Appliance", "Brand", "Problem"]:
         df_original[col] = df_original[col].astype(str).str.strip().str.title()
-    # Ensure Resell_Cost is numeric
     df_original["Resell_Cost"] = pd.to_numeric(df_original["Resell_Cost"], errors='coerce')
-    df_original = df_original.dropna(subset=["Resell_Cost"])  # Drop rows with invalid Resell_Cost
-    # Encode categorical variables for ML model
+    df_original = df_original.dropna(subset=["Resell_Cost"])
     df_encoded = df_original.copy()
     for col in ["Brand", "Appliance", "Problem"]:
         le = LabelEncoder()
         df_encoded[col] = le.fit_transform(df_encoded[col])
         label_encoders[col] = le
-    # Train ML model
     X = df_encoded[["Brand", "Appliance", "Problem", "Age"]]
     y = df_original["Resell_Cost"]
     model = RandomForestRegressor(n_estimators=200, random_state=42)
     model.fit(X, y)
-    # Save model and encoders
     joblib.dump(model, "model.pkl")
     joblib.dump(label_encoders, "encoders.pkl")
     logger.info("Resell model and encoders loaded successfully")
@@ -350,7 +394,7 @@ except FileNotFoundError:
 except Exception as e:
     logger.error(f"Error loading resell_data.csv: {str(e)}")
 
-# Define subtype and problem categories
+# Define subtype and problem categories (your existing code)
 subtype_categories = {
     'TV': ['Old TV', 'LED', 'LCD'],
     'Computer': ['Laptop', 'Desktop']
@@ -373,7 +417,7 @@ problem_categories = {
     }
 }
 
-# Flask Routes
+# Flask Routes (your existing routes + new ones)
 @app.route('/', methods=['GET'])
 def home():
     return render_template('index.html')
@@ -429,6 +473,16 @@ def predict():
         problem_enc = encoders["Problem"].transform([problem])[0]
         pred_price = model.predict([[brand_enc, appliance_enc, problem_enc, age]])[0]
         logger.debug(f"Predicted resell price: {pred_price}")
+
+        # Save to session for checkout
+        session['submission'] = {
+            'appliance': appliance,
+            'problem': problem,
+            'brand': brand,
+            'age': age,
+            'resell_cost': round(pred_price, 2)
+        }
+
         return jsonify({"resell_cost": round(pred_price, 2)})
     except Exception as e:
         logger.error(f"Error in resell prediction: {str(e)}")
@@ -531,7 +585,94 @@ def batteries():
         result = {'repairable': repairable, 'action': action, 'cost': cost}
     return render_template('batteries.html', result=result, battery_types=battery_types, brands=brands, problems=problems)
 
+# New Routes for Checkout and Admin
+@app.route('/checkout')
+def checkout():
+    submission = session.get('submission')
+    if not submission:
+        return redirect(url_for('sell'))  # Redirect to sell page if no prediction data
+    return render_template('checkout.html', submission=submission)
 
+@app.route('/proceed', methods=['POST'])
+def proceed():
+    submission = session.get('submission')
+    if not submission:
+        return jsonify({'error': 'No submission data'}), 400
+    
+    name = request.form['name']
+    address = request.form['address']
+    phone = request.form['phone']
+    
+    confirmation_code = str(uuid.uuid4())
+    order_no = generate_order_no()
+    
+    new_submission = Submission(
+        appliance=submission['appliance'],
+        problem=submission['problem'],
+        brand=submission['brand'],
+        age=submission['age'],
+        resell_cost=submission['resell_cost'],
+        name=name,
+        address=address,
+        phone=phone,
+        confirmation_code=confirmation_code,
+        order_no=order_no
+    )
+    db.session.add(new_submission)
+    db.session.commit()
+    
+    user_msg = Message('Resell Submission Confirmation', sender=app.config['MAIL_USERNAME'], recipients=['bhargavanagavenkatasaikurapati@gmail.com'])
+    user_msg.body = f"""
+    Thank you for your submission!
+    Order No: {order_no}
+    Confirmation Code: {confirmation_code}
+    Details:
+    Appliance: {submission['appliance']}
+    Problem: {submission['problem']}
+    Brand: {submission['brand']}
+    Age: {submission['age']} years
+    Resell Cost: ₹{submission['resell_cost']}
+    Please use this code to authenticate with the admin.
+    """
+    mail.send(user_msg)
+    
+    admin_msg = Message('New Site Visit Request', sender=app.config['MAIL_USERNAME'], recipients=['kurapatibhargav005@gmail.com'])
+    admin_msg.body = f"""
+    New submission:
+    Order No: {order_no}
+    Appliance: {submission['appliance']}
+    Problem: {submission['problem']}
+    Brand: {submission['brand']}
+    Age: {submission['age']} years
+    Resell Cost: ₹{submission['resell_cost']}
+    Name: {name}
+    Address: {address}
+    Phone: {phone}
+    Confirmation Code: {confirmation_code}
+    """
+    mail.send(admin_msg)
+    
+    session.pop('submission', None)
+    return redirect(url_for('success'))
+
+@app.route('/success')
+def success():
+    return "Submission successful! Check your email for confirmation."
+
+@app.route('/admin')
+def admin():
+    submissions = Submission.query.all()
+    return render_template('admin.html', submissions=submissions)
+
+@app.route('/update_status/<int:id>', methods=['POST'])
+def update_status(id):
+    submission = Submission.query.get_or_404(id)
+    new_status = request.form.get('status')
+    if new_status in ['Pending', 'Viewed', 'Sent', 'Done']:
+        submission.status = new_status
+        db.session.commit()
+        return jsonify({'message': 'Status updated successfully', 'status': new_status})
+    return jsonify({'error': 'Invalid status'}), 400
 
 @app.errorhandler(404)
 def page_not_found(e):

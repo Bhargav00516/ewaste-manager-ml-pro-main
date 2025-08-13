@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Resell Price Predictor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes slideIn {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        .animate-slide-in {
+            animation: slideIn 0.5s ease-out forwards;
+        }
+        .hover-scale:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-gray-100 to-blue-100 min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full animate-slide-in">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Checkout</h1>
+        
+        <div class="space-y-6">
+            <div class="text-center text-lg text-gray-600">
+                <p><strong>Order No:</strong> (Will be generated on Proceed)</p>
+                <p><strong>Appliance:</strong> {{ submission.appliance }}</p>
+                <p><strong>Problem:</strong> {{ submission.problem }}</p>
+                <p><strong>Brand:</strong> {{ submission.brand }}</p>
+                <p><strong>Age:</strong> {{ submission.age }} years</p>
+                <p><strong>Predicted Resell Price:</strong> ₹{{ submission.resell_cost }}</p>
+            </div>
+            
+            <form action="/proceed" method="POST">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Name</label>
+                    <input type="text" name="name" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Address (for Site Visit)</label>
+                    <input type="text" name="address" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Phone</label>
+                    <input type="tel" name="phone" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-colors" required>
+                </div>
+                <button type="submit" class="w-full bg-green-600 text-white p-3 rounded-lg hover:bg-green-700 hover-scale transition-colors mt-4">Proceed</button>
+            </form>
+            
+            <button onclick="window.location.href='/sell'" class="w-full bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 hover-scale transition-colors">Return to Sell</button>
+        </div>
+    </div>
+</body>
+</html>
