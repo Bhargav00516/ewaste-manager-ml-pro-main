@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # MySQL Database Configuration with corrected connection string
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Bhargav%40200516@localhost/ewaste_manager'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sql connection'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
@@ -27,7 +27,7 @@ def check_database_connection(username, password):
 # Test route to verify database connection using the function
 @app.route('/')
 def home():
-    result = check_database_connection('root', 'Bhargav@200516')
+    result = check_database_connection('username','password')
     return result
 
 if __name__ == '__main__':
