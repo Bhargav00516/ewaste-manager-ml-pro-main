@@ -25,7 +25,7 @@ app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Secure random key for sessions
 
 # MySQL Database Configuration
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:Bhargav%40200516@localhost/ewaste_manager'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sql connector'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
