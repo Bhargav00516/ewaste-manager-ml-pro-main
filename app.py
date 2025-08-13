@@ -35,9 +35,9 @@ from flask_mail import Mail
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'kurapatibhargav005@gmail.com'  # Your Gmail
-app.config['MAIL_PASSWORD'] = 'ukuktessaaxlgvjy'  # Your App Password
-app.config['MAIL_DEFAULT_SENDER'] = 'bhargavanagavenkatasaikurapati.com'  # Fix for AssertionError
+app.config['MAIL_USERNAME'] = ''  # Your Gmail
+app.config['MAIL_PASSWORD'] = ''  # Your App Password
+app.config['MAIL_DEFAULT_SENDER'] = ''  # Fix for AssertionError
 
 mail = Mail(app)
 
@@ -621,7 +621,7 @@ def proceed():
     db.session.add(new_submission)
     db.session.commit()
     
-    user_msg = Message('Resell Submission Confirmation', sender=app.config['MAIL_USERNAME'], recipients=['bhargavanagavenkatasaikurapati@gmail.com'])
+    user_msg = Message('Resell Submission Confirmation', sender=app.config['MAIL_USERNAME'], recipients=['receiver mail'])
     user_msg.body = f"""
     Thank you for your submission!
     Order No: {order_no}
@@ -636,7 +636,7 @@ def proceed():
     """
     mail.send(user_msg)
     
-    admin_msg = Message('New Site Visit Request', sender=app.config['MAIL_USERNAME'], recipients=['kurapatibhargav005@gmail.com'])
+    admin_msg = Message('New Site Visit Request', sender=app.config['MAIL_USERNAME'], recipients=['admin mail'])
     admin_msg.body = f"""
     New submission:
     Order No: {order_no}
